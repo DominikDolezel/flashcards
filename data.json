@@ -1,0 +1,46 @@
+{
+    "sets": {
+        "1": {
+            "id": 1,
+            "cards": {
+                "1": {
+                  "id": 1,
+                  "question": "",
+                  "term": "el coche",
+                  "definition": "auto",
+                  "images": []
+                },
+                "2": {
+                  "id": 2,
+                  "question": "",
+                  "term": "el tranvía",
+                  "definition": "tramvaj",
+                  "images": []
+                },
+                "3": {
+                  "id": 3,
+                  "question": "",
+                  "term": "hola",
+                  "definition": "ahoj",
+                  "images": []
+                },
+                "4": {
+                  "id": 4,
+                  "question": "",
+                  "term": "la bici",
+                  "definition": "kolo",
+                  "images": []
+                },
+                "5": {
+                  "id": 5,
+                  "question": "",
+                  "term": "la tele",
+                  "definition": "televize",
+                  "images": []
+                }
+            },
+            "description": "A test.",
+            "name": "test"
+        }
+    }
+}
