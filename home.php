@@ -81,6 +81,7 @@
      </div>
      <div class='object'>
          <h4>Vaše složky</h4>
+     </div>
          <div class='d-flex flex-row bd-highlight d-flex justify-content-start'>
          <?php
     if ($folders_to_show == []) {
@@ -93,7 +94,7 @@
                    break;
                }
            }
-           echo "<div class='object' style='min-width:30%'><a href='sets.php?folder_id=" . (string)$folder["id"] . "'><div class='card'><div class='card-body'><h5 class='card-title' style='font-family: Raleway, sans-serif;'>" . $folder["name"] . "</h5><h6 class='card-subtitle'>" . (string)count($folder["sets"]) . " setů</h6></div></div></a></div>";
+           echo "<div class='object' style='min-width:30%'><a class='nocolor' href='sets.php?folder_id=" . (string)$folder["id"] . "'><div class='card'><div class='card-body'><h5 class='card-title' style='font-family: Raleway, sans-serif;'>" . $folder["name"] . "</h5><h6 class='card-subtitle'>" . (string)count($folder["sets"]) . " setů</h6></div></div></a></div>";
        }
     ?>
      </div>
