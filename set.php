@@ -43,30 +43,32 @@
     ?>
 </head>
 <body>
-<div class="d-flex flex-row bd-highlight d-flex justify-content-center">
-<div style="padding:2em;min-width:50%">
-	<div class="card">
-	  <div class="card-body">
-			<h2 style="font-family: Raleway, sans-serif;"><?php echo $set["name"]; ?></h2><hr>
-			<p><?php echo $set["description"]; ?></p>
-			<button type="button" class="btn btn-primary" onclick="location.href='select_card.php?set_id=<?php echo (string)$set_id; ?>';">Spustit</button>
-			<div style="padding-top:10px">
-			<hr>
-			<h6>Karty:</h6>
-			<table class="table">
-			  <tbody>
-			  	<?php 
-			  		foreach($set["cards"] as $card){
-			  			echo "<tr><td>" . $card["term"] . "</td><td>" . $card["definition"] . "</td></tr>";
-			  		}
-			  	?>
-			  </tbody>
-			</table>
-			</div>
-	  </div>
-	</div>
-</div>
-</div>
-</div>
+    <?php include('templates/header.html'); ?>
+
+    <div class="d-flex flex-row bd-highlight d-flex justify-content-center">
+        <div style="padding:2em;min-width:50%">
+        	<div class="card">
+        	  <div class="card-body">
+        			<h2 style="font-family: Raleway, sans-serif;"><?php echo $set["name"]; ?></h2><hr>
+        			<p><?php echo $set["description"]; ?></p>
+        			<button type="button" class="btn btn-primary" onclick="location.href='select_card.php?set_id=<?php echo (string)$set_id; ?>';">Spustit</button>
+        			<div style="padding-top:10px">
+        			<hr>
+        			<h6>Karty:</h6>
+        			<table class="table">
+        			  <tbody>
+        			  	<?php
+        			  		foreach($set["cards"] as $card){
+        			  			echo "<tr><td>" . $card["term"] . "</td><td>" . $card["definition"] . "</td></tr>";
+        			  		}
+        			  	?>
+        			  </tbody>
+        			</table>
+        			</div>
+        	  </div>
+        	</div>
+        </div>
+        </div>
+    </div>
 </body>
 </html>
