@@ -1,3 +1,4 @@
+<?php session_start(); ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -100,6 +101,7 @@
             		fwrite($myfile, json_encode($data, JSON_PRETTY_PRINT));
             		fclose($myfile);
                     $_SESSION["user_id"] = $to_add["id"];
+                    $_SESSION["user"] = $to_add;
             		header('Location: home.php');
             		die();
             	}

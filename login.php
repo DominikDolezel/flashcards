@@ -1,3 +1,4 @@
+<?php session_start(); ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -87,6 +88,7 @@
                     }
                     if (password_verify($password, $user["password"])){
                         $_SESSION["user_id"] = $to_add["id"];
+                        $_SESSION["user"] = $user;
                 		header('Location: home.php');
                 		die();
                     }
