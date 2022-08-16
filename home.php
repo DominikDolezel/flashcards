@@ -63,7 +63,7 @@
          <div class='d-flex flex-row bd-highlight d-flex justify-content-start'>
          <?php
         if ($sets_to_show == []) {
-            echo "<p>Zatím jste nevytvořili žádné sety. Až tak učiníte, objeví se tady.</p>";
+            echo "<p class='object'>Zatím jste nevytvořili žádné sety. Až tak učiníte, objeví se tady.</p>";
         }
            foreach ($sets_to_show as $set_id) {
                foreach ($data["sets"] as $s) {
@@ -77,15 +77,12 @@
     ?>
      </div>
      <div class='object'>
-     <hr>
-     </div>
-     <div class='object'>
          <h4>Vaše složky</h4>
      </div>
          <div class='d-flex flex-row bd-highlight d-flex justify-content-start'>
          <?php
     if ($folders_to_show == []) {
-        echo "<p>Zatím jste nevytvořili žádné složky. Až tak učiníte, objeví se tady.</p>";
+        echo "<p class='object'>Zatím jste nevytvořili žádné složky. Až tak učiníte, objeví se tady.</p>";
     }
        foreach ($folders_to_show as $folder_id) {
            foreach ($data["folders"] as $f) {
