@@ -76,7 +76,7 @@
                             }
                             $set_id = 1;
 
-                            if ($data["sets"] != []) {
+                            if (empty($data["sets"])) {
                                 $set_id = (int)$data["sets"][-1]["id"] + 1;
                             }
                             array_push($data["users"][$index]["sets_created"], $set_id);

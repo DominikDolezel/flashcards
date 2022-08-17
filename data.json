@@ -2,15 +2,21 @@
     "folders": [],
     "users": [
         {
-            "studied": [],
+            "studied": {
+                "2": 2
+            },
             "sets_created": [
-                1
+                1,
+                2
             ],
-            "email": "dominik.dolezel@email.cz",
+            "id": 1,
             "folders_created": [],
             "login": "dodo",
             "password": "$2y$10$sCbiB60ZKoo5lcliHDk\/GOyM4QFNkdFPeustJDgufK7Jw.GRxbpEm",
-            "id": 1
+            "email": "dominik.dolezel@email.cz"
+        },
+        {
+            "studied": null
         }
     ],
     "sets": [
@@ -25,9 +31,563 @@
                 }
             },
             "author_id": 1,
+            "description": "desc",
             "id": 1,
-            "name": "test",
-            "description": "desc"
+            "name": "test"
+        },
+        {
+            "cards": {
+                "56": {
+                    "images": [],
+                    "definition": "pt\u00e1k, pt\u00e1ci\r",
+                    "term": "der Vogel, die V\u00f6gel",
+                    "question": "",
+                    "id": 56
+                },
+                "77": {
+                    "images": [],
+                    "definition": "Nerozum\u00edm.\r",
+                    "term": "Ich verstehe nicht.",
+                    "question": "",
+                    "id": 77
+                },
+                "54": {
+                    "images": [],
+                    "definition": "klav\u00edr, klav\u00edry\r",
+                    "term": "das Klavier, die Klaviere",
+                    "question": "",
+                    "id": 54
+                },
+                "42": {
+                    "images": [],
+                    "definition": "\u010dokol\u00e1da\/y\r",
+                    "term": "die Schockolade, die Schockoladen",
+                    "question": "",
+                    "id": 42
+                },
+                "48": {
+                    "images": [],
+                    "definition": "mobil, mobily\r",
+                    "term": "das Handy, die Handys",
+                    "question": "",
+                    "id": 48
+                },
+                "43": {
+                    "images": [],
+                    "definition": "hra, hry\r",
+                    "term": "das Spiel, die Spiele",
+                    "question": "",
+                    "id": 43
+                },
+                "60": {
+                    "images": [],
+                    "definition": "zoologick\u00e1 zahrada\r",
+                    "term": "der Zoo, die Zoos",
+                    "question": "",
+                    "id": 60
+                },
+                "61": {
+                    "images": [],
+                    "definition": "na (vodorovn\u00e1 plocha)\r",
+                    "term": "auf",
+                    "question": "",
+                    "id": 61
+                },
+                "62": {
+                    "images": [],
+                    "definition": "na shledanou\r",
+                    "term": "Auf Wiedersehen",
+                    "question": "",
+                    "id": 62
+                },
+                "63": {
+                    "images": [],
+                    "definition": "ahoj (p\u0159i lou\u010den\u00ed)\r",
+                    "term": "Tsch\u00fcss",
+                    "question": "",
+                    "id": 63
+                },
+                "64": {
+                    "images": [],
+                    "definition": "d\u00edky\r",
+                    "term": "danke",
+                    "question": "",
+                    "id": 64
+                },
+                "49": {
+                    "images": [],
+                    "definition": "tenis\r",
+                    "term": "das Tennis, die Tennis",
+                    "question": "",
+                    "id": 49
+                },
+                "66": {
+                    "images": [],
+                    "definition": "tady\r",
+                    "term": "hier",
+                    "question": "",
+                    "id": 66
+                },
+                "67": {
+                    "images": [],
+                    "definition": "ano\r",
+                    "term": "ja",
+                    "question": "",
+                    "id": 67
+                },
+                "68": {
+                    "images": [],
+                    "definition": "ne, nikoli\r",
+                    "term": "nein",
+                    "question": "",
+                    "id": 68
+                },
+                "69": {
+                    "images": [],
+                    "definition": "(spojka) a\r",
+                    "term": "und",
+                    "question": "",
+                    "id": 69
+                },
+                "52": {
+                    "images": [],
+                    "definition": "housle (g)\r",
+                    "term": "die Geige, die Geigen",
+                    "question": "",
+                    "id": 52
+                },
+                "53": {
+                    "images": [],
+                    "definition": "hr\u00e1t na housle\r",
+                    "term": "Violine spielen",
+                    "question": "",
+                    "id": 53
+                },
+                "24": {
+                    "images": [],
+                    "definition": "kytara, kytary\r",
+                    "term": "die Gitarre, die Gitarren",
+                    "question": "",
+                    "id": 24
+                },
+                "25": {
+                    "images": [],
+                    "definition": "k\u00e1va\/k\u00e1vy\r",
+                    "term": "der Kaffee, die Kaffees",
+                    "question": "",
+                    "id": 25
+                },
+                "26": {
+                    "images": [],
+                    "definition": "fotoapar\u00e1t\r",
+                    "term": "die Kamera, die Kameras",
+                    "question": "",
+                    "id": 26
+                },
+                "27": {
+                    "images": [],
+                    "definition": "klokan\r",
+                    "term": "das K\u00e4nguru, die K\u00e4ngurus",
+                    "question": "",
+                    "id": 27
+                },
+                "20": {
+                    "images": [],
+                    "definition": "\u017eena, pan\u00ed\r",
+                    "term": "die Frau, die Frauen",
+                    "question": "",
+                    "id": 20
+                },
+                "21": {
+                    "images": [],
+                    "definition": "p\u00e1n\r",
+                    "term": "der Herr, die Herren",
+                    "question": "",
+                    "id": 21
+                },
+                "22": {
+                    "images": [],
+                    "definition": "\u017e\u00e1ba\r",
+                    "term": "der Frosch, die Fr\u00f6sche",
+                    "question": "",
+                    "id": 22
+                },
+                "23": {
+                    "images": [],
+                    "definition": "fotbal\r",
+                    "term": "der Fu\u00dfball, die Fu\u00dfb\u00e4lle",
+                    "question": "",
+                    "id": 23
+                },
+                "46": {
+                    "images": [],
+                    "definition": "den, dny\r",
+                    "term": "der Tag, die Tage",
+                    "question": "",
+                    "id": 46
+                },
+                "47": {
+                    "images": [],
+                    "definition": "telefon\r",
+                    "term": "das Telefon, die Telefone",
+                    "question": "",
+                    "id": 47
+                },
+                "44": {
+                    "images": [],
+                    "definition": "sportovec\r",
+                    "term": "der Sportler, die Sportler",
+                    "question": "",
+                    "id": 44
+                },
+                "45": {
+                    "images": [],
+                    "definition": "sportovkyn\u011b\r",
+                    "term": "die Sportlerin, die Sportlerinnen",
+                    "question": "",
+                    "id": 45
+                },
+                "28": {
+                    "images": [],
+                    "definition": "p\u00edse\u0148\r",
+                    "term": "das Lied, die Lieder",
+                    "question": "",
+                    "id": 28
+                },
+                "29": {
+                    "images": [],
+                    "definition": "\u0159e\u0161en\u00ed\r",
+                    "term": "die L\u00f6sung, die L\u00f6sungen",
+                    "question": "",
+                    "id": 29
+                },
+                "40": {
+                    "images": [],
+                    "definition": "r\u00e1dio\r",
+                    "term": "das Radio, die Radios",
+                    "question": "",
+                    "id": 40
+                },
+                "41": {
+                    "images": [],
+                    "definition": "sal\u00e1t, sal\u00e1ty\r",
+                    "term": "der Salat, die Salate",
+                    "question": "",
+                    "id": 41
+                },
+                "1": {
+                    "images": [],
+                    "definition": "j\u00edt, chodit\r",
+                    "term": "gehen",
+                    "question": "",
+                    "id": 1
+                },
+                "3": {
+                    "images": [],
+                    "definition": "zdravit, pozdravit\r",
+                    "term": "gr\u00fc\u00dfen",
+                    "question": "",
+                    "id": 3
+                },
+                "2": {
+                    "images": [],
+                    "definition": "Jak se m\u00e1\u0161?\r",
+                    "term": "Wie geht's?",
+                    "question": "",
+                    "id": 2
+                },
+                "5": {
+                    "images": [],
+                    "definition": "jmenovat se\r",
+                    "term": "hei\u00dfen",
+                    "question": "",
+                    "id": 5
+                },
+                "4": {
+                    "images": [],
+                    "definition": "Zdrav\u00edm t\u011b!\r",
+                    "term": "Gr\u00fc\u00df dich!",
+                    "question": "",
+                    "id": 4
+                },
+                "7": {
+                    "images": [],
+                    "definition": "u\u010dit se\r",
+                    "term": "lernen",
+                    "question": "",
+                    "id": 7
+                },
+                "6": {
+                    "images": [],
+                    "definition": "Jak se jmenuje\u0161?\r",
+                    "term": "Wie hei\u00dft du?",
+                    "question": "",
+                    "id": 6
+                },
+                "9": {
+                    "images": [],
+                    "definition": "j\u00e1 jsem\r",
+                    "term": "ich bin",
+                    "question": "",
+                    "id": 9
+                },
+                "8": {
+                    "images": [],
+                    "definition": "b\u00fdt\r",
+                    "term": "sein",
+                    "question": "",
+                    "id": 8
+                },
+                "78": {
+                    "images": [],
+                    "definition": "v\u017edy",
+                    "term": "immer",
+                    "question": "",
+                    "id": 78
+                },
+                "51": {
+                    "images": [],
+                    "definition": "housle (v)\r",
+                    "term": "die Violine, die Violinen",
+                    "question": "",
+                    "id": 51
+                },
+                "39": {
+                    "images": [],
+                    "definition": "blbost, kecy\r",
+                    "term": "der Quatsch (nur sg.)",
+                    "question": "",
+                    "id": 39
+                },
+                "65": {
+                    "images": [],
+                    "definition": "ahoj (p\u0159i setk\u00e1n\u00ed)\r",
+                    "term": "Hallo",
+                    "question": "",
+                    "id": 65
+                },
+                "76": {
+                    "images": [],
+                    "definition": "mysl\u00edm si (g)\r",
+                    "term": "ich glaube",
+                    "question": "",
+                    "id": 76
+                },
+                "75": {
+                    "images": [],
+                    "definition": "mysl\u00edm si (d)\r",
+                    "term": "ich denke",
+                    "question": "",
+                    "id": 75
+                },
+                "38": {
+                    "images": [],
+                    "definition": "k\u016f\u0148, kon\u011b\r",
+                    "term": "das Pferd, die Pferde",
+                    "question": "",
+                    "id": 38
+                },
+                "73": {
+                    "images": [],
+                    "definition": "Odkud jsi?\r",
+                    "term": "Woher kommst du?",
+                    "question": "",
+                    "id": 73
+                },
+                "72": {
+                    "images": [],
+                    "definition": "co\r",
+                    "term": "was",
+                    "question": "",
+                    "id": 72
+                },
+                "71": {
+                    "images": [],
+                    "definition": "jak\u00fd, jak, jako\r",
+                    "term": "wie",
+                    "question": "",
+                    "id": 71
+                },
+                "70": {
+                    "images": [],
+                    "definition": "kdo (1. p\u00e1d)\r",
+                    "term": "wer",
+                    "question": "",
+                    "id": 70
+                },
+                "59": {
+                    "images": [],
+                    "definition": "zebra\r",
+                    "term": "das Zebra, die Zebras",
+                    "question": "",
+                    "id": 59
+                },
+                "58": {
+                    "images": [],
+                    "definition": "voda\r",
+                    "term": "das Wasser, die Wasser",
+                    "question": "",
+                    "id": 58
+                },
+                "11": {
+                    "images": [],
+                    "definition": "dobr\u00fd, dob\u0159e\r",
+                    "term": "gut",
+                    "question": "",
+                    "id": 11
+                },
+                "10": {
+                    "images": [],
+                    "definition": "Je mi 14 let.\r",
+                    "term": "Ich bin 14 Jahre alt.",
+                    "question": "",
+                    "id": 10
+                },
+                "13": {
+                    "images": [],
+                    "definition": "\u0161patn\u00fd, \u0161patn\u011b\r",
+                    "term": "schlecht",
+                    "question": "",
+                    "id": 13
+                },
+                "12": {
+                    "images": [],
+                    "definition": "dobr\u00fd den\r",
+                    "term": "Guten Tag",
+                    "question": "",
+                    "id": 12
+                },
+                "15": {
+                    "images": [],
+                    "definition": "ananas\r",
+                    "term": "die Ananas, die Ananas",
+                    "question": "",
+                    "id": 15
+                },
+                "14": {
+                    "images": [],
+                    "definition": "ve\u010der, ve\u010dery\r",
+                    "term": "der Abend, die Abende",
+                    "question": "",
+                    "id": 14
+                },
+                "17": {
+                    "images": [],
+                    "definition": "ban\u00e1n\r",
+                    "term": "die Banane, die Bananen",
+                    "question": "",
+                    "id": 17
+                },
+                "16": {
+                    "images": [],
+                    "definition": "balet\r",
+                    "term": "das Ballett, die Ballette",
+                    "question": "",
+                    "id": 16
+                },
+                "19": {
+                    "images": [],
+                    "definition": "drak\r",
+                    "term": "die Drache, die Drachen",
+                    "question": "",
+                    "id": 19
+                },
+                "18": {
+                    "images": [],
+                    "definition": "basketbal, ko\u0161\u00edkov\u00e1\r",
+                    "term": "der Basketball, die Basketb\u00e4lle",
+                    "question": "",
+                    "id": 18
+                },
+                "31": {
+                    "images": [],
+                    "definition": "my\u0161, my\u0161i\r",
+                    "term": "die Maus, die M\u00e4use",
+                    "question": "",
+                    "id": 31
+                },
+                "30": {
+                    "images": [],
+                    "definition": "lev\r",
+                    "term": "der L\u00f6we, die L\u00f6wen",
+                    "question": "",
+                    "id": 30
+                },
+                "37": {
+                    "images": [],
+                    "definition": "papou\u0161ek\r",
+                    "term": "der Papagei, die Papageien",
+                    "question": "",
+                    "id": 37
+                },
+                "36": {
+                    "images": [],
+                    "definition": "noc, noci\r",
+                    "term": "die Nacht, die N\u00e4chte",
+                    "question": "",
+                    "id": 36
+                },
+                "35": {
+                    "images": [],
+                    "definition": "hudba\r",
+                    "term": "die Musik, die Musiken",
+                    "question": "",
+                    "id": 35
+                },
+                "34": {
+                    "images": [],
+                    "definition": "z\u00edtra, r\u00e1no - p\u0159\u00edslovce\r",
+                    "term": "morgen",
+                    "question": "",
+                    "id": 34
+                },
+                "33": {
+                    "images": [],
+                    "definition": "r\u00e1no\r",
+                    "term": "der Morgen, die Morgen",
+                    "question": "",
+                    "id": 33
+                },
+                "55": {
+                    "images": [],
+                    "definition": "piano\r",
+                    "term": "das Piano, die Pianos",
+                    "question": "",
+                    "id": 55
+                },
+                "74": {
+                    "images": [],
+                    "definition": "Nev\u00edm.\r",
+                    "term": "Ich wei\u00df nicht.",
+                    "question": "",
+                    "id": 74
+                },
+                "32": {
+                    "images": [],
+                    "definition": "racek\r",
+                    "term": "die M\u00f6we, die M\u00f6wen",
+                    "question": "",
+                    "id": 32
+                },
+                "57": {
+                    "images": [],
+                    "definition": "les, lesy\r",
+                    "term": "der Wald, die W\u00e4lder",
+                    "question": "",
+                    "id": 57
+                },
+                "50": {
+                    "images": [],
+                    "definition": "turista\r",
+                    "term": "der Tourist, die Touristen",
+                    "question": "",
+                    "id": 50
+                }
+            },
+            "author_id": 1,
+            "id": 2,
+            "name": "Deutsch Lektion 1-2",
+            "description": "Deutsch"
         }
     ]
 }

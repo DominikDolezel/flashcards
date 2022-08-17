@@ -78,41 +78,42 @@
             </form>
 
             <?php
-            	// define variables and set to empty values
-            	$username = $email = $password = $password2 = "";
+                // define variables and set to empty values
+                $username = $email = $password = $password2 = "";
 
-            	if ($_SERVER["REQUEST_METHOD"] == "POST") {
-            		$username = test_input($_POST["username"]);
-            		$email = test_input($_POST["email"]);
-            		$password = test_input($_POST["password"]);
-            		$password2 = test_input($_POST["password2"]);
-            		$file = fopen("data.json", "r") or die("Unable to open file!");
-            		$data_file = fread($file, filesize("data.json"));
-            		fclose($file);
-            		$data = json_decode($data_file, true);
+                if ($_SERVER["REQUEST_METHOD"] == "POST") {
+                    $username = test_input($_POST["username"]);
+                    $email = test_input($_POST["email"]);
+                    $password = test_input($_POST["password"]);
+                    $password2 = test_input($_POST["password2"]);
+                    $file = fopen("data.json", "r") or die("Unable to open file!");
+                    $data_file = fread($file, filesize("data.json"));
+                    fclose($file);
+                    $data = json_decode($data_file, true);
                     $number_of_users = 0;
                     if ($password != $password2) {
                         echo "passwords don't match";
                         die();
                     }
-            		$to_add = array('id'=>(int)($data["users"][-1]["id"] + 1), 'login'=>(string)$username, 'password'=>password_hash($password, PASSWORD_DEFAULT), 'email'=>$email, 'sets_created'=>[], 'folders_created'=>[], 'studied'=>[]);
-            		array_push($data["users"], $to_add);
-            		$myfile = fopen("data.json", "w") or die("Unable to open file!");
-            		fwrite($myfile, json_encode($data, JSON_PRETTY_PRINT));
-            		fclose($myfile);
+                    $to_add = array('id'=>(int)($data["users"][-1]["id"] + 1), 'login'=>(string)$username, 'password'=>password_hash($password, PASSWORD_DEFAULT), 'email'=>$email, 'sets_created'=>[], 'folders_created'=>[], 'studied'=>[]);
+                    array_push($data["users"], $to_add);
+                    $myfile = fopen("data.json", "w") or die("Unable to open file!");
+                    fwrite($myfile, json_encode($data, JSON_PRETTY_PRINT));
+                    fclose($myfile);
                     $_SESSION["user_id"] = $to_add["id"];
                     $_SESSION["user"] = $to_add;
-            		header('Location: home.php');
-            		die();
-            	}
+                    header('Location: home.php');
+                    die();
+                }
 
-            	function test_input($data) {
-            	  $data = trim($data);
-            	  $data = stripslashes($data);
-            	  $data = htmlspecialchars($data);
-            	  return $data;
-            	}
-            ?>
+                function test_input($data)
+                {
+                    $data = trim($data);
+                    $data = stripslashes($data);
+                    $data = htmlspecialchars($data);
+                    return $data;
+                }
+                ?>
           </div>
 
       </div>
