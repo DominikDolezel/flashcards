@@ -35,8 +35,8 @@
 		$data_file = fread($file, filesize("data.json"));
 		fclose($file);
 		$data = json_decode($data_file, true);
-    	foreach($data["sets"] as $name=>$s){
-    		if ((string)$name == (string)$set_id){
+    	foreach($data["sets"] as $s){
+    		if ((string)$s["id"] == (string)$set_id){
     			$set = $s;
     		}
     	}

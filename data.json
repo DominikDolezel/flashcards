@@ -1,68 +1,33 @@
 {
-    "sets": {
-        "1": {
-            "id": 1,
-            "cards": {
-                "1": {
-                    "id": 1,
-                    "question": "",
-                    "term": "el coche",
-                    "definition": "auto",
-                    "images": []
-                },
-                "2": {
-                    "id": 2,
-                    "question": "",
-                    "term": "el tranv\u00eda",
-                    "definition": "tramvaj",
-                    "images": []
-                },
-                "3": {
-                    "id": 3,
-                    "question": "",
-                    "term": "hola",
-                    "definition": "ahoj",
-                    "images": []
-                },
-                "4": {
-                    "id": 4,
-                    "question": "",
-                    "term": "la bici",
-                    "definition": "kolo",
-                    "images": []
-                },
-                "5": {
-                    "id": 5,
-                    "question": "",
-                    "term": "la tele",
-                    "definition": "televize",
-                    "images": []
-                }
-            },
-            "description": "A test.",
-            "name": "test"
-        }
-    },
+    "folders": [],
     "users": [
-        
         {
-            "id": 1,
+            "studied": [],
+            "sets_created": [
+                1
+            ],
+            "email": "dominik.dolezel@email.cz",
+            "folders_created": [],
             "login": "dodo",
             "password": "$2y$10$sCbiB60ZKoo5lcliHDk\/GOyM4QFNkdFPeustJDgufK7Jw.GRxbpEm",
-            "email": "dominik.dolezel@email.cz",
-            "sets_created": [],
-            "folders_created": [1],
-            "studied": [1]
+            "id": 1
         }
     ],
-    "folders": [
-    	{
-    		"id": 1,
-    		"name": "jmeno", 
-    		"description": "@jaroška",
-    		"sets": [1],
-    		"author": 1    		
-    	}
+    "sets": [
+        {
+            "cards": {
+                "1": {
+                    "images": [],
+                    "definition": "def",
+                    "term": "term",
+                    "question": "",
+                    "id": 1
+                }
+            },
+            "author_id": 1,
+            "id": 1,
+            "name": "test",
+            "description": "desc"
+        }
     ]
-    
 }

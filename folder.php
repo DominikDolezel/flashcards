@@ -8,7 +8,7 @@
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <!-- CSS only -->
      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
-     <title>Složky</title>
+     <title>Složka</title>
      <link rel="icon" href="https://i.pinimg.com/originals/50/07/d9/5007d95c2848abc9f9bc296c0f5f520e.png">
      <link href='https://fonts.googleapis.com/css?family=Raleway:800' rel='stylesheet' type='text/css'>
 	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet" type='text/css'>
@@ -49,31 +49,38 @@
     $data_file = fread($file, filesize("data.json"));
     fclose($file);
     $data = json_decode($data_file, true);
-    $sets_to_show = $_SESSION["user"]["studied"];
-    $folders_to_show = $_SESSION["user"]["folders_created"];
+    foreach ($data["folders"] as $f) {
+        if ((string)$_GET["folder_id"] == (string)$f["id"]) {
+             $folder = $f;
+             break;
+        }
+    }
+    $sets_to_show = $folder["sets"];
     ?>
  </head>
  <body>
      <?php include('templates/header.html'); ?>
      <div class='object'>
-         <h4>Vaše složky</h4>
+         <h4><?php echo $folder["name"] ?></h4>
      </div>
          <div class='d-flex flex-row bd-highlight d-flex justify-content-start'>
          <?php
-    if ($folders_to_show == []) {
-        echo "<p class='object'>Zatím jste nevytvořili žádné složky. Až tak učiníte, objeví se tady.</p>";
+    if ($sets_to_show == []) {
+        echo "<p class='object'>Tato složka neobsahuje žádné sety.</p>";
     }
-       foreach ($folders_to_show as $folder_id) {
-           foreach ($data["folders"] as $f) {
-               if ((string)$f["id"] == (string)$folder_id) {
-                   $folder = $f;
+       foreach ($sets_to_show as $set_id) {
+           foreach ($data["sets"] as $s) {
+               if ((string)$s["id"] == (string)$set_id) {
+                   $set = $s;
                    break;
                }
            }
-           echo "<div class='object' style='min-width:30%'><a class='nocolor' href='folder.php?folder_id=" . (string)$folder["id"] . "'><div class='card'><div class='card-body'><h5 class='card-title' style='font-family: Raleway, sans-serif;'>" . $folder["name"] . "</h5><h6 class='card-subtitle'>" . (string)count($folder["sets"]) . " setů</h6></div></div></a></div>";
+           echo "<div class='object' style='min-width:30%'><a class='nocolor' href='set.php?set_id=" . (string)$set["id"] . "'><div class='card'><div class='card-body'><h5 class='card-title' style='font-family: Raleway, sans-serif;'>" . $set["name"] . "</h5><h6 class='card-subtitle'>" . (string)count($set["cards"]) . " karet</h6></div></div></a></div>";
        }
     ?>
      </div>
+
+
  </div>
          </div>
      </div>

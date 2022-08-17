@@ -87,7 +87,7 @@
                         die();
                     }
                     if (password_verify($password, $user["password"])){
-                        $_SESSION["user_id"] = $to_add["id"];
+                        $_SESSION["user_id"] = $user["id"];
                         $_SESSION["user"] = $user;
                 		header('Location: home.php');
                 		die();
