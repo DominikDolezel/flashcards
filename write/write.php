@@ -32,12 +32,12 @@
     <?php
     	$set_id = $_GET["set_id"];
     	$card_id = $_GET["card_id"];
-    	$file = fopen("data.json", "r") or die("Unable to open file!");
-		$data_file = fread($file, filesize("data.json"));
+    	$file = fopen("../data.json", "r") or die("Unable to open file!");
+		$data_file = fread($file, filesize("../data.json"));
 		fclose($file);
 		$data = json_decode($data_file, true);
-    	foreach($data["sets"] as $name=>$s){
-    		if ((string)$name == (string)$set_id){
+    	foreach($data["sets"] as $s){
+    		if ((string)$s["id"] == (string)$set_id){
     			$set = $s;
     		}
     	}
@@ -92,7 +92,7 @@
     </li>
     <hr>
     <li class="nav-item d-flex justify-content-center">
-  		<div><a href="set.php?set_id=<?php echo $set["id"]; ?>"><?php echo $back_arrow; ?>zpět</a></div>
+  		<div><a href="../set.php?set_id=<?php echo $set["id"]; ?>"><?php echo $back_arrow; ?>zpět</a></div>
     </li>
   </ul>
   </div>
@@ -101,19 +101,19 @@
 	  <div class="card-body">
 		<h3 style="font-family: 'Montserrat', sans-serif;"><?php if($card["definition"]) {echo $card["definition"];} ?></h3>
 		<h5 style="font-family: 'Montserrat', sans-serif;"><?php if($card["question"]) {echo $card["question"];} ?></h5>
-		<?php 
-			if ($card["images"]){ 
+		<?php
+			if ($card["images"]){
 				echo "<img src='" . $card["images"][array_rand($card["images"], 1)] . "' style='max-width:100%;max-height:75vh'>";} ?>
 		<form class="user" action="" method="post" novalidate>
             <div class="line d-flex bd-highlight" style="width:100%">
-            	<div style="padding-right:5px" class="flex-fill bd-highlight">	
+            	<div style="padding-right:5px" class="flex-fill bd-highlight">
             		<input type="text" id="answer" name="answer" class="form-control form-control-user" placeholder="Sem napište svou odpověď" autofocus autocomplete="off">
             	</div>
             	<div>
             		<button type="submit" class="btn btn-primary">Vyhodnotit</button>
             	</div>
             </div>
-        </form>       
+        </form>
 	  </div>
 	</div>
 </div>
@@ -125,8 +125,8 @@
 
 	if ($_SERVER["REQUEST_METHOD"] == "POST") {
 		$answer = test_input($_POST["answer"]);
-		$file = fopen("data.json", "r") or die("Unable to open file!");
-		$data_file = fread($file, filesize("data.json"));
+		$file = fopen("../data.json", "r") or die("Unable to open file!");
+		$data_file = fread($file, filesize("../data.json"));
 		fclose($file);
 		$data = json_decode($data_file, true);
 		if((string)$answer == ""){

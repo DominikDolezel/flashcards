@@ -51,7 +51,7 @@
         	  <div class="card-body">
         			<h2 style="font-family: Raleway, sans-serif;"><?php echo $set["name"]; ?></h2><hr>
         			<p><?php echo $set["description"]; ?></p>
-        			<button type="button" class="btn btn-primary" onclick="location.href='select_card.php?set_id=<?php echo (string)$set_id; ?>';">Spustit</button>
+        			<button type="button" class="btn btn-primary" onclick="location.href='write/select_card.php?set_id=<?php echo (string)$set_id; ?>';">Spustit</button>
         			<div style="padding-top:10px">
         			<hr>
         			<h6>Karty:</h6>

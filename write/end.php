@@ -34,12 +34,12 @@
     	$emojis = array("https://images.emojiterra.com/twitter/512px/1f389.png", "https://i.redd.it/m4ohq8yp2mu41.png", "https://images.emojiterra.com/twitter/v13.0/512px/1f525.png", "https://cdn-0.emojis.wiki/emoji-pics/twitter/partying-face-twitter.png", "https://images.emojiterra.com/twitter/v13.0/512px/1f3c5.png");
     	$phrases = array("Hotovo! Dobrá práce!", "Dáme to ještě jednou?", "...ani to nebolelo", "1000 ‰", "Toť vše.");
     	$set_id = $_GET["set_id"];
-    	$file = fopen("data.json", "r") or die("Unable to open file!");
-		$data_file = fread($file, filesize("data.json"));
+    	$file = fopen("../data.json", "r") or die("Unable to open file!");
+		$data_file = fread($file, filesize("../data.json"));
 		fclose($file);
 		$data = json_decode($data_file, true);
-    	foreach($data["sets"] as $name=>$s){
-    		if ((string)$name == (string)$set_id){
+    	foreach($data["sets"] as $s){
+    		if ((string)$s["id"] == (string)$set_id){
     			$set = $s;
     		}
     	}
@@ -55,7 +55,7 @@
   <hr>
   <ul class="nav nav-pills flex-column mb-auto">
     <li class="nav-item d-flex justify-content-center">
-  		<div><a href="set.php?set_id=<?php echo $set["id"]; ?>"><?php echo $back_arrow; ?>zpět</a></div>
+  		<div><a href="../set.php?set_id=<?php echo $set["id"]; ?>"><?php echo $back_arrow; ?>zpět</a></div>
     </li>
   </ul>
   </div>
@@ -78,7 +78,7 @@
 	  		}
 	  	?>
 		<ul class="list-group list-group">
-		<?php 
+		<?php
 			foreach($set["cards"] as $card){
 				if(isset($_COOKIE["focus_on"])){
 				if (strpos((string)$_COOKIE["focus_on"], (string)$card["id"])){
@@ -94,6 +94,6 @@
 </div>
 </body>
 </html>
-<?php 
+<?php
 	setcookie("focus_on", "", time() - 3600, "/");
 ?>
