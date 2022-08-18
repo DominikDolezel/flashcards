@@ -10,10 +10,10 @@
 		}
 	}
 	if (!isset($_COOKIE["correct"])) {
-		setcookie("correct", "", time() - 3600, "/");
+		setcookie("correct", "", time() + (86400 * 30), "/");
 	}
 	if (!isset($_COOKIE["wrong"])) {
-		setcookie("wrong", "", time() - 3600, "/");
+		setcookie("wrong", "", time() + (86400 * 30), "/");
 	}
 	if ((strlen($_COOKIE["correct"])/3 + strlen($_COOKIE["wrong"])/3) >= count($set["cards"])){
 		if (strlen($_COOKIE["wrong"]) == 0){
