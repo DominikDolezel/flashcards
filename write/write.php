@@ -27,41 +27,42 @@
     }
     </style>
     <?php
-    	$back_arrow = "<svg xmlns='http://www.w3.org/2000/svg' width='20' height='20' fill='currentColor' class='bi bi-arrow-left' viewBox='0 0 20 20'><path fill-rule='evenodd' d='M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8z'/></svg>";
+        $back_arrow = "<svg xmlns='http://www.w3.org/2000/svg' width='20' height='20' fill='currentColor' class='bi bi-arrow-left' viewBox='0 0 20 20'><path fill-rule='evenodd' d='M15 8a.5.5 0 0 0-.5-.5H2.707l3.147-3.146a.5.5 0 1 0-.708-.708l-4 4a.5.5 0 0 0 0 .708l4 4a.5.5 0 0 0 .708-.708L2.707 8.5H14.5A.5.5 0 0 0 15 8z'/></svg>";
     ?>
     <?php
-    	$set_id = $_GET["set_id"];
-    	$card_id = $_GET["card_id"];
-    	$file = fopen("../data.json", "r") or die("Unable to open file!");
-		$data_file = fread($file, filesize("../data.json"));
-		fclose($file);
-		$data = json_decode($data_file, true);
-    	foreach($data["sets"] as $s){
-    		if ((string)$s["id"] == (string)$set_id){
-    			$set = $s;
-    		}
-    	}
-    	foreach($set["cards"] as $name=>$c){
-    		if ((string)$name == (string)$card_id){
-    			$card = $c;
-    		}
-    	}
-    	if(isset($_COOKIE["correct"])){
-    		$number_correct = strlen($_COOKIE["correct"])/3;
-    	} else {
-    		$number_correct = 0;
-    	}
-    	if(isset($_COOKIE["wrong"])){
-    		$number_wrong = strlen($_COOKIE["wrong"])/3;
-    	} else {
-    		$number_wrong = 0;
-    	}
-    	$number_of_cards = count($set["cards"]);
-    	$number_done = $number_correct + $number_wrong;
-    	$remaining = ($number_of_cards - $number_done) / $number_of_cards * 100;
-    	$correct = $number_correct / $number_of_cards * 100;
-    	$wrong = $number_wrong / $number_of_cards * 100;
+        $set_id = $_GET["set_id"];
+        $card_id = $_GET["card_id"];
+        $file = fopen("../data.json", "r") or die("Unable to open file!");
+        $data_file = fread($file, filesize("../data.json"));
+        fclose($file);
+        $data = json_decode($data_file, true);
+        foreach ($data["sets"] as $s) {
+            if ((string)$s["id"] == (string)$set_id) {
+                $set = $s;
+            }
+        }
+        foreach ($set["cards"] as $name=>$c) {
+            if ((string)$name == (string)$card_id) {
+                $card = $c;
+            }
+        }
+        if (isset($_COOKIE["correct"])) {
+            $number_correct = strlen($_COOKIE["correct"])/3;
+        } else {
+            $number_correct = 0;
+        }
+        if (isset($_COOKIE["wrong"])) {
+            $number_wrong = strlen($_COOKIE["wrong"])/3;
+        } else {
+            $number_wrong = 0;
+        }
+        $number_of_cards = count($set["cards"]);
+        $number_done = $number_correct + $number_wrong;
+        $remaining = ($number_of_cards - $number_done) / $number_of_cards * 100;
+        $correct = $number_correct / $number_of_cards * 100;
+        $wrong = $number_wrong / $number_of_cards * 100;
     ?>
+    <script src='https://code.responsivevoice.org/responsivevoice.js'></script>
 </head>
 <body>
 <div class="d-flex flex-row bd-highlight">
@@ -99,11 +100,16 @@
 <div style="padding:2em;min-width:50%">
 	<div class="card">
 	  <div class="card-body">
-		<h3 style="font-family: 'Montserrat', sans-serif;"><?php if($card["definition"]) {echo $card["definition"];} ?></h3>
-		<h5 style="font-family: 'Montserrat', sans-serif;"><?php if($card["question"]) {echo $card["question"];} ?></h5>
+		<h3 style="font-family: 'Montserrat', sans-serif;"><?php if ($card["definition"]) {
+		    echo $card["definition"];
+		} ?></h3>
+		<h5 style="font-family: 'Montserrat', sans-serif;"><?php if ($card["question"]) {
+		    echo $card["question"];
+		} ?></h5>
 		<?php
-			if ($card["images"]){
-				echo "<img src='" . $card["images"][array_rand($card["images"], 1)] . "' style='max-width:100%;max-height:75vh'>";} ?>
+		        if ($card["images"]) {
+		            echo "<img src='" . $card["images"][array_rand($card["images"], 1)] . "' style='max-width:100%;max-height:75vh'>";
+		        } ?>
 		<form class="user" action="" method="post" novalidate>
             <div class="line d-flex bd-highlight" style="width:100%">
             	<div style="padding-right:5px" class="flex-fill bd-highlight">
@@ -120,36 +126,37 @@
 </div>
 </div>
 <?php
-	// define variables and set to empty values
-	$answer = "";
+    // define variables and set to empty values
+    $answer = "";
 
-	if ($_SERVER["REQUEST_METHOD"] == "POST") {
-		$answer = test_input($_POST["answer"]);
-		$file = fopen("../data.json", "r") or die("Unable to open file!");
-		$data_file = fread($file, filesize("../data.json"));
-		fclose($file);
-		$data = json_decode($data_file, true);
-		if((string)$answer == ""){
-			header("Location: write.php?set_id=" . (string)$set_id . "&card_id=" . $card["id"]);
-			exit();
-		} elseif((string)$answer == $card["term"]){
-			setcookie("correct", $_COOKIE["correct"] . ", " . (string)$card["id"], time() + (86400 * 30), "/"); // 86400 = 1 day
-			header("Location: select_card.php?set_id=" . (string)$set_id);
-			exit();
-		} else {
-			setcookie("wrong", $_COOKIE["wrong"] . ", " . $card["id"], time() + (86400 * 30), "/"); // 86400 = 1 day
-			setcookie("focus_on", $_COOKIE["focus_on"] . ", " . $card["id"], time() + (86400 * 30), "/");
-			header("Location: correct.php?set_id=" . (string)$set_id . "&card_id=" . $card["id"] . "&you_said=" . $answer);
-			exit();
-		}
-	}
+    if ($_SERVER["REQUEST_METHOD"] == "POST") {
+        $answer = test_input($_POST["answer"]);
+        $file = fopen("../data.json", "r") or die("Unable to open file!");
+        $data_file = fread($file, filesize("../data.json"));
+        fclose($file);
+        $data = json_decode($data_file, true);
+        if ((string)$answer == "") {
+            header("Location: write.php?set_id=" . (string)$set_id . "&card_id=" . $card["id"]);
+            exit();
+        } elseif ((string)$answer == $card["term"]) {
+            setcookie("correct", $_COOKIE["correct"] . ", " . (string)$card["id"], time() + (86400 * 30), "/"); // 86400 = 1 day
+            header("Location: select_card.php?set_id=" . (string)$set_id);
+            exit();
+        } else {
+            setcookie("wrong", $_COOKIE["wrong"] . ", " . $card["id"], time() + (86400 * 30), "/"); // 86400 = 1 day
+            setcookie("focus_on", $_COOKIE["focus_on"] . ", " . $card["id"], time() + (86400 * 30), "/");
+            header("Location: correct.php?set_id=" . (string)$set_id . "&card_id=" . $card["id"] . "&you_said=" . $answer);
+            exit();
+        }
+    }
 
-	function test_input($data) {
-	  $data = trim($data);
-	  $data = stripslashes($data);
-	  $data = htmlspecialchars($data);
-	  return $data;
-	}
-?>
+    function test_input($data)
+    {
+        $data = trim($data);
+        $data = stripslashes($data);
+        $data = htmlspecialchars($data);
+        return $data;
+    }
+    ?>
 </body>
 </html>
