@@ -111,20 +111,45 @@
 		            echo "<img src='" . $card["images"][array_rand($card["images"], 1)] . "' style='max-width:100%;max-height:75vh'>";
 		        } ?>
 		<form class="user" action="" method="post" novalidate>
+            <div class="d-flex flex-column">
             <div class="line d-flex bd-highlight" style="width:100%">
-            	<div style="padding-right:5px" class="flex-fill bd-highlight">
-            		<input type="text" id="answer" name="answer" class="form-control form-control-user" placeholder="Sem napište svou odpověď" autofocus autocomplete="off">
-            	</div>
-            	<div>
-            		<button type="submit" class="btn btn-primary">Vyhodnotit</button>
-            	</div>
+
+                	<div style="padding-right:5px" class="flex-fill bd-highlight">
+                		<input type="text" id="answer" name="answer" class="form-control form-control-user" placeholder="Sem napište svou odpověď" autofocus autocomplete="off">
+                	</div>
+                	<div>
+                		<button type="submit" class="btn btn-primary">Vyhodnotit</button>
+                	</div>
+
+                <div>
+
             </div>
+            </div>
+            <div class="d-flex flex-row">
+            <?php
+                $index = 0;
+                foreach (mb_str_split($_COOKIE["special-characters"]) as $char) {
+                    echo "<div style='padding-top:0.5em;padding-right:0.5em'><a class='btn btn-outline-primary' id='button" . $index . "'>" . $char . "</a></div>";
+                    $index += 1;
+                }
+            ?>
+            </div>
+        </div>
         </form>
 	  </div>
 	</div>
 </div>
 </div>
-</div>
+<script type="text/javascript">
+<?php
+    $index = 0;
+    foreach (mb_str_split($_COOKIE["special-characters"]) as $char) {
+        echo "document.getElementById('button" . $index . "').addEventListener('click', function () {var text = document.getElementById('answer');text.value += '" . $char . "';});\n";
+        $index += 1;
+    }
+?>
+</script>
+
 <?php
     // define variables and set to empty values
     $answer = "";

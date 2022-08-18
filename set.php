@@ -54,13 +54,27 @@
         unset($data["users"][$index]["studied"][$key]);
     }
 
-
+    $normal_characters = ["a", "b", "c", "d", "e", "f", "g", "h", "i",
+        "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v",
+        "w", "x", "y", "z",
+        "A", "B", "C", "D", "E", "F", "G", "H", "I",
+        "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V",
+        "W", "X", "Y", "Z", " ", ".", "?", "!", ",", "1", "1", "3", "4",
+        "5", "6", "7", "8", "9", "0", "(", ")", "'", '"'];
+    $special_characters = "";
+    foreach ($set["cards"] as $c) {
+        foreach (mb_str_split($c["term"]) as $char) {
+            if (!in_array($char, $normal_characters) and (!in_array($char, mb_str_split($special_characters)))) {
+                $special_characters .= $char;
+            }
+        }
+    }
+    setcookie("special-characters", $special_characters, time() + (86400 * 1), "/");
 
     array_push($data["users"][$index]["studied"], (int)$set_id);
     $_SESSION["user"] = $data["users"][$index];
     $myfile = fopen("data.json", "w") or die("Unable to open file!");
     fwrite($myfile, json_encode($data, JSON_PRETTY_PRINT));
-    fclose($myfile);
     ?>
 </head>
 <body>
