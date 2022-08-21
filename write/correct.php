@@ -108,7 +108,11 @@
 		?>
 		<hr>
 		<small>VAŠE ODPOVĚĎ</small>
-		<p class="top-padding text-danger"><?php echo $you_said;  ?></p><hr>
+        <div class="d-flex flex-row justify-content-between">
+		<p class="top-padding text-danger"><?php echo $you_said;  ?></p>
+        <a class="top-padding" href="override.php?set_id=<?php echo $set_id; ?>">Měl jsem pravdu</a>
+    </div>
+        <hr>
 		<small>SPRÁVNĚ</small>
 		<div class="d-flex justify-content-between">
 			<h5 class="top-padding text-success"><?php echo $card["term"]; ?></h5>
