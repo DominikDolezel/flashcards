@@ -181,7 +181,7 @@
 <?php
     $index = 0;
     foreach (mb_str_split($_COOKIE["special-characters"]) as $char) {
-        echo "document.getElementById('button" . $index . "').addEventListener('click', function () {var text = document.getElementById('answer');text.value += '" . $char . "';});\n";
+        echo "document.getElementById('button" . $index . "').addEventListener('click', function () {var text = document.getElementById('answer');text.value += '" . $char . "';document.getElementById('answer').focus();});\n";
         $index += 1;
     }
 ?>
