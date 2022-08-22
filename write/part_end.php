@@ -1,3 +1,6 @@
+<?php
+	setcookie("wrong", "", time() - 3600, "/");
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -46,13 +49,13 @@
         $number_correct = 0;
     	$number_of_cards = count($set["cards"]);
         if (isset($_COOKIE["correct"])) {
-            $number_correct = strlen($_COOKIE["correct"])/3;
+            $number_correct = substr_count($_COOKIE["correct"], ",");
         }
 
         $number_wrong = 0;
     	$number_of_cards = count($set["cards"]);
         if (isset($_COOKIE["wrong"])) {
-            $number_wrong = strlen($_COOKIE["wrong"])/3;
+            $number_wrong = substr_count($_COOKIE["wrong"], ",");
         }
 
 
@@ -125,6 +128,3 @@
 </div>
 </body>
 </html>
-<?php
-	setcookie("wrong", "", time() - 3600, "/");
-?>

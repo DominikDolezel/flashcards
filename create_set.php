@@ -59,7 +59,7 @@
 							$myfile = fopen("cards_to_save.json", "w") or die("Unable to open file!");
 							fwrite($myfile, json_encode($data, JSON_PRETTY_PRINT));
 							fclose($myfile);
-                            $command = escapeshellcmd('/usr/bin/python /home/xdolez01/public_html/flashcards/save_cards.py');
+                            $command = escapeshellcmd('/usr/bin/python save_cards.py');
                             $output = shell_exec($command);
                             echo $output;
 

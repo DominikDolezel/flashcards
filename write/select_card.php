@@ -15,7 +15,7 @@
 	if (!isset($_COOKIE["wrong"])) {
 		setcookie("wrong", "", time() + (86400 * 30), "/");
 	}
-	if ((strlen($_COOKIE["correct"])/3 + strlen($_COOKIE["wrong"])/3) >= count($set["cards"])){
+	if ((substr_count($_COOKIE["correct"], ",") + substr_count($_COOKIE["wrong"], ",") + 1) >= count($set["cards"])){
 		if (strlen($_COOKIE["wrong"]) == 0){
 			setcookie("correct", "", time() - 3600, "/");
 			setcookie("wrong", "", time() - 3600, "/");
@@ -28,10 +28,10 @@
 	}
 	do {
 		$card_id = $set["cards"][array_rand($set["cards"], 1)]["id"];
-		if(count($set["cards"]) == ((strlen($_COOKIE["correct"])/3) + (strlen($_COOKIE["wrong"])/3) + 1) and !(strpos($_COOKIE["correct"], (string)$card_id)) and !(strpos($_COOKIE["wrong"], (string)$card_id))){
+		if(count($set["cards"]) == ((substr_count($_COOKIE["correct"], ",")) + (substr_count($_COOKIE["wrong"], ",")) + 1) and !(strpos($_COOKIE["correct"], ", " . (string)$card_id)) and !(strpos($_COOKIE["wrong"], ", " . (string)$card_id))){
 			break;
 		}
-	} while($card_id == $_COOKIE["last_card_id"] or strpos($_COOKIE["correct"], (string)$card_id) or strpos($_COOKIE["wrong"], (string)$card_id));
+	} while($card_id == $_COOKIE["last_card_id"] or strpos($_COOKIE["correct"], ", " . (string)$card_id) or strpos($_COOKIE["wrong"], ", " . (string)$card_id));
 	setcookie("last_card_id", $card_id, time() + (86400 * 1), "/");
 	header("Location: write.php?set_id=" . (string)$set_id . "&card_id=" . $card_id);
 	exit();

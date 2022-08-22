@@ -51,10 +51,10 @@
         $number_correct = 0;
     	$number_of_cards = count($set["cards"]);
         if (isset($_COOKIE["correct"])) {
-            $number_correct = strlen($_COOKIE["correct"])/3;
+            $number_correct = substr_count($_COOKIE["correct"], ",");
         }
 
-    	$number_wrong = strlen($_COOKIE["wrong"])/3;
+    	$number_wrong = substr_count($_COOKIE["wrong"], ",");
     	$number_done = $number_correct + $number_wrong;
     	$remaining = ($number_of_cards - $number_done) / $number_of_cards * 100;
     	$correct = $number_correct / $number_of_cards * 100;

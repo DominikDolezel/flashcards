@@ -95,7 +95,7 @@
                         echo "passwords don't match";
                         die();
                     }
-                    $to_add = array('id'=>(int)($data["users"][-1]["id"] + 1), 'login'=>(string)$username, 'password'=>password_hash($password, PASSWORD_DEFAULT), 'email'=>$email, 'sets_created'=>[], 'folders_created'=>[], 'studied'=>[]);
+                    $to_add = array('id'=>(int)(end($data["users"])["id"]) + 1, 'login'=>(string)$username, 'password'=>password_hash($password, PASSWORD_DEFAULT), 'email'=>$email, 'sets_created'=>[], 'folders_created'=>[], 'studied'=>[]);
                     array_push($data["users"], $to_add);
                     $myfile = fopen("data.json", "w") or die("Unable to open file!");
                     fwrite($myfile, json_encode($data, JSON_PRETTY_PRINT));

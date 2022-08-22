@@ -16,12 +16,12 @@
         }
     }
     if (isset($_COOKIE["correct"])) {
-        $number_correct = strlen($_COOKIE["correct"])/3;
+        $number_correct = substr_count($_COOKIE["correct"], ",");
     } else {
         $number_correct = 0;
     }
     if (isset($_COOKIE["wrong"])) {
-        $number_wrong = strlen($_COOKIE["wrong"])/3;
+        $number_wrong = substr_count($_COOKIE["wrong"], ",");
     } else {
         $number_wrong = 0;
     }
