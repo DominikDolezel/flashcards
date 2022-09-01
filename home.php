@@ -65,7 +65,7 @@
         if ($sets_to_show == []) {
             echo "<p class='object'>Zatím jste nevytvořili žádné sety. Až tak učiníte, objeví se tady.</p>";
         }
-           foreach ($sets_to_show as $set_id) {
+           foreach (array_reverse($sets_to_show) as $set_id) {
                foreach ($data["sets"] as $s) {
                    if ((string)$s["id"] == (string)$set_id) {
                        $set = $s;
