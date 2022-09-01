@@ -33,6 +33,7 @@ def main():
 	if source["sets"] == []:
 		set_id = 1
 	else:
+		print(int(source["sets"][-1]["id"]))
 		set_id = int(source["sets"][-1]["id"]) + 1
 		print("here")
 	source["sets"].append({"id": set_id, "cards": cards, "description": description, "name": name, "author_id": author_id})

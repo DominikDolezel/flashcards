@@ -6,7 +6,6 @@
                 "2": 1
             },
             "sets_created": [
-                1,
                 1
             ],
             "id": 1,
@@ -22,11 +21,12 @@
             "email": "dominik.dolezel@email.cz",
             "sets_created": [
                 1,
-                1
+                2
             ],
             "folders_created": [],
             "studied": {
-                "10": 1
+                "15": 1,
+                "21": 2
             }
         }
     ],
@@ -598,6 +598,35 @@
             },
             "description": "Deutsch",
             "name": "Deutsch Lektion 1-2",
+            "author_id": 2
+        },
+        {
+            "id": 2,
+            "cards": {
+                "1": {
+                    "id": 1,
+                    "question": "",
+                    "term": "123",
+                    "definition": "razdvat\u0159i\r",
+                    "images": []
+                },
+                "2": {
+                    "id": 2,
+                    "question": "",
+                    "term": "234",
+                    "definition": "dvat\u0159i\u010dty\u0159i\r",
+                    "images": []
+                },
+                "3": {
+                    "id": 3,
+                    "question": "",
+                    "term": "tvojemama",
+                    "definition": "TM",
+                    "images": []
+                }
+            },
+            "description": "AHOJ",
+            "name": "test123",
             "author_id": 2
         }
     ]
