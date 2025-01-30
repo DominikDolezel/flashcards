@@ -1,4 +1,7 @@
-<?php session_start(); ?>
+<?php
+use PSpell\Dictionary;
+session_start();
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -8,6 +11,30 @@
     <title>Vytvořit kvíz</title>
     <link rel="stylesheet" href="../styles.css" type='text/css'>
     <link href="https://fonts.googleapis.com/css2?family=Work+Sans&display=swap" rel="stylesheet" type='text/css'>
+    <?php function parse_data($cards)
+    {
+        $data = [];
+        $cards = explode("\n", $cards);
+        $number = 1;
+        foreach ($cards as $card) {
+            $images = [];
+            if (str_contains($card, "--")) {
+                $card = explode("--", $card);
+                $images = explode(";", $card[1]);
+                $card = $card[0];
+            }
+            $words = explode(";", $card);
+            $data[$number] = [
+                "id" => $number,
+                "question" => "",
+                "term" => $words[0],
+                "definition" => $words[1],
+                "images" => $images,
+            ];
+            $number++;
+        }
+        return $data;
+    } ?>
 </head>
 <body>
 <style>
@@ -42,15 +69,15 @@
                         </div>
                     </form>
                     <?php
-						// define variables and set to empty values
-						$type = $name = $link = "";
+                    // define variables and set to empty values
+                    $type = $name = $link = "";
 
-						if ($_SERVER["REQUEST_METHOD"] == "POST") {
-							$name = test_input($_POST["name"]);
-							$description = test_input($_POST["description"]);
+                    if ($_SERVER["REQUEST_METHOD"] == "POST") {
+                        $name = test_input($_POST["name"]);
+                        $description = test_input($_POST["description"]);
+                        $cards = test_input($_POST["cards"]);
 
-							$cards = test_input($_POST["cards"]);
-							$file = fopen("cards_to_save.json", "r") or die("Unable to open file!");
+                        /*$file = fopen("cards_to_save.json", "r") or die("Unable to open file!");
 							$data_file = fread($file, filesize("cards_to_save.json"));
 							fclose($file);
 							$data = json_decode($data_file, true);
@@ -61,43 +88,60 @@
 							fclose($myfile);
                             $command = escapeshellcmd('/usr/bin/python save_cards.py');
                             $output = shell_exec($command);
-                            echo $output;
+                            echo $output;*/
 
-                            $file = fopen("data.json", "r") or die("Unable to open file!");
-							$data_file = fread($file, filesize("data.json"));
-							fclose($file);
-							$data = json_decode($data_file, true);
-                            $index = 0;
-                            foreach ($data["users"] as $u) {
-                                if ((string)$u["id"] == (string)$_SESSION["user_id"]) {
-                                    break;
-                                }
-                                $index = $index + 1;
+                        ($file = fopen("data.json", "r")) or
+                            die("Unable to open file!");
+                        $data_file = fread($file, filesize("data.json"));
+                        fclose($file);
+                        $data = json_decode($data_file, true);
+
+                        $index = 0;
+                        foreach ($data["users"] as $u) {
+                            if (
+                                (string) $u["id"] ==
+                                (string) $_SESSION["user_id"]
+                            ) {
+                                break;
                             }
-                            $set_id = 1;
+                            $index = $index + 1;
+                        }
+                        $set_id = 1;
 
-                            if (empty($data["sets"])) {
-                                $set_id = (int)$data["sets"][-1]["id"] + 1;
-                            }
-                            array_push($data["users"][$index]["sets_created"], $set_id);
-                            $_SESSION["user"] = $data["users"][$index];
-                            $myfile = fopen("data.json", "w") or die("Unable to open file!");
-							fwrite($myfile, json_encode($data, JSON_PRETTY_PRINT));
-							fclose($myfile);
+                        if (!empty($data["sets"])) {
+                            $set_id = (int) end($data["sets"])["id"] + 1;
+                        }
 
+                        array_push($data["sets"], [
+                            "id" => $set_id,
+                            "cards" => parse_data($cards),
+                            "description" => $description,
+                            "name" => $name,
+                            "author_id" => $_SESSION["user_id"],
+                        ]);
 
+                        array_push(
+                            $data["users"][$index]["sets_created"],
+                            $set_id
+                        );
+                        $_SESSION["user"] = $data["users"][$index];
+                        ($myfile = fopen("data.json", "w")) or
+                            die("Unable to open file!");
+                        fwrite($myfile, json_encode($data, JSON_PRETTY_PRINT));
+                        fclose($myfile);
 
-							header('Location: set.php?set_id=' . (string)$set_id);
-							die();
-						}
+                        header("Location: set.php?set_id=" . (string) $set_id);
+                        die();
+                    }
 
-						function test_input($data) {
-						  $data = trim($data);
-						  $data = stripslashes($data);
-						  $data = htmlspecialchars($data);
-						  return $data;
-						}
-					?>
+                    function test_input($data)
+                    {
+                        $data = trim($data);
+                        $data = stripslashes($data);
+                        $data = htmlspecialchars($data);
+                        return $data;
+                    }
+                    ?>
                 </div>
             </div>
         </div>
