@@ -36,6 +36,17 @@ $wrong = ($number_wrong / $number_of_cards) * 100;
 // define variables and set to empty values
 $answer = "";
 
+function vyhodnot(string $vstup, string $spravne)
+{
+    $odpovedi = explode(" / ", $spravne);
+
+    if (in_array($vstup, $odpovedi)) {
+        return true;
+    } else {
+        return false;
+    }
+}
+
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $answer = test_input($_POST["answer"]);
     ($file = fopen("../data.json", "r")) or die("Unable to open file!");
@@ -50,7 +61,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 $card["id"]
         );
         exit();
-    } elseif ((string) $answer == $card["term"]) {
+    } elseif (vyhodnot((string) $answer, $card["term"])) {
         setcookie(
             "correct",
             $_COOKIE["correct"] . ", " . (string) $card["id"],
