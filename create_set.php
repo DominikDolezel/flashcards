@@ -11,6 +11,41 @@ session_start();
     <title>Vytvořit kvíz</title>
     <link rel="stylesheet" href="../styles.css" type='text/css'>
     <link href="https://fonts.googleapis.com/css2?family=Work+Sans&display=swap" rel="stylesheet" type='text/css'>
+        <!-- CSS only -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
+        <title>Flashcards</title>
+        <link rel="icon" href="https://i.pinimg.com/originals/50/07/d9/5007d95c2848abc9f9bc296c0f5f520e.png">
+        <link href='https://fonts.googleapis.com/css?family=Raleway:800' rel='stylesheet' type='text/css'>
+	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap" rel="stylesheet" type='text/css'>
+    	<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Work+Sans&display=swap" rel="stylesheet" type='text/css'>
+    	<link rel="stylesheet" type='text/css' href="../styles.css">
+     <style>
+     body{
+     	font-family: 'Work Sans', sans-serif;
+     }
+
+     a.nocolor, a:hover.nocolor, a:focus.nocolor, a:active.nocolor {
+     text-decoration: none;
+     color: inherit;
+}
+
+    .object {
+        padding-left: 2em;
+        padding-right: 2em;
+        padding-bottom: 1em;
+    }
+
+     .nav-item{
+     	padding-top: 5px;
+     	padding-bottom: 5px;
+     }
+ 	.progress-title{
+ 		padding-bottom:5px;
+ 	}
+ 	.line{
+     	padding-top: 10px;
+     }
+     </style>
     <?php function parse_data($cards)
     {
         $data = [];
@@ -42,8 +77,8 @@ session_start();
     padding-top: 10px;
     }
 </style>
-<?php echo $_SESSION["user_id"]; ?>
-    <div class="d-flex justify-content-center align-items-center" style="height:100vh">
+    <?php include "templates/header.html"; ?>
+    <div class="d-flex justify-content-center align-items-center">
         <div class="card" style="width: 50%;">
             <div class="card-body">
                 <h5 class="card-title">Vytvořit set</h5>

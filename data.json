@@ -2,17 +2,40 @@
     "folders": [],
     "users": [
         {
-            "id": 3,
+            "id": 1,
             "login": "xdolez01",
-            "password": "$2y$12$Ag09QcrcBjJFQfDjlekDeuyaTYzn1v3pbONcy6Y9sgWQ0p5oLBo8S",
+            "password": "$2y$12$GStCct6PYd4SLIBiGNeOd.FtN9C6wl\/6EdorNVpZiiRz7rMLbV3IG",
             "email": "dominik.dolezel@email.cz",
             "sets_created": [
-                1
+                3,
+                4
             ],
             "folders_created": [],
             "studied": {
-                "4": 1
-            }
+                "31": 3,
+                "90": 2,
+                "91": 4,
+                "92": 1
+            },
+            "tries": [
+                {
+                    "set_id": 2,
+                    "cards": {
+                        "1": {
+                            "correct": 3,
+                            "wrong": 0
+                        },
+                        "2": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "3": {
+                            "correct": 3,
+                            "wrong": 3
+                        }
+                    }
+                }
+            ]
         }
     ],
     "sets": [
@@ -36,7 +59,66 @@
             },
             "description": "Tohle je test",
             "name": "Ahoj",
-            "author_id": 3
+            "author_id": 1
+        },
+        {
+            "id": 2,
+            "cards": {
+                "1": {
+                    "id": 1,
+                    "question": "",
+                    "term": "aa",
+                    "definition": "bb\r",
+                    "images": []
+                },
+                "2": {
+                    "id": 2,
+                    "question": "",
+                    "term": "cc",
+                    "definition": "dd\r",
+                    "images": []
+                },
+                "3": {
+                    "id": 3,
+                    "question": "",
+                    "term": "ee",
+                    "definition": "ff",
+                    "images": []
+                }
+            },
+            "description": "AHojahoj",
+            "name": "Test2",
+            "author_id": 1
+        },
+        {
+            "id": 3,
+            "cards": {
+                "1": {
+                    "id": 1,
+                    "question": "",
+                    "term": "aa",
+                    "definition": "aa",
+                    "images": []
+                }
+            },
+            "description": "aaa",
+            "name": "ahoj",
+            "author_id": 1
+        },
+        {
+            "id": 4,
+            "cards": {
+                "1": {
+                    "id": 1,
+                    "question": "",
+                    "term": "dd",
+                    "definition": "dd",
+                    "images": []
+                }
+            },
+            "description": "dd",
+            "name": "dd",
+            "author_id": 1
         }
     ]
 }
