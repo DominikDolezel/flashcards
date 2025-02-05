@@ -165,8 +165,9 @@ session_start();
                         fwrite($myfile, json_encode($data, JSON_PRETTY_PRINT));
                         fclose($myfile);
 
-                        header("Location: set.php?set_id=" . (string) $set_id);
-                        die();
+                        echo "<script>location.href='set.php?set_id=" .
+                            (string) $set_id .
+                            "';</script>";
                     }
 
                     function test_input($data)
