@@ -75,16 +75,16 @@ do {
         count($set["cards"]) ==
             substr_count($_COOKIE["correct"], ",") +
                 substr_count($_COOKIE["wrong"], ",") and
-        !str_contains($_COOKIE["correct"], ", " . (string) $card_id) and
-        !str_contains($_COOKIE["wrong"], ", " . (string) $card_id)
+        !str_contains($_COOKIE["correct"], "," . (string) $card_id) and
+        !str_contains($_COOKIE["wrong"], "," . (string) $card_id)
     ) {
         break;
     }
 } while (
     $card_id == $_COOKIE["last_card_id"] and
         substr_count($_COOKIE["correct"], ",") != count($set["cards"]) - 1 or
-    str_contains($_COOKIE["correct"], ", " . (string) $card_id) or
-    str_contains($_COOKIE["wrong"], ", " . (string) $card_id)
+    str_contains($_COOKIE["correct"], "," . (string) $card_id) or
+    str_contains($_COOKIE["wrong"], "," . (string) $card_id)
 );
 setcookie("last_card_id", $card_id, time() + 86400 * 1, "/");
 header(

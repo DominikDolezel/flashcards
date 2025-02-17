@@ -53,15 +53,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $data_file = fread($file, filesize("../data.json"));
     fclose($file);
     $data = json_decode($data_file, true);
-    if ((string) $answer == "") {
-        header(
-            "Location: write.php?set_id=" .
-                (string) $set_id .
-                "&card_id=" .
-                $card["id"]
-        );
-        exit();
-    } elseif (vyhodnot((string) $answer, $card["term"])) {
+    if (vyhodnot((string) $answer, $card["term"])) {
         setcookie(
             "correct",
             $_COOKIE["correct"] . ", " . (string) $card["id"],
