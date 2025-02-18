@@ -1,5 +1,3115 @@
 {
-  "folders": [],
-  "users": [],
-  "sets": []
+    "folders": [],
+    "users": [
+        {
+            "id": 1,
+            "login": "dodo",
+            "password": "$2y$12$jrkoBxo3OpUqtCHZTnAYy.2OLMo6LkvnEy0xngNXOD16\/FvemJGUy",
+            "email": "dominik.dolezel@email.cz",
+            "sets_created": [
+                1
+            ],
+            "folders_created": [],
+            "studied": {
+                "6": 1
+            },
+            "tries": [
+                {
+                    "set_id": 1,
+                    "cards": {
+                        "1": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "2": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "3": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "4": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "5": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "6": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "7": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "8": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "9": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "10": {
+                            "correct": 0,
+                            "wrong": 2
+                        },
+                        "11": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "12": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "13": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "14": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "15": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "16": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "17": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "18": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "19": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "20": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "21": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "22": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "23": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "24": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "25": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "26": {
+                            "correct": 0,
+                            "wrong": 2
+                        },
+                        "27": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "28": {
+                            "correct": 4,
+                            "wrong": 0
+                        },
+                        "29": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "30": {
+                            "correct": 2,
+                            "wrong": 1
+                        },
+                        "31": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "32": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "33": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "34": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "35": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "36": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "37": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "38": {
+                            "correct": 3,
+                            "wrong": 0
+                        },
+                        "39": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "40": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "41": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "42": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "43": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "44": {
+                            "correct": 0,
+                            "wrong": 5
+                        },
+                        "45": {
+                            "correct": 0,
+                            "wrong": 2
+                        },
+                        "46": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "47": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "48": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "49": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "50": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "51": {
+                            "correct": 0,
+                            "wrong": 2
+                        },
+                        "52": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "53": {
+                            "correct": 3,
+                            "wrong": 0
+                        },
+                        "54": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "55": {
+                            "correct": 2,
+                            "wrong": 1
+                        },
+                        "56": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "57": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "58": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "59": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "60": {
+                            "correct": 3,
+                            "wrong": 0
+                        },
+                        "61": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "62": {
+                            "correct": 0,
+                            "wrong": 2
+                        },
+                        "63": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "64": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "65": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "66": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "67": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "68": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "69": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "70": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "71": {
+                            "correct": 0,
+                            "wrong": 5
+                        },
+                        "72": {
+                            "correct": 2,
+                            "wrong": 2
+                        },
+                        "73": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "74": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "75": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "76": {
+                            "correct": 1,
+                            "wrong": 5
+                        },
+                        "77": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "78": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "79": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "80": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "81": {
+                            "correct": 2,
+                            "wrong": 1
+                        },
+                        "82": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "83": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "84": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "85": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "86": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "87": {
+                            "correct": 2,
+                            "wrong": 2
+                        },
+                        "88": {
+                            "correct": 2,
+                            "wrong": 1
+                        },
+                        "89": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "90": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "91": {
+                            "correct": 2,
+                            "wrong": 2
+                        },
+                        "92": {
+                            "correct": 1,
+                            "wrong": 3
+                        },
+                        "93": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "94": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "95": {
+                            "correct": 0,
+                            "wrong": 2
+                        },
+                        "96": {
+                            "correct": 1,
+                            "wrong": 3
+                        },
+                        "97": {
+                            "correct": 0,
+                            "wrong": 6
+                        },
+                        "98": {
+                            "correct": 0,
+                            "wrong": 2
+                        },
+                        "99": {
+                            "correct": 2,
+                            "wrong": 1
+                        },
+                        "100": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "101": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "102": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "103": {
+                            "correct": 2,
+                            "wrong": 1
+                        },
+                        "104": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "105": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "106": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "107": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "108": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "109": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "110": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "111": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "112": {
+                            "correct": 1,
+                            "wrong": 3
+                        },
+                        "113": {
+                            "correct": 3,
+                            "wrong": 0
+                        },
+                        "114": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "115": {
+                            "correct": 0,
+                            "wrong": 2
+                        },
+                        "116": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "117": {
+                            "correct": 2,
+                            "wrong": 1
+                        },
+                        "118": {
+                            "correct": 2,
+                            "wrong": 1
+                        },
+                        "119": {
+                            "correct": 0,
+                            "wrong": 5
+                        },
+                        "120": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "121": {
+                            "correct": 0,
+                            "wrong": 2
+                        },
+                        "122": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "123": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "124": {
+                            "correct": 3,
+                            "wrong": 0
+                        },
+                        "125": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "126": {
+                            "correct": 2,
+                            "wrong": 1
+                        },
+                        "127": {
+                            "correct": 0,
+                            "wrong": 5
+                        },
+                        "128": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "129": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "130": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "131": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "132": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "133": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "134": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "135": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "136": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "137": {
+                            "correct": 1,
+                            "wrong": 4
+                        },
+                        "138": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "139": {
+                            "correct": 1,
+                            "wrong": 3
+                        },
+                        "140": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "141": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "142": {
+                            "correct": 0,
+                            "wrong": 5
+                        },
+                        "143": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "144": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "145": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "146": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "147": {
+                            "correct": 0,
+                            "wrong": 2
+                        },
+                        "148": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "149": {
+                            "correct": 0,
+                            "wrong": 2
+                        },
+                        "150": {
+                            "correct": 0,
+                            "wrong": 5
+                        },
+                        "151": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "152": {
+                            "correct": 0,
+                            "wrong": 5
+                        },
+                        "153": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "154": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "155": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "156": {
+                            "correct": 1,
+                            "wrong": 3
+                        },
+                        "157": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "158": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "159": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "160": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "161": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "162": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "163": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "164": {
+                            "correct": 2,
+                            "wrong": 2
+                        },
+                        "165": {
+                            "correct": 0,
+                            "wrong": 2
+                        },
+                        "166": {
+                            "correct": 1,
+                            "wrong": 3
+                        },
+                        "167": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "168": {
+                            "correct": 0,
+                            "wrong": 2
+                        },
+                        "169": {
+                            "correct": 1,
+                            "wrong": 3
+                        },
+                        "170": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "171": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "172": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "173": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "174": {
+                            "correct": 1,
+                            "wrong": 3
+                        },
+                        "175": {
+                            "correct": 3,
+                            "wrong": 1
+                        },
+                        "176": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "177": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "178": {
+                            "correct": 0,
+                            "wrong": 2
+                        },
+                        "179": {
+                            "correct": 2,
+                            "wrong": 1
+                        },
+                        "180": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "181": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "182": {
+                            "correct": 0,
+                            "wrong": 2
+                        },
+                        "183": {
+                            "correct": 1,
+                            "wrong": 4
+                        },
+                        "184": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "185": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "186": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "187": {
+                            "correct": 0,
+                            "wrong": 2
+                        },
+                        "188": {
+                            "correct": 1,
+                            "wrong": 3
+                        },
+                        "189": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "190": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "191": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "192": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "193": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "194": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "195": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "196": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "197": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "198": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "199": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "200": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "201": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "202": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "203": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "204": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "205": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "206": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "207": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "208": {
+                            "correct": 1,
+                            "wrong": 4
+                        },
+                        "209": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "210": {
+                            "correct": 3,
+                            "wrong": 0
+                        },
+                        "211": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "212": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "213": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "214": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "215": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "216": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "217": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "218": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "219": {
+                            "correct": 1,
+                            "wrong": 3
+                        },
+                        "220": {
+                            "correct": 0,
+                            "wrong": 2
+                        },
+                        "221": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "222": {
+                            "correct": 4,
+                            "wrong": 0
+                        },
+                        "223": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "224": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "225": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "226": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "227": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "228": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "229": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "230": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "231": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "232": {
+                            "correct": 0,
+                            "wrong": 5
+                        },
+                        "233": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "234": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "235": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "236": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "237": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "238": {
+                            "correct": 0,
+                            "wrong": 5
+                        },
+                        "239": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "240": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "241": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "242": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "243": {
+                            "correct": 0,
+                            "wrong": 5
+                        },
+                        "244": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "245": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "246": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "247": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "248": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "249": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "250": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "251": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "252": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "253": {
+                            "correct": 2,
+                            "wrong": 0
+                        },
+                        "254": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "255": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "256": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "257": {
+                            "correct": 1,
+                            "wrong": 3
+                        },
+                        "258": {
+                            "correct": 3,
+                            "wrong": 0
+                        },
+                        "259": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "260": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "261": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "262": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "263": {
+                            "correct": 1,
+                            "wrong": 3
+                        },
+                        "264": {
+                            "correct": 1,
+                            "wrong": 3
+                        },
+                        "265": {
+                            "correct": 0,
+                            "wrong": 5
+                        },
+                        "266": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "267": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "268": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "269": {
+                            "correct": 0,
+                            "wrong": 2
+                        },
+                        "270": {
+                            "correct": 1,
+                            "wrong": 3
+                        },
+                        "271": {
+                            "correct": 2,
+                            "wrong": 1
+                        },
+                        "272": {
+                            "correct": 1,
+                            "wrong": 1
+                        },
+                        "273": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "274": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "275": {
+                            "correct": 0,
+                            "wrong": 2
+                        },
+                        "276": {
+                            "correct": 0,
+                            "wrong": 2
+                        },
+                        "277": {
+                            "correct": 0,
+                            "wrong": 4
+                        },
+                        "278": {
+                            "correct": 1,
+                            "wrong": 2
+                        },
+                        "279": {
+                            "correct": 0,
+                            "wrong": 3
+                        },
+                        "280": {
+                            "correct": 0,
+                            "wrong": 3
+                        }
+                    }
+                }
+            ]
+        }
+    ],
+    "sets": [
+        {
+            "id": 1,
+            "cards": {
+                "1": {
+                    "id": 1,
+                    "question": "",
+                    "term": "la familia",
+                    "definition": "rodina z man\u017eelovy\/man\u017eel\u010diny strany\r",
+                    "images": []
+                },
+                "2": {
+                    "id": 2,
+                    "question": "",
+                    "term": "las relaciones familiares",
+                    "definition": "rodinn\u00e9 vztahy\r",
+                    "images": []
+                },
+                "3": {
+                    "id": 3,
+                    "question": "",
+                    "term": "el \u00e1rbol geneal\u00f3gico",
+                    "definition": "genealogick\u00fd strom\r",
+                    "images": []
+                },
+                "4": {
+                    "id": 4,
+                    "question": "",
+                    "term": "hacer un \u00e1rbol geneal\u00f3gico",
+                    "definition": "sestavit rodokmen\r",
+                    "images": []
+                },
+                "5": {
+                    "id": 5,
+                    "question": "",
+                    "term": "el pariente \/ el familiar",
+                    "definition": "p\u0159\u00edbuzn\u00fd, \u010dlen rodiny\r",
+                    "images": []
+                },
+                "6": {
+                    "id": 6,
+                    "question": "",
+                    "term": "el parentesco",
+                    "definition": "p\u0159\u00edbuzensk\u00fd vztah\r",
+                    "images": []
+                },
+                "7": {
+                    "id": 7,
+                    "question": "",
+                    "term": "la parentela",
+                    "definition": "(hovor.) p\u0159\u00edbuzenstvo, rodina\r",
+                    "images": []
+                },
+                "8": {
+                    "id": 8,
+                    "question": "",
+                    "term": "los miembros de la familia",
+                    "definition": "\u010dlenov\u00e9 rodiny\r",
+                    "images": []
+                },
+                "9": {
+                    "id": 9,
+                    "question": "",
+                    "term": "los antepasados \/ la ascendencia",
+                    "definition": "p\u0159edkov\u00e9\r",
+                    "images": []
+                },
+                "10": {
+                    "id": 10,
+                    "question": "",
+                    "term": "los descendientes \/ la descendencia",
+                    "definition": "potomci\r",
+                    "images": []
+                },
+                "11": {
+                    "id": 11,
+                    "question": "",
+                    "term": "el padre",
+                    "definition": "otec\r",
+                    "images": []
+                },
+                "12": {
+                    "id": 12,
+                    "question": "",
+                    "term": "el hijo",
+                    "definition": "syn\r",
+                    "images": []
+                },
+                "13": {
+                    "id": 13,
+                    "question": "",
+                    "term": "el hermano",
+                    "definition": "bratr\r",
+                    "images": []
+                },
+                "14": {
+                    "id": 14,
+                    "question": "",
+                    "term": "el abuelo",
+                    "definition": "d\u011bde\u010dek\r",
+                    "images": []
+                },
+                "15": {
+                    "id": 15,
+                    "question": "",
+                    "term": "el nieto",
+                    "definition": "vnuk\r",
+                    "images": []
+                },
+                "16": {
+                    "id": 16,
+                    "question": "",
+                    "term": "el t\u00edo",
+                    "definition": "str\u00fdc\r",
+                    "images": []
+                },
+                "17": {
+                    "id": 17,
+                    "question": "",
+                    "term": "el primo",
+                    "definition": "bratranec\r",
+                    "images": []
+                },
+                "18": {
+                    "id": 18,
+                    "question": "",
+                    "term": "el sobrino",
+                    "definition": "synovec\r",
+                    "images": []
+                },
+                "19": {
+                    "id": 19,
+                    "question": "",
+                    "term": "la madre",
+                    "definition": "matka\r",
+                    "images": []
+                },
+                "20": {
+                    "id": 20,
+                    "question": "",
+                    "term": "la hija",
+                    "definition": "dcera\r",
+                    "images": []
+                },
+                "21": {
+                    "id": 21,
+                    "question": "",
+                    "term": "la hermana",
+                    "definition": "sestra\r",
+                    "images": []
+                },
+                "22": {
+                    "id": 22,
+                    "question": "",
+                    "term": "la abuela",
+                    "definition": "babi\u010dka\r",
+                    "images": []
+                },
+                "23": {
+                    "id": 23,
+                    "question": "",
+                    "term": "la nieta",
+                    "definition": "vnu\u010dka\r",
+                    "images": []
+                },
+                "24": {
+                    "id": 24,
+                    "question": "",
+                    "term": "la t\u00eda",
+                    "definition": "teta\r",
+                    "images": []
+                },
+                "25": {
+                    "id": 25,
+                    "question": "",
+                    "term": "la prima",
+                    "definition": "sest\u0159enice\r",
+                    "images": []
+                },
+                "26": {
+                    "id": 26,
+                    "question": "",
+                    "term": "la sobrina",
+                    "definition": "nete\u0159\r",
+                    "images": []
+                },
+                "27": {
+                    "id": 27,
+                    "question": "",
+                    "term": "los padres",
+                    "definition": "rodi\u010de\r",
+                    "images": []
+                },
+                "28": {
+                    "id": 28,
+                    "question": "",
+                    "term": "los hijos",
+                    "definition": "d\u011bti, synov\u00e9\r",
+                    "images": []
+                },
+                "29": {
+                    "id": 29,
+                    "question": "",
+                    "term": "los hermanos",
+                    "definition": "sourozenci, brat\u0159i\r",
+                    "images": []
+                },
+                "30": {
+                    "id": 30,
+                    "question": "",
+                    "term": "los abuelos",
+                    "definition": "prarodi\u010de\r",
+                    "images": []
+                },
+                "31": {
+                    "id": 31,
+                    "question": "",
+                    "term": "los nietos",
+                    "definition": "vnou\u010data, vnuci\r",
+                    "images": []
+                },
+                "32": {
+                    "id": 32,
+                    "question": "",
+                    "term": "los t\u00edos",
+                    "definition": "teta se str\u00fdcem\r",
+                    "images": []
+                },
+                "33": {
+                    "id": 33,
+                    "question": "",
+                    "term": "los primos",
+                    "definition": "bratranci a sest\u0159enice\r",
+                    "images": []
+                },
+                "34": {
+                    "id": 34,
+                    "question": "",
+                    "term": "los sobrinos",
+                    "definition": "synovci a nete\u0159e\r",
+                    "images": []
+                },
+                "35": {
+                    "id": 35,
+                    "question": "",
+                    "term": "las esposas",
+                    "definition": "man\u017eelsk\u00fd p\u00e1r\r",
+                    "images": []
+                },
+                "36": {
+                    "id": 36,
+                    "question": "",
+                    "term": "la familia pol\u00edtica",
+                    "definition": "rodina z man\u017eelovy\/man\u017eel\u010diny strany\r",
+                    "images": []
+                },
+                "37": {
+                    "id": 37,
+                    "question": "",
+                    "term": "el suegro \/ el padre pol\u00edtico",
+                    "definition": "tch\u00e1n\r",
+                    "images": []
+                },
+                "38": {
+                    "id": 38,
+                    "question": "",
+                    "term": "la suegra \/ la madre pol\u00edtica",
+                    "definition": "tchyn\u011b\r",
+                    "images": []
+                },
+                "39": {
+                    "id": 39,
+                    "question": "",
+                    "term": "los suegros \/ los padres pol\u00edticos",
+                    "definition": "tch\u00e1n s tchyn\u00ed\r",
+                    "images": []
+                },
+                "40": {
+                    "id": 40,
+                    "question": "",
+                    "term": "el yerno \/ el hijo pol\u00edtico",
+                    "definition": "ze\u0165\r",
+                    "images": []
+                },
+                "41": {
+                    "id": 41,
+                    "question": "",
+                    "term": "el cu\u00f1ado \/ el hermano pol\u00edtico",
+                    "definition": "\u0161vagr\r",
+                    "images": []
+                },
+                "42": {
+                    "id": 42,
+                    "question": "",
+                    "term": "al hijastro",
+                    "definition": "nevlastn\u00ed syn\r",
+                    "images": []
+                },
+                "43": {
+                    "id": 43,
+                    "question": "",
+                    "term": "el hermanastro",
+                    "definition": "nevlastn\u00ed bratr\r",
+                    "images": []
+                },
+                "44": {
+                    "id": 44,
+                    "question": "",
+                    "term": "el padrastro",
+                    "definition": "nevlastn\u00ed otec\r",
+                    "images": []
+                },
+                "45": {
+                    "id": 45,
+                    "question": "",
+                    "term": "el bisabuelo",
+                    "definition": "prad\u011bde\u010dek\r",
+                    "images": []
+                },
+                "46": {
+                    "id": 46,
+                    "question": "",
+                    "term": "el bisnieto",
+                    "definition": "pravnuk\r",
+                    "images": []
+                },
+                "47": {
+                    "id": 47,
+                    "question": "",
+                    "term": "el tatarabuelo",
+                    "definition": "praprad\u011bde\u010dek\r",
+                    "images": []
+                },
+                "48": {
+                    "id": 48,
+                    "question": "",
+                    "term": "el tatarnieto",
+                    "definition": "prapravnuk\r",
+                    "images": []
+                },
+                "49": {
+                    "id": 49,
+                    "question": "",
+                    "term": "la nuera \/ la hija pol\u00edtica",
+                    "definition": "snacha\r",
+                    "images": []
+                },
+                "50": {
+                    "id": 50,
+                    "question": "",
+                    "term": "la cu\u00f1ada \/ la hermana pol\u00edtica",
+                    "definition": "\u0161vagrov\u00e1\r",
+                    "images": []
+                },
+                "51": {
+                    "id": 51,
+                    "question": "",
+                    "term": "la hijastra",
+                    "definition": "nevlastn\u00ed dcera\r",
+                    "images": []
+                },
+                "52": {
+                    "id": 52,
+                    "question": "",
+                    "term": "la madrastra",
+                    "definition": "nevlastn\u00ed matka\r",
+                    "images": []
+                },
+                "53": {
+                    "id": 53,
+                    "question": "",
+                    "term": "la hermanastra",
+                    "definition": "nevlastn\u00ed sestra\r",
+                    "images": []
+                },
+                "54": {
+                    "id": 54,
+                    "question": "",
+                    "term": "la bisabuela",
+                    "definition": "prababi\u010dka\r",
+                    "images": []
+                },
+                "55": {
+                    "id": 55,
+                    "question": "",
+                    "term": "la bisnieta",
+                    "definition": "pravnu\u010dka\r",
+                    "images": []
+                },
+                "56": {
+                    "id": 56,
+                    "question": "",
+                    "term": "la tatarabuela",
+                    "definition": "praprababi\u010dka\r",
+                    "images": []
+                },
+                "57": {
+                    "id": 57,
+                    "question": "",
+                    "term": "la tataranieta",
+                    "definition": "prapravnu\u010dka\r",
+                    "images": []
+                },
+                "58": {
+                    "id": 58,
+                    "question": "",
+                    "term": "por el \/ del lado materno\/paterno",
+                    "definition": "z mat\u010diny\/otcovy strany\r",
+                    "images": []
+                },
+                "59": {
+                    "id": 59,
+                    "question": "",
+                    "term": "el abuelo materno \/ de parte de mi mam\u00e1",
+                    "definition": "d\u011bde\u010dek z mat\u010diny strany\r",
+                    "images": []
+                },
+                "60": {
+                    "id": 60,
+                    "question": "",
+                    "term": "la pareja",
+                    "definition": "partner\/ka, p\u00e1r\r",
+                    "images": []
+                },
+                "61": {
+                    "id": 61,
+                    "question": "",
+                    "term": "mi media naranja",
+                    "definition": "(hovor.) moje drah\u00e1 polovi\u010dka\r",
+                    "images": []
+                },
+                "62": {
+                    "id": 62,
+                    "question": "",
+                    "term": "los acontecimientos familiares",
+                    "definition": "rodinn\u00e9 ud\u00e1losti\r",
+                    "images": []
+                },
+                "63": {
+                    "id": 63,
+                    "question": "",
+                    "term": "la pedida de mano \/ el compromiso",
+                    "definition": "z\u00e1snuby\r",
+                    "images": []
+                },
+                "64": {
+                    "id": 64,
+                    "question": "",
+                    "term": "declar\u00e1rsele a (u. p.) \/ declarar el amor a (u.p.)",
+                    "definition": "vyznat l\u00e1sku (komu)\r",
+                    "images": []
+                },
+                "65": {
+                    "id": 65,
+                    "question": "",
+                    "term": "la declaraci\u00f3n de amor",
+                    "definition": "vyzn\u00e1n\u00ed l\u00e1sky\r",
+                    "images": []
+                },
+                "66": {
+                    "id": 66,
+                    "question": "",
+                    "term": "salir con una chica",
+                    "definition": "chodit s d\u011bv\u010detem\r",
+                    "images": []
+                },
+                "67": {
+                    "id": 67,
+                    "question": "",
+                    "term": "pretender a una mujer \/ la mano de (u.p.)",
+                    "definition": "uch\u00e1zet se o \u017eenu \/ o ruku (\u010d\u00ed)\r",
+                    "images": []
+                },
+                "68": {
+                    "id": 68,
+                    "question": "",
+                    "term": "el pretendiente",
+                    "definition": "n\u00e1padn\u00edk, uchaze\u010d\r",
+                    "images": []
+                },
+                "69": {
+                    "id": 69,
+                    "question": "",
+                    "term": "pedir\/solicitar el matrimonio \/ la mano",
+                    "definition": "\u017e\u00e1dat o ruku\r",
+                    "images": []
+                },
+                "70": {
+                    "id": 70,
+                    "question": "",
+                    "term": "(com)prometerse con (u.p.)",
+                    "definition": "zasnoubit se (s k\u00fdm)\r",
+                    "images": []
+                },
+                "71": {
+                    "id": 71,
+                    "question": "",
+                    "term": "celebrar esponsales",
+                    "definition": "slavit z\u00e1snuby\r",
+                    "images": []
+                },
+                "72": {
+                    "id": 72,
+                    "question": "",
+                    "term": "el prometido",
+                    "definition": "snoubenec\r",
+                    "images": []
+                },
+                "73": {
+                    "id": 73,
+                    "question": "",
+                    "term": "la prometida",
+                    "definition": "snoubenka\r",
+                    "images": []
+                },
+                "74": {
+                    "id": 74,
+                    "question": "",
+                    "term": "el novio",
+                    "definition": "\u017eenich, p\u0159\u00edtel (romantick\u00fd vztah)\r",
+                    "images": []
+                },
+                "75": {
+                    "id": 75,
+                    "question": "",
+                    "term": "la novia",
+                    "definition": "nev\u011bsta, p\u0159\u00edtelkyn\u011b (romantick\u00fd vztah)\r",
+                    "images": []
+                },
+                "76": {
+                    "id": 76,
+                    "question": "",
+                    "term": "el solter\u00f3n",
+                    "definition": "star\u00fd ml\u00e1denec\r",
+                    "images": []
+                },
+                "77": {
+                    "id": 77,
+                    "question": "",
+                    "term": "la solterona",
+                    "definition": "star\u00e1 panna\r",
+                    "images": []
+                },
+                "78": {
+                    "id": 78,
+                    "question": "",
+                    "term": "dar calabazas a (u. p.)",
+                    "definition": "d\u00e1t ko\u0161em (komu), potopit u zkou\u0161ky (koho)\r",
+                    "images": []
+                },
+                "79": {
+                    "id": 79,
+                    "question": "",
+                    "term": "quedarse para vestir santos \/ para vestir im\u00e1genes \/ pasarse el arroz a (u. p.)",
+                    "definition": "z\u016fstat na ocet (kdo)\r",
+                    "images": []
+                },
+                "80": {
+                    "id": 80,
+                    "question": "",
+                    "term": "si no me caso pronto, se me va a pasar el arroz",
+                    "definition": "jestli se brzy nevd\u00e1m, z\u016fstanu na ocet\r",
+                    "images": []
+                },
+                "81": {
+                    "id": 81,
+                    "question": "",
+                    "term": "el casamiento",
+                    "definition": "s\u0148atek\r",
+                    "images": []
+                },
+                "82": {
+                    "id": 82,
+                    "question": "",
+                    "term": "la despedida de solero\/a",
+                    "definition": "rozlu\u010dka se svobodou\r",
+                    "images": []
+                },
+                "83": {
+                    "id": 83,
+                    "question": "",
+                    "term": "la boda \/ las bodas",
+                    "definition": "svatba\r",
+                    "images": []
+                },
+                "84": {
+                    "id": 84,
+                    "question": "",
+                    "term": "el aniversario",
+                    "definition": "v\u00fdro\u010d\u00ed\r",
+                    "images": []
+                },
+                "85": {
+                    "id": 85,
+                    "question": "",
+                    "term": "el matrimonio",
+                    "definition": "man\u017eelsk\u00fd p\u00e1r, man\u017eelstv\u00ed\r",
+                    "images": []
+                },
+                "86": {
+                    "id": 86,
+                    "question": "",
+                    "term": "casarse con (u. p.) \/ contraer (el) matrimonio con (u. p.)",
+                    "definition": "o\u017eenit se (za koho), vd\u00e1t se (za koho), uzav\u0159\u00edt man\u017eelstv\u00ed (s k\u00fdm)\r",
+                    "images": []
+                },
+                "87": {
+                    "id": 87,
+                    "question": "",
+                    "term": "los reci\u00e9n casados",
+                    "definition": "novoman\u017eel\u00e9\r",
+                    "images": []
+                },
+                "88": {
+                    "id": 88,
+                    "question": "",
+                    "term": "el marido \/ el esposo \/ el c\u00f3nyuge",
+                    "definition": "man\u017eel\r",
+                    "images": []
+                },
+                "89": {
+                    "id": 89,
+                    "question": "",
+                    "term": "la esposa \/ la mujer \/ la c\u00f3nyuge",
+                    "definition": "man\u017eelka\r",
+                    "images": []
+                },
+                "90": {
+                    "id": 90,
+                    "question": "",
+                    "term": "el casamiento por lo civil",
+                    "definition": "ob\u010dansk\u00fd s\u0148atek\r",
+                    "images": []
+                },
+                "91": {
+                    "id": 91,
+                    "question": "",
+                    "term": "el casamiento por la Iglesia",
+                    "definition": "c\u00edrkevn\u00ed s\u0148atek\r",
+                    "images": []
+                },
+                "92": {
+                    "id": 92,
+                    "question": "",
+                    "term": "la bodas de plata \/ de oro \/ de diamante",
+                    "definition": "st\u0159\u00edbrn\u00e1\/zlat\u00e1\/diamantov\u00e1 svatba\r",
+                    "images": []
+                },
+                "93": {
+                    "id": 93,
+                    "question": "",
+                    "term": "el anillo de boda",
+                    "definition": "svatebn\u00ed prsten\r",
+                    "images": []
+                },
+                "94": {
+                    "id": 94,
+                    "question": "",
+                    "term": "el\/la dote",
+                    "definition": "v\u011bno\r",
+                    "images": []
+                },
+                "95": {
+                    "id": 95,
+                    "question": "",
+                    "term": "conseguir la dote cas\u00e1ndose con (u.p.)",
+                    "definition": "vy\u017eenit (k\u00fdm)\r",
+                    "images": []
+                },
+                "96": {
+                    "id": 96,
+                    "question": "",
+                    "term": "asignar dote a (u. p.) \/ dotar a (u. p.)",
+                    "definition": "d\u00e1t v\u011bnem (komu)\r",
+                    "images": []
+                },
+                "97": {
+                    "id": 97,
+                    "question": "",
+                    "term": "la novia indotada",
+                    "definition": "nev\u011bsta bez v\u011bna\r",
+                    "images": []
+                },
+                "98": {
+                    "id": 98,
+                    "question": "",
+                    "term": "este\/a muchacho\/a es mi pareja",
+                    "definition": "toto je m\u016fj chlapec\/d\u00edvka\r",
+                    "images": []
+                },
+                "99": {
+                    "id": 99,
+                    "question": "",
+                    "term": "el padrino \/ la madrina \/ el\/la testigo",
+                    "definition": "sv\u011bdek, sv\u011bdkyn\u011b (na svatb\u011b)\r",
+                    "images": []
+                },
+                "100": {
+                    "id": 100,
+                    "question": "",
+                    "term": "la luna de miel \/ el viaje de bodas \/ el viaje de novios",
+                    "definition": "svatebn\u00ed cesta, l\u00edb\u00e1nky\r",
+                    "images": []
+                },
+                "101": {
+                    "id": 101,
+                    "question": "",
+                    "term": "la vida conyugal\/matrimonial",
+                    "definition": "man\u017eelsk\u00fd \u017eivot\r",
+                    "images": []
+                },
+                "102": {
+                    "id": 102,
+                    "question": "",
+                    "term": "la convivencia",
+                    "definition": "sou\u017eit\u00ed\r",
+                    "images": []
+                },
+                "103": {
+                    "id": 103,
+                    "question": "",
+                    "term": "el nacimiento de un hijo",
+                    "definition": "narozen\u00ed d\u00edt\u011bte\r",
+                    "images": []
+                },
+                "104": {
+                    "id": 104,
+                    "question": "",
+                    "term": "la tasa de natalidad",
+                    "definition": "m\u00edra porodnosti\r",
+                    "images": []
+                },
+                "105": {
+                    "id": 105,
+                    "question": "",
+                    "term": "concebir un hijo",
+                    "definition": "po\u010d\u00edt d\u00edt\u011b, ot\u011bhotn\u011bt\r",
+                    "images": []
+                },
+                "106": {
+                    "id": 106,
+                    "question": "",
+                    "term": "el embarazo",
+                    "definition": "t\u011bhotenstv\u00ed\r",
+                    "images": []
+                },
+                "107": {
+                    "id": 107,
+                    "question": "",
+                    "term": "la embarazada",
+                    "definition": "t\u011bhotn\u00e1 \u017eena\r",
+                    "images": []
+                },
+                "108": {
+                    "id": 108,
+                    "question": "",
+                    "term": "est\u00e1 embarazada de 6 meses",
+                    "definition": "je v 6. m\u011bs\u00edci\r",
+                    "images": []
+                },
+                "109": {
+                    "id": 109,
+                    "question": "",
+                    "term": "el cord\u00f3n umbilical",
+                    "definition": "pupe\u010dn\u00ed \u0161\u0148\u016fra\r",
+                    "images": []
+                },
+                "110": {
+                    "id": 110,
+                    "question": "",
+                    "term": "estar a punto de dar a luz \/ estar cumplida",
+                    "definition": "m\u00edt tesn\u011b p\u0159ed porodem\r",
+                    "images": []
+                },
+                "111": {
+                    "id": 111,
+                    "question": "",
+                    "term": "est\u00e1 embarazada de un hombre mucho mayor",
+                    "definition": "\u010dek\u00e1 d\u00edt\u011b s mnohem star\u0161\u00edm mu\u017eem\r",
+                    "images": []
+                },
+                "112": {
+                    "id": 112,
+                    "question": "",
+                    "term": "el traje de maternidad \/ la ropa premam\u00e1",
+                    "definition": "t\u011bhotensk\u00e9 \u0161aty\r",
+                    "images": []
+                },
+                "113": {
+                    "id": 113,
+                    "question": "",
+                    "term": "el aborto",
+                    "definition": "potrat\r",
+                    "images": []
+                },
+                "114": {
+                    "id": 114,
+                    "question": "",
+                    "term": "abortar espont\u00e1neamente",
+                    "definition": "samovoln\u011b potratit\r",
+                    "images": []
+                },
+                "115": {
+                    "id": 115,
+                    "question": "",
+                    "term": "someterse a la interrupci\u00f3n del embarazo",
+                    "definition": "podstoupit interrupci\r",
+                    "images": []
+                },
+                "116": {
+                    "id": 116,
+                    "question": "",
+                    "term": "la prohibici\u00f3n del aborto",
+                    "definition": "z\u00e1kaz interrupce\r",
+                    "images": []
+                },
+                "117": {
+                    "id": 117,
+                    "question": "",
+                    "term": "la legalizaci\u00f3n del aborto",
+                    "definition": "legalizace interrupce\r",
+                    "images": []
+                },
+                "118": {
+                    "id": 118,
+                    "question": "",
+                    "term": "dar a luz a (u. p.) \/ dar vida a (u. p.) \/ parir",
+                    "definition": "porodit (koho), d\u00e1t \u017eivot (komu)\r",
+                    "images": []
+                },
+                "119": {
+                    "id": 119,
+                    "question": "",
+                    "term": "el partero \/ el obstetra",
+                    "definition": "porodn\u00edk\r",
+                    "images": []
+                },
+                "120": {
+                    "id": 120,
+                    "question": "",
+                    "term": "la matrona",
+                    "definition": "porodn\u00ed asistentka\/asistent\r",
+                    "images": []
+                },
+                "121": {
+                    "id": 121,
+                    "question": "",
+                    "term": "el parto prematuro",
+                    "definition": "p\u0159ed\u010dasn\u00fd porod\r",
+                    "images": []
+                },
+                "122": {
+                    "id": 122,
+                    "question": "",
+                    "term": "la cl\u00ednica de maternidad",
+                    "definition": "porodnice\r",
+                    "images": []
+                },
+                "123": {
+                    "id": 123,
+                    "question": "",
+                    "term": "el reci\u00e9n nacido (pl. los reci\u00e9n nacidos)",
+                    "definition": "novorozenec\r",
+                    "images": []
+                },
+                "124": {
+                    "id": 124,
+                    "question": "",
+                    "term": "el beb\u00e9 \/ el cr\u00edo \/ el ni\u00f1o de brazo",
+                    "definition": "miminko\r",
+                    "images": []
+                },
+                "125": {
+                    "id": 125,
+                    "question": "",
+                    "term": "el ni\u00f1o lactante \/ el ni\u00f1o de pecho",
+                    "definition": "kojenec\r",
+                    "images": []
+                },
+                "126": {
+                    "id": 126,
+                    "question": "",
+                    "term": "amamantar \/ lactar \/ dar de pecho",
+                    "definition": "kojit\r",
+                    "images": []
+                },
+                "127": {
+                    "id": 127,
+                    "question": "",
+                    "term": "el amamantamiento \/ la lactancia",
+                    "definition": "kojen\u00ed\r",
+                    "images": []
+                },
+                "128": {
+                    "id": 128,
+                    "question": "",
+                    "term": "el ama (f.) de cr\u00eda \/ la nodriza",
+                    "definition": "kojn\u00e1\r",
+                    "images": []
+                },
+                "129": {
+                    "id": 129,
+                    "question": "",
+                    "term": "los gemelos \/ los mellizos",
+                    "definition": "dvoj\u010data\r",
+                    "images": []
+                },
+                "130": {
+                    "id": 130,
+                    "question": "",
+                    "term": "los trillizos",
+                    "definition": "troj\u010data\r",
+                    "images": []
+                },
+                "131": {
+                    "id": 131,
+                    "question": "",
+                    "term": "los cuatrillizos",
+                    "definition": "\u010dty\u0159\u010data\r",
+                    "images": []
+                },
+                "132": {
+                    "id": 132,
+                    "question": "",
+                    "term": "el hijo leg\u00edtimo",
+                    "definition": "man\u017eelsk\u00e9 d\u00edt\u011b\r",
+                    "images": []
+                },
+                "133": {
+                    "id": 133,
+                    "question": "",
+                    "term": "el hijo ileg\u00edtimo \/ el hijo natural",
+                    "definition": "neman\u017eelsk\u00e9 d\u00edt\u011b\r",
+                    "images": []
+                },
+                "134": {
+                    "id": 134,
+                    "question": "",
+                    "term": "el hijo adoptivo",
+                    "definition": "adoptivn\u00ed d\u00edt\u011b\r",
+                    "images": []
+                },
+                "135": {
+                    "id": 135,
+                    "question": "",
+                    "term": "el uhji \u00facino \/ la hija \u00fanica",
+                    "definition": "jedin\u00e1\u010dek\r",
+                    "images": []
+                },
+                "136": {
+                    "id": 136,
+                    "question": "",
+                    "term": "el primog\u00e9nito",
+                    "definition": "prvorozen\u00e9 d\u00edt\u011b\r",
+                    "images": []
+                },
+                "137": {
+                    "id": 137,
+                    "question": "",
+                    "term": "parecerse a (u. p.)",
+                    "definition": "b\u00fdt podobn\u00fd (na koho)\r",
+                    "images": []
+                },
+                "138": {
+                    "id": 138,
+                    "question": "",
+                    "term": "el bautismo \/ el bautizo",
+                    "definition": "k\u0159est\r",
+                    "images": []
+                },
+                "139": {
+                    "id": 139,
+                    "question": "",
+                    "term": "bautizar",
+                    "definition": "k\u0159t\u00edt\r",
+                    "images": []
+                },
+                "140": {
+                    "id": 140,
+                    "question": "",
+                    "term": "el nombre de bautismo \/ el nombre de pila",
+                    "definition": "k\u0159estn\u00ed jm\u00e9no\r",
+                    "images": []
+                },
+                "141": {
+                    "id": 141,
+                    "question": "",
+                    "term": "el padrino",
+                    "definition": "kmotr\r",
+                    "images": []
+                },
+                "142": {
+                    "id": 142,
+                    "question": "",
+                    "term": "la madrina",
+                    "definition": "kmotra\r",
+                    "images": []
+                },
+                "143": {
+                    "id": 143,
+                    "question": "",
+                    "term": "ir de padrino \/ servir de padrino a (u. p.)",
+                    "definition": "j\u00edt za kmotra (komu)\r",
+                    "images": []
+                },
+                "144": {
+                    "id": 144,
+                    "question": "",
+                    "term": "ser padrino de (u. p.)",
+                    "definition": "b\u00fdt kmotrem (koho)\r",
+                    "images": []
+                },
+                "145": {
+                    "id": 145,
+                    "question": "",
+                    "term": "el divorcio",
+                    "definition": "rozvod\r",
+                    "images": []
+                },
+                "146": {
+                    "id": 146,
+                    "question": "",
+                    "term": "divorciarse de (u. p.)",
+                    "definition": "rozv\u00e9st se (s k\u00fdm)\r",
+                    "images": []
+                },
+                "147": {
+                    "id": 147,
+                    "question": "",
+                    "term": "la separaci\u00f3n (matrimonial)",
+                    "definition": "(man\u017eelsk\u00e1) odluka\r",
+                    "images": []
+                },
+                "148": {
+                    "id": 148,
+                    "question": "",
+                    "term": "separarse de (u. p.)",
+                    "definition": "odlou\u010dit se (od koho)\r",
+                    "images": []
+                },
+                "149": {
+                    "id": 149,
+                    "question": "",
+                    "term": "los esposos se separaron",
+                    "definition": "man\u017eel\u00e9 se roze\u0161li\r",
+                    "images": []
+                },
+                "150": {
+                    "id": 150,
+                    "question": "",
+                    "term": "la pensi\u00f3n alimenticia",
+                    "definition": "v\u00fd\u017eivn\u00e9, alimenty\r",
+                    "images": []
+                },
+                "151": {
+                    "id": 151,
+                    "question": "",
+                    "term": "los celos",
+                    "definition": "\u017e\u00e1rlivost\r",
+                    "images": []
+                },
+                "152": {
+                    "id": 152,
+                    "question": "",
+                    "term": "por celos",
+                    "definition": "ze \u017e\u00e1rlivosti\r",
+                    "images": []
+                },
+                "153": {
+                    "id": 153,
+                    "question": "",
+                    "term": "dar celos a",
+                    "definition": "d\u00e1t podn\u011bt k \u017e\u00e1rlivosti\r",
+                    "images": []
+                },
+                "154": {
+                    "id": 154,
+                    "question": "",
+                    "term": "tener celos de (u. p.)",
+                    "definition": "b\u00fdt \u017e\u00e1rliv\u00fd (na koho)\r",
+                    "images": []
+                },
+                "155": {
+                    "id": 155,
+                    "question": "",
+                    "term": "estar celoso de todos",
+                    "definition": "\u017e\u00e1rlit na ka\u017ed\u00e9ho\r",
+                    "images": []
+                },
+                "156": {
+                    "id": 156,
+                    "question": "",
+                    "term": "el adulterio",
+                    "definition": "cizolo\u017estv\u00ed, nev\u011bra\r",
+                    "images": []
+                },
+                "157": {
+                    "id": 157,
+                    "question": "",
+                    "term": "infiel \/ ad\u00faltero",
+                    "definition": "nev\u011brn\u00fd\r",
+                    "images": []
+                },
+                "158": {
+                    "id": 158,
+                    "question": "",
+                    "term": "el cornudo \/ la cornuda",
+                    "definition": "parho\u00e1\u010d mu\u017e\/\u017eena\r",
+                    "images": []
+                },
+                "159": {
+                    "id": 159,
+                    "question": "",
+                    "term": "ser un cornudo",
+                    "definition": "b\u00fdt podv\u00e1d\u011bn\u00fd, nosit parohy\r",
+                    "images": []
+                },
+                "160": {
+                    "id": 160,
+                    "question": "",
+                    "term": "el fallecimiento",
+                    "definition": "\u00famrt\u00ed\r",
+                    "images": []
+                },
+                "161": {
+                    "id": 161,
+                    "question": "",
+                    "term": "la muerte \/ la defunci\u00f3n",
+                    "definition": "smrt, zesnut\u00ed, skon\u00e1n\u00ed\r",
+                    "images": []
+                },
+                "162": {
+                    "id": 162,
+                    "question": "",
+                    "term": "morir(se) \/ fallecer",
+                    "definition": "zem\u0159\u00edt, skon\r",
+                    "images": []
+                },
+                "163": {
+                    "id": 163,
+                    "question": "",
+                    "term": "el muerto \/ el difunto",
+                    "definition": "mrtv\u00fd \u010dlov\u011bk, nebo\u017et\u00edk\r",
+                    "images": []
+                },
+                "164": {
+                    "id": 164,
+                    "question": "",
+                    "term": "muerto \/ difunto",
+                    "definition": "mrtv\u00fd\r",
+                    "images": []
+                },
+                "165": {
+                    "id": 165,
+                    "question": "",
+                    "term": "el cad\u00e1ver",
+                    "definition": "mrtvola\r",
+                    "images": []
+                },
+                "166": {
+                    "id": 166,
+                    "question": "",
+                    "term": "el ata\u00fad",
+                    "definition": "rakev\r",
+                    "images": []
+                },
+                "167": {
+                    "id": 167,
+                    "question": "",
+                    "term": "el aviso de defunci\u00f3n \/ la carta funeral",
+                    "definition": "parte, \u00famrtn\u00ed ozn\u00e1men\u00ed\r",
+                    "images": []
+                },
+                "168": {
+                    "id": 168,
+                    "question": "",
+                    "term": "el cortejo f\u00fanebre",
+                    "definition": "poh\u0159ebn\u00ed pr\u016fvod\r",
+                    "images": []
+                },
+                "169": {
+                    "id": 169,
+                    "question": "",
+                    "term": "el cementerio \/ el camposanto",
+                    "definition": "h\u0159bitov\r",
+                    "images": []
+                },
+                "170": {
+                    "id": 170,
+                    "question": "",
+                    "term": "la tumba \/ la fosa \/ el sepulcro",
+                    "definition": "hrob, hrobka\r",
+                    "images": []
+                },
+                "171": {
+                    "id": 171,
+                    "question": "",
+                    "term": "el sepulturero",
+                    "definition": "hrobn\u00edk, hroba\u0159\r",
+                    "images": []
+                },
+                "172": {
+                    "id": 172,
+                    "question": "",
+                    "term": "la b\u00f3veda familiar \/ el pante\u00f3n familiar",
+                    "definition": "rodinn\u00e1 hrobka\r",
+                    "images": []
+                },
+                "173": {
+                    "id": 173,
+                    "question": "",
+                    "term": "la fosa com\u00fan",
+                    "definition": "spole\u010dn\u00fd hrob\r",
+                    "images": []
+                },
+                "174": {
+                    "id": 174,
+                    "question": "",
+                    "term": "el entierro \/ los funerales \/ el duelo",
+                    "definition": "poh\u0159eb\r",
+                    "images": []
+                },
+                "175": {
+                    "id": 175,
+                    "question": "",
+                    "term": "enterrar",
+                    "definition": "poh\u0159b\u00edt\r",
+                    "images": []
+                },
+                "176": {
+                    "id": 176,
+                    "question": "",
+                    "term": "el servicio funerario",
+                    "definition": "poh\u0159ebn\u00ed slu\u017eba\r",
+                    "images": []
+                },
+                "177": {
+                    "id": 177,
+                    "question": "",
+                    "term": "la funeraria",
+                    "definition": "poh\u0159ebn\u00ed \u00fastav\r",
+                    "images": []
+                },
+                "178": {
+                    "id": 178,
+                    "question": "",
+                    "term": "el funeral religioso",
+                    "definition": "c\u00edrkevn\u00ed poh\u0159eb\r",
+                    "images": []
+                },
+                "179": {
+                    "id": 179,
+                    "question": "",
+                    "term": "la cremaci\u00f3n",
+                    "definition": "kremace\r",
+                    "images": []
+                },
+                "180": {
+                    "id": 180,
+                    "question": "",
+                    "term": "incinerar",
+                    "definition": "zpopelnit\r",
+                    "images": []
+                },
+                "181": {
+                    "id": 181,
+                    "question": "",
+                    "term": "las exequias funerales \/ los funerales \/ la ceremonia del funeral",
+                    "definition": "poh\u0159ebn\u00ed ob\u0159ad\r",
+                    "images": []
+                },
+                "182": {
+                    "id": 182,
+                    "question": "",
+                    "term": "el cantof\u0144ebre",
+                    "definition": "poh\u0159ebn\u00ed p\u00edse\u0148\r",
+                    "images": []
+                },
+                "183": {
+                    "id": 183,
+                    "question": "",
+                    "term": "el furg\u00f3n mortuorio \/ el coche f\u00fanebre",
+                    "definition": "poh\u0159ebn\u00ed auto\r",
+                    "images": []
+                },
+                "184": {
+                    "id": 184,
+                    "question": "",
+                    "term": "Q.E.P.D. = que en paz descanse \/ R.I.P. = requiescat in pace",
+                    "definition": "a\u0165 odpo\u010d\u00edv\u00e1 v pokoji\r",
+                    "images": []
+                },
+                "185": {
+                    "id": 185,
+                    "question": "",
+                    "term": "dar el p\u00e9same a (u. p.)",
+                    "definition": "projevit soustrast (komu)\r",
+                    "images": []
+                },
+                "186": {
+                    "id": 186,
+                    "question": "",
+                    "term": "el luto",
+                    "definition": "smutek\r",
+                    "images": []
+                },
+                "187": {
+                    "id": 187,
+                    "question": "",
+                    "term": "estar de luto",
+                    "definition": "m\u00edt smutek\r",
+                    "images": []
+                },
+                "188": {
+                    "id": 188,
+                    "question": "",
+                    "term": "vestir de luto \/ llevar luto",
+                    "definition": "nosit smutek\r",
+                    "images": []
+                },
+                "189": {
+                    "id": 189,
+                    "question": "",
+                    "term": "ponerse de luto por (u. p.)",
+                    "definition": "nosit smutek (za koho)\r",
+                    "images": []
+                },
+                "190": {
+                    "id": 190,
+                    "question": "",
+                    "term": "el viudo",
+                    "definition": "vdovec\r",
+                    "images": []
+                },
+                "191": {
+                    "id": 191,
+                    "question": "",
+                    "term": "la viuda",
+                    "definition": "vdova\r",
+                    "images": []
+                },
+                "192": {
+                    "id": 192,
+                    "question": "",
+                    "term": "enviudar",
+                    "definition": "ovdov\u011bt\r",
+                    "images": []
+                },
+                "193": {
+                    "id": 193,
+                    "question": "",
+                    "term": "el hu\u00e9rfano",
+                    "definition": "sirotek\r",
+                    "images": []
+                },
+                "194": {
+                    "id": 194,
+                    "question": "",
+                    "term": "quedar hu\u00e9rfano",
+                    "definition": "osi\u0159et\r",
+                    "images": []
+                },
+                "195": {
+                    "id": 195,
+                    "question": "",
+                    "term": "el tutor",
+                    "definition": "poru\u010dn\u00edk\r",
+                    "images": []
+                },
+                "196": {
+                    "id": 196,
+                    "question": "",
+                    "term": "la tutela",
+                    "definition": "poru\u010dnictv\u00ed\r",
+                    "images": []
+                },
+                "197": {
+                    "id": 197,
+                    "question": "",
+                    "term": "heredar",
+                    "definition": "zd\u011bdit\r",
+                    "images": []
+                },
+                "198": {
+                    "id": 198,
+                    "question": "",
+                    "term": "la herencia",
+                    "definition": "d\u011bdictv\u00ed\r",
+                    "images": []
+                },
+                "199": {
+                    "id": 199,
+                    "question": "",
+                    "term": "el heredero",
+                    "definition": "d\u011bdic\r",
+                    "images": []
+                },
+                "200": {
+                    "id": 200,
+                    "question": "",
+                    "term": "la heredera",
+                    "definition": "d\u011bdi\u010dka\r",
+                    "images": []
+                },
+                "201": {
+                    "id": 201,
+                    "question": "",
+                    "term": "el testamento",
+                    "definition": "z\u00e1v\u011b\u0165\r",
+                    "images": []
+                },
+                "202": {
+                    "id": 202,
+                    "question": "",
+                    "term": "hacer el testamento",
+                    "definition": "odk\u00e1zat\r",
+                    "images": []
+                },
+                "203": {
+                    "id": 203,
+                    "question": "",
+                    "term": "la familia tradicional",
+                    "definition": "tradi\u010dn\u00ed rodina\r",
+                    "images": []
+                },
+                "204": {
+                    "id": 204,
+                    "question": "",
+                    "term": "la familia moderna",
+                    "definition": "modern\u00ed rodina\r",
+                    "images": []
+                },
+                "205": {
+                    "id": 205,
+                    "question": "",
+                    "term": "la mujer trabaja en el hogar",
+                    "definition": "\u017eena pracuje v dom\u00e1cnosti\r",
+                    "images": []
+                },
+                "206": {
+                    "id": 206,
+                    "question": "",
+                    "term": "el ama (f.) de casa",
+                    "definition": "hospodyn\u011b, \u017eena v dom\u00e1cnosti\r",
+                    "images": []
+                },
+                "207": {
+                    "id": 207,
+                    "question": "",
+                    "term": "ser una maruja",
+                    "definition": "(hanl.) b\u00fdt pu\u0165ka dom\u00e1c\u00ed\r",
+                    "images": []
+                },
+                "208": {
+                    "id": 208,
+                    "question": "",
+                    "term": "la mujer florero",
+                    "definition": "(hovor.) \u017eena, kter\u00e1 je man\u017eelovi jen pro ozdobu, nech\u00e1v\u00e1 se \u017eivit\r",
+                    "images": []
+                },
+                "209": {
+                    "id": 209,
+                    "question": "",
+                    "term": "atender al marido y los hijos \/ cuidar de la familia",
+                    "definition": "pe\u010dovat o man\u017eela a d\u011bti, o rodinu\r",
+                    "images": []
+                },
+                "210": {
+                    "id": 210,
+                    "question": "",
+                    "term": "trabajar fuera de casa",
+                    "definition": "pracovat mimo domov\r",
+                    "images": []
+                },
+                "211": {
+                    "id": 211,
+                    "question": "",
+                    "term": "los problemas de una mujer empleada",
+                    "definition": "probl\u00e9my zam\u011bstnan\u00e9 \u017eeny\r",
+                    "images": []
+                },
+                "212": {
+                    "id": 212,
+                    "question": "",
+                    "term": "la casa cuna (pl. las casas cuna)",
+                    "definition": "jesle\r",
+                    "images": []
+                },
+                "213": {
+                    "id": 213,
+                    "question": "",
+                    "term": "el jard\u00edn infantil \/ la guarder\u00eda",
+                    "definition": "mate\u0159sk\u00e1 \u0161kola\r",
+                    "images": []
+                },
+                "214": {
+                    "id": 214,
+                    "question": "",
+                    "term": "llevar a los hijos a la guarder\u00eda",
+                    "definition": "vodit d\u011bti do \u0161kolky\r",
+                    "images": []
+                },
+                "215": {
+                    "id": 215,
+                    "question": "",
+                    "term": "la pareja de hecho",
+                    "definition": "druh, dru\u017eka, sou\u017eit\u00ed \u201ena hrom\u00e1dce\u201c\r",
+                    "images": []
+                },
+                "216": {
+                    "id": 216,
+                    "question": "",
+                    "term": "las relaciones entre los padres y sus hijos",
+                    "definition": "vztahy mezi rodi\u010di a jejich d\u011btmi\r",
+                    "images": []
+                },
+                "217": {
+                    "id": 217,
+                    "question": "",
+                    "term": "educar",
+                    "definition": "vychov\u00e1vat, vzd\u011bl\u00e1vat\r",
+                    "images": []
+                },
+                "218": {
+                    "id": 218,
+                    "question": "",
+                    "term": "la educaci\u00f3n de un hijo",
+                    "definition": "v\u00fdchova d\u00edt\u011bte, vzd\u011bl\u00e1n\u00ed\/vzd\u011bl\u00e1v\u00e1n\u00ed d\u00edt\u011bte\r",
+                    "images": []
+                },
+                "219": {
+                    "id": 219,
+                    "question": "",
+                    "term": "educar al hijo con (demasiada) severidad \/ ser muy estricto",
+                    "definition": "vychov\u00e1vat d\u00edt\u011b (p\u0159\u00edli\u0161) p\u0159\u00edsn\u011b\r",
+                    "images": []
+                },
+                "220": {
+                    "id": 220,
+                    "question": "",
+                    "term": "ser (muy) blando \/ ser permisivo con los hijos",
+                    "definition": "vychov\u00e1vat d\u011bti (p\u0159\u00edli\u0161) m\u00edrn\u011b\r",
+                    "images": []
+                },
+                "221": {
+                    "id": 221,
+                    "question": "",
+                    "term": "ser severo con sus hijos",
+                    "definition": "b\u00fdt zl\u00fd, p\u0159\u00edsn\u00fd na sv\u00e9 d\u011bti\r",
+                    "images": []
+                },
+                "222": {
+                    "id": 222,
+                    "question": "",
+                    "term": "la conducta \/ el comportamiento de los ni\u00f1os",
+                    "definition": "chov\u00e1n\u00ed d\u011bt\u00ed\r",
+                    "images": []
+                },
+                "223": {
+                    "id": 223,
+                    "question": "",
+                    "term": "(com)portarse bien",
+                    "definition": "chovat se slu\u0161n\u011b\r",
+                    "images": []
+                },
+                "224": {
+                    "id": 224,
+                    "question": "",
+                    "term": "\u00a1P\u00f3rtate bien!",
+                    "definition": "Chovej se slu\u0161n\u011b!\r",
+                    "images": []
+                },
+                "225": {
+                    "id": 225,
+                    "question": "",
+                    "term": "tratar a (u. p.) bien",
+                    "definition": "chovat se (ke komu) hezky\r",
+                    "images": []
+                },
+                "226": {
+                    "id": 226,
+                    "question": "",
+                    "term": "tratar a (u. p.) mal",
+                    "definition": "chovat se (ke komu) \u0161kared\u011b\r",
+                    "images": []
+                },
+                "227": {
+                    "id": 227,
+                    "question": "",
+                    "term": "maltratar a (u. p.)",
+                    "definition": "t\u00fdrat (koho)\r",
+                    "images": []
+                },
+                "228": {
+                    "id": 228,
+                    "question": "",
+                    "term": "maltratado",
+                    "definition": "t\u00fdran\u00fd\r",
+                    "images": []
+                },
+                "229": {
+                    "id": 229,
+                    "question": "",
+                    "term": "un ni\u00f1o bien criado \/ educado",
+                    "definition": "dob\u0159e vychovan\u00e9 d\u00edt\u011b\r",
+                    "images": []
+                },
+                "230": {
+                    "id": 230,
+                    "question": "",
+                    "term": "consentir a (u. p.) con (u. c.) \/ mimar a (u. p.) con (u. c.)",
+                    "definition": "rozmazlovat (koho \u010d\u00edm)\r",
+                    "images": []
+                },
+                "231": {
+                    "id": 231,
+                    "question": "",
+                    "term": "ser un ni\u00f1o consentido \/ mimado \/ de mam\u00e1 \/ de pap\u00e1",
+                    "definition": "b\u00fdt rozmazlen\u00e9 d\u00edt\u011b, mamin\u010din\/tat\u00ednk\u016fv maz\u00e1nek\r",
+                    "images": []
+                },
+                "232": {
+                    "id": 232,
+                    "question": "",
+                    "term": "ser muy mimado por sus padres",
+                    "definition": "b\u00fdt velmi rozmazlov\u00e1n rodi\u010di\r",
+                    "images": []
+                },
+                "233": {
+                    "id": 233,
+                    "question": "",
+                    "term": "ser un madrero \/ una madrera",
+                    "definition": "(hovor.) b\u00fdt mam\u00e1nek chlapec\/d\u00edvka\r",
+                    "images": []
+                },
+                "234": {
+                    "id": 234,
+                    "question": "",
+                    "term": "un ni\u00f1o (des)obediente",
+                    "definition": "(ne)poslu\u0161n\u00e9 d\u00edt\u011b\r",
+                    "images": []
+                },
+                "235": {
+                    "id": 235,
+                    "question": "",
+                    "term": "(des)obedecer",
+                    "definition": "b\u00fdt (ne)poslu\u0161n\u00fd, (ne)poslouchat\r",
+                    "images": []
+                },
+                "236": {
+                    "id": 236,
+                    "question": "",
+                    "term": "hacerse obedecer",
+                    "definition": "zjednat si poslu\u0161nost\r",
+                    "images": []
+                },
+                "237": {
+                    "id": 237,
+                    "question": "",
+                    "term": "pegar a (u. p.)",
+                    "definition": "tlouci, uhodit (koho)\r",
+                    "images": []
+                },
+                "238": {
+                    "id": 238,
+                    "question": "",
+                    "term": "pegar un bofet\u00f3n a (u. p.)",
+                    "definition": "d\u00e1t pohlavek (komu), vlepit facku (komu)\r",
+                    "images": []
+                },
+                "239": {
+                    "id": 239,
+                    "question": "",
+                    "term": "meter miedo al ni\u00f1o",
+                    "definition": "nah\u00e1n\u011bt strach d\u00edt\u011bti\r",
+                    "images": []
+                },
+                "240": {
+                    "id": 240,
+                    "question": "",
+                    "term": "castigar",
+                    "definition": "trestat\r",
+                    "images": []
+                },
+                "241": {
+                    "id": 241,
+                    "question": "",
+                    "term": "alabar",
+                    "definition": "(po)chv\u00e1lit\r",
+                    "images": []
+                },
+                "242": {
+                    "id": 242,
+                    "question": "",
+                    "term": "el castigo",
+                    "definition": "trest\r",
+                    "images": []
+                },
+                "243": {
+                    "id": 243,
+                    "question": "",
+                    "term": "la alabanza",
+                    "definition": "pochvala\r",
+                    "images": []
+                },
+                "244": {
+                    "id": 244,
+                    "question": "",
+                    "term": "pap\u00e1 me ha castigado por haber venido tarde a casa",
+                    "definition": "tat\u00ednek m\u011b potrestal za pozdn\u00ed n\u00e1vrat dom\u016f\r",
+                    "images": []
+                },
+                "245": {
+                    "id": 245,
+                    "question": "",
+                    "term": "pelearse",
+                    "definition": "h\u00e1dat se, pr\u00e1t se\r",
+                    "images": []
+                },
+                "246": {
+                    "id": 246,
+                    "question": "",
+                    "term": "la pelea \/ la disputa",
+                    "definition": "h\u00e1dka\r",
+                    "images": []
+                },
+                "247": {
+                    "id": 247,
+                    "question": "",
+                    "term": "la ri\u00f1a \/ la bronca",
+                    "definition": "rva\u010dka\r",
+                    "images": []
+                },
+                "248": {
+                    "id": 248,
+                    "question": "",
+                    "term": "la bronca casera",
+                    "definition": "rodinn\u00e1 h\u00e1dka\r",
+                    "images": []
+                },
+                "249": {
+                    "id": 249,
+                    "question": "",
+                    "term": "hacer travesuras",
+                    "definition": "zlobit\r",
+                    "images": []
+                },
+                "250": {
+                    "id": 250,
+                    "question": "",
+                    "term": "travieso, -a",
+                    "definition": "zlobiv\u00fd, -\u00e1\r",
+                    "images": []
+                },
+                "251": {
+                    "id": 251,
+                    "question": "",
+                    "term": "la travesura",
+                    "definition": "ro\u0161\u0165\u00e1rna\r",
+                    "images": []
+                },
+                "252": {
+                    "id": 252,
+                    "question": "",
+                    "term": "mentir \/ decir mentiras",
+                    "definition": "lh\u00e1t\r",
+                    "images": []
+                },
+                "253": {
+                    "id": 253,
+                    "question": "",
+                    "term": "la mentira",
+                    "definition": "le\u017e\r",
+                    "images": []
+                },
+                "254": {
+                    "id": 254,
+                    "question": "",
+                    "term": "mentiroso, -a",
+                    "definition": "prolhan\u00fd, \u00e1\r",
+                    "images": []
+                },
+                "255": {
+                    "id": 255,
+                    "question": "",
+                    "term": "el mentiroso \/ la mentirosa",
+                    "definition": "lh\u00e1\u0159\/lh\u00e1\u0159ka\r",
+                    "images": []
+                },
+                "256": {
+                    "id": 256,
+                    "question": "",
+                    "term": "oponerse \/ replicar",
+                    "definition": "odmlouvat\r",
+                    "images": []
+                },
+                "257": {
+                    "id": 257,
+                    "question": "",
+                    "term": "respond\u00f3n, -ona",
+                    "definition": "b\u00fdt hubat\u00fd, -\u00e1, odmlouva\u010dn\u00fd, -\u00e1\r",
+                    "images": []
+                },
+                "258": {
+                    "id": 258,
+                    "question": "",
+                    "term": "respetar a (u. p.)",
+                    "definition": "m\u00edt v \u00fact\u011b (koho), respektovat (koho)\r",
+                    "images": []
+                },
+                "259": {
+                    "id": 259,
+                    "question": "",
+                    "term": "sentir respeto por sus padres",
+                    "definition": "c\u00edtit respekt v\u016f\u010di sv\u00fdm rodi\u010d\u016fm\r",
+                    "images": []
+                },
+                "260": {
+                    "id": 260,
+                    "question": "",
+                    "term": "la falta de respeto",
+                    "definition": "ne\u00facta\r",
+                    "images": []
+                },
+                "261": {
+                    "id": 261,
+                    "question": "",
+                    "term": "re\u00f1ir \/ reprender",
+                    "definition": "k\u00e1rat\r",
+                    "images": []
+                },
+                "262": {
+                    "id": 262,
+                    "question": "",
+                    "term": "la reprensi\u00f3n \/ la cr\u00edtica",
+                    "definition": "pok\u00e1r\u00e1n\u00ed\r",
+                    "images": []
+                },
+                "263": {
+                    "id": 263,
+                    "question": "",
+                    "term": "perdonar",
+                    "definition": "odpustit, prominout\r",
+                    "images": []
+                },
+                "264": {
+                    "id": 264,
+                    "question": "",
+                    "term": "pedir perd\u00f3n a (u. p.)",
+                    "definition": "prosit o odpu\u0161t\u011bn\u00ed koho\r",
+                    "images": []
+                },
+                "265": {
+                    "id": 265,
+                    "question": "",
+                    "term": "reprochar a (u. p.) (por) (u. c.)",
+                    "definition": "vy\u010d\u00edtat (komu co), k\u00e1rat (koho za co)\r",
+                    "images": []
+                },
+                "266": {
+                    "id": 266,
+                    "question": "",
+                    "term": "el reproche",
+                    "definition": "v\u00fd\u010ditka, v\u00fdtka, st\u00ed\u017enost\r",
+                    "images": []
+                },
+                "267": {
+                    "id": 267,
+                    "question": "",
+                    "term": "Me reprocha que fumo demasiado.",
+                    "definition": "Vy\u010d\u00edt\u00e1 mi, \u017ee p\u0159\u00edli\u0161 kou\u0159\u00edm.\r",
+                    "images": []
+                },
+                "268": {
+                    "id": 268,
+                    "question": "",
+                    "term": "tirar cosas en cara",
+                    "definition": "vm\u00e9st n\u011bco do tv\u00e1\u0159e\r",
+                    "images": []
+                },
+                "269": {
+                    "id": 269,
+                    "question": "",
+                    "term": "Me tir\u00f3 en cara no haberla felicitado por cumplea\u00f1os.",
+                    "definition": "Vmetla mi do tv\u00e1\u0159e, \u017ee jsem j\u00ed nepop\u0159\u00e1l k narozenin\u00e1m.\r",
+                    "images": []
+                },
+                "270": {
+                    "id": 270,
+                    "question": "",
+                    "term": "la distribuci\u00f3n \/ el reparto \/ la divisi\u00f3n de los trabajos dom\u00e9sticos entre varios miembros de la familia",
+                    "definition": "d\u011blba dom\u00e1c\u00edch prac\u00ed mezi r\u016fzn\u00e9 \u010dleny rodiny\r",
+                    "images": []
+                },
+                "271": {
+                    "id": 271,
+                    "question": "",
+                    "term": "la familia - base de la sociedad",
+                    "definition": "rodina \u2014 z\u00e1klad spole\u010dnosti\r",
+                    "images": []
+                },
+                "272": {
+                    "id": 272,
+                    "question": "",
+                    "term": "la tarea principal de la familia es la educaci\u00f3n de los hijos",
+                    "definition": "z\u00e1kladn\u00edm \u00fakolem rodiny je v\u00fdchova d\u011bt\u00ed\r",
+                    "images": []
+                },
+                "273": {
+                    "id": 273,
+                    "question": "",
+                    "term": "el cuidado que presta el Estado a la familia",
+                    "definition": "p\u00e9\u010de, kterou poskytuje rodin\u011b st\u00e1t\r",
+                    "images": []
+                },
+                "274": {
+                    "id": 274,
+                    "question": "",
+                    "term": "los pr\u00e9stamos",
+                    "definition": "p\u016fj\u010dky\r",
+                    "images": []
+                },
+                "275": {
+                    "id": 275,
+                    "question": "",
+                    "term": "los subsidios familiares",
+                    "definition": "rodinn\u00e9 p\u0159\u00eddavky\r",
+                    "images": []
+                },
+                "276": {
+                    "id": 276,
+                    "question": "",
+                    "term": "dar un subsidio",
+                    "definition": "poskytnout p\u0159\u00eddavky, podporu\r",
+                    "images": []
+                },
+                "277": {
+                    "id": 277,
+                    "question": "",
+                    "term": "recibir un subsidio",
+                    "definition": "dostat, p\u0159ijmout p\u0159\u00eddavky\r",
+                    "images": []
+                },
+                "278": {
+                    "id": 278,
+                    "question": "",
+                    "term": "la baja por maternidad",
+                    "definition": "mate\u0159sk\u00e1 dovolen\u00e1\r",
+                    "images": []
+                },
+                "279": {
+                    "id": 279,
+                    "question": "",
+                    "term": "la baja por maternidad y paternidad",
+                    "definition": "rodi\u010dovsk\u00e1 dovolen\u00e1\r",
+                    "images": []
+                },
+                "280": {
+                    "id": 280,
+                    "question": "",
+                    "term": "estar de baja por maternidad",
+                    "definition": "b\u00fdt na mate\u0159sk\u00e9 dovolen\u00e9",
+                    "images": []
+                }
+            },
+            "description": "Rodina",
+            "name": "1. La familia",
+            "author_id": 1
+        }
+    ]
 }
