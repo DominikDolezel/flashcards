@@ -7,11 +7,13 @@
             "password": "$2y$12$jrkoBxo3OpUqtCHZTnAYy.2OLMo6LkvnEy0xngNXOD16\/FvemJGUy",
             "email": "dominik.dolezel@email.cz",
             "sets_created": [
-                1
+                1,
+                2
             ],
             "folders_created": [],
             "studied": {
-                "11": 1
+                "13": 1,
+                "15": 2
             },
             "tries": [
                 {
@@ -106,7 +108,7 @@
                             "wrong": 0
                         },
                         "23": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 0
                         },
                         "24": {
@@ -130,1012 +132,2473 @@
                             "wrong": 0
                         },
                         "29": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 0
                         },
                         "30": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 1
                         },
                         "31": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 0
                         },
                         "32": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "33": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "34": {
                             "correct": 0,
-                            "wrong": 2
+                            "wrong": 3
                         },
                         "35": {
                             "correct": 1,
-                            "wrong": 5
+                            "wrong": 6
                         },
                         "36": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "37": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 5
                         },
                         "38": {
-                            "correct": 3,
+                            "correct": 4,
                             "wrong": 0
                         },
                         "39": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "40": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 0
                         },
                         "41": {
-                            "correct": 0,
+                            "correct": 1,
                             "wrong": 7
                         },
                         "42": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "43": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "44": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 5
                         },
                         "45": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 3
                         },
                         "46": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "47": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 0
                         },
                         "48": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "49": {
-                            "correct": 0,
+                            "correct": 1,
                             "wrong": 6
                         },
                         "50": {
                             "correct": 1,
-                            "wrong": 2
+                            "wrong": 3
                         },
                         "51": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 3
                         },
                         "52": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "53": {
-                            "correct": 3,
+                            "correct": 4,
                             "wrong": 0
                         },
                         "54": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 0
                         },
                         "55": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 1
                         },
                         "56": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 0
                         },
                         "57": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 3
                         },
                         "58": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 4
                         },
                         "59": {
                             "correct": 1,
-                            "wrong": 1
+                            "wrong": 2
                         },
                         "60": {
-                            "correct": 3,
+                            "correct": 4,
                             "wrong": 0
                         },
                         "61": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "62": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "63": {
                             "correct": 0,
-                            "wrong": 6
+                            "wrong": 7
                         },
                         "64": {
                             "correct": 1,
-                            "wrong": 4
+                            "wrong": 5
                         },
                         "65": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 4
                         },
                         "66": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "67": {
                             "correct": 0,
-                            "wrong": 5
+                            "wrong": 6
                         },
                         "68": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 6
                         },
                         "69": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 0
                         },
                         "70": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 4
                         },
                         "71": {
                             "correct": 0,
-                            "wrong": 11
+                            "wrong": 12
                         },
                         "72": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 2
                         },
                         "73": {
                             "correct": 1,
-                            "wrong": 2
+                            "wrong": 3
                         },
                         "74": {
                             "correct": 1,
-                            "wrong": 2
+                            "wrong": 3
                         },
                         "75": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 1
                         },
                         "76": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 5
                         },
                         "77": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 4
                         },
                         "78": {
                             "correct": 1,
-                            "wrong": 2
+                            "wrong": 3
                         },
                         "79": {
-                            "correct": 0,
+                            "correct": 1,
                             "wrong": 5
                         },
                         "80": {
                             "correct": 0,
-                            "wrong": 6
+                            "wrong": 7
                         },
                         "81": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 1
                         },
                         "82": {
-                            "correct": 0,
+                            "correct": 1,
                             "wrong": 5
                         },
                         "83": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 0
                         },
                         "84": {
-                            "correct": 0,
+                            "correct": 1,
                             "wrong": 5
                         },
                         "85": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "86": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 0
                         },
                         "87": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 2
                         },
                         "88": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 1
                         },
                         "89": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "90": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "91": {
                             "correct": 2,
-                            "wrong": 2
+                            "wrong": 3
                         },
                         "92": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 3
                         },
                         "93": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 0
                         },
                         "94": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "95": {
                             "correct": 0,
-                            "wrong": 6
+                            "wrong": 7
                         },
                         "96": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 3
                         },
                         "97": {
                             "correct": 1,
-                            "wrong": 7
+                            "wrong": 8
                         },
                         "98": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 4
                         },
                         "99": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 1
                         },
                         "100": {
                             "correct": 1,
-                            "wrong": 4
+                            "wrong": 5
                         },
                         "101": {
                             "correct": 1,
-                            "wrong": 1
+                            "wrong": 2
                         },
                         "102": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 0
                         },
                         "103": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 1
                         },
                         "104": {
                             "correct": 1,
-                            "wrong": 4
+                            "wrong": 5
                         },
                         "105": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 6
                         },
                         "106": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 4
                         },
                         "107": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 0
                         },
                         "108": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "109": {
                             "correct": 0,
-                            "wrong": 5
+                            "wrong": 6
                         },
                         "110": {
-                            "correct": 0,
+                            "correct": 1,
                             "wrong": 5
                         },
                         "111": {
                             "correct": 1,
-                            "wrong": 2
+                            "wrong": 3
                         },
                         "112": {
                             "correct": 1,
-                            "wrong": 3
+                            "wrong": 4
                         },
                         "113": {
-                            "correct": 3,
+                            "correct": 4,
                             "wrong": 0
                         },
                         "114": {
                             "correct": 0,
-                            "wrong": 6
+                            "wrong": 7
                         },
                         "115": {
                             "correct": 0,
-                            "wrong": 5
+                            "wrong": 6
                         },
                         "116": {
                             "correct": 1,
-                            "wrong": 1
+                            "wrong": 2
                         },
                         "117": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 1
                         },
                         "118": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 1
                         },
                         "119": {
                             "correct": 0,
-                            "wrong": 9
+                            "wrong": 10
                         },
                         "120": {
                             "correct": 0,
-                            "wrong": 8
+                            "wrong": 9
                         },
                         "121": {
                             "correct": 0,
-                            "wrong": 7
+                            "wrong": 8
                         },
                         "122": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 4
                         },
                         "123": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "124": {
-                            "correct": 3,
+                            "correct": 4,
                             "wrong": 0
                         },
                         "125": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 5
                         },
                         "126": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 1
                         },
                         "127": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 6
                         },
                         "128": {
                             "correct": 1,
-                            "wrong": 6
+                            "wrong": 7
                         },
                         "129": {
                             "correct": 0,
-                            "wrong": 6
+                            "wrong": 7
                         },
                         "130": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "131": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "132": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "133": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "134": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "135": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 0
                         },
                         "136": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 4
                         },
                         "137": {
                             "correct": 1,
-                            "wrong": 4
+                            "wrong": 5
                         },
                         "138": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 4
                         },
                         "139": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 3
                         },
                         "140": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 4
                         },
                         "141": {
-                            "correct": 0,
+                            "correct": 1,
                             "wrong": 8
                         },
                         "142": {
                             "correct": 1,
-                            "wrong": 7
+                            "wrong": 8
                         },
                         "143": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 5
                         },
                         "144": {
                             "correct": 1,
-                            "wrong": 3
+                            "wrong": 4
                         },
                         "145": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "146": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 5
                         },
                         "147": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 3
                         },
                         "148": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "149": {
                             "correct": 1,
-                            "wrong": 3
+                            "wrong": 4
                         },
                         "150": {
-                            "correct": 0,
+                            "correct": 1,
                             "wrong": 9
                         },
                         "151": {
                             "correct": 1,
-                            "wrong": 6
+                            "wrong": 7
                         },
                         "152": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 6
                         },
                         "153": {
                             "correct": 0,
-                            "wrong": 8
+                            "wrong": 9
                         },
                         "154": {
                             "correct": 0,
-                            "wrong": 7
+                            "wrong": 8
                         },
                         "155": {
                             "correct": 0,
-                            "wrong": 9
+                            "wrong": 10
                         },
                         "156": {
                             "correct": 1,
-                            "wrong": 3
+                            "wrong": 4
                         },
                         "157": {
                             "correct": 0,
-                            "wrong": 6
+                            "wrong": 7
                         },
                         "158": {
                             "correct": 1,
-                            "wrong": 5
+                            "wrong": 6
                         },
                         "159": {
                             "correct": 0,
-                            "wrong": 7
+                            "wrong": 8
                         },
                         "160": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "161": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 0
                         },
                         "162": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "163": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "164": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 2
                         },
                         "165": {
                             "correct": 1,
-                            "wrong": 3
+                            "wrong": 4
                         },
                         "166": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 3
                         },
                         "167": {
                             "correct": 1,
-                            "wrong": 6
+                            "wrong": 7
                         },
                         "168": {
                             "correct": 1,
-                            "wrong": 8
+                            "wrong": 9
                         },
                         "169": {
                             "correct": 1,
-                            "wrong": 3
+                            "wrong": 4
                         },
                         "170": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 3
                         },
                         "171": {
                             "correct": 0,
-                            "wrong": 8
+                            "wrong": 9
                         },
                         "172": {
                             "correct": 0,
-                            "wrong": 5
+                            "wrong": 6
                         },
                         "173": {
                             "correct": 0,
-                            "wrong": 6
+                            "wrong": 7
                         },
                         "174": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 3
                         },
                         "175": {
-                            "correct": 3,
+                            "correct": 4,
                             "wrong": 1
                         },
                         "176": {
                             "correct": 0,
-                            "wrong": 8
+                            "wrong": 9
                         },
                         "177": {
                             "correct": 0,
-                            "wrong": 7
+                            "wrong": 8
                         },
                         "178": {
                             "correct": 1,
-                            "wrong": 3
+                            "wrong": 4
                         },
                         "179": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 1
                         },
                         "180": {
                             "correct": 1,
-                            "wrong": 2
+                            "wrong": 3
                         },
                         "181": {
                             "correct": 0,
-                            "wrong": 9
+                            "wrong": 10
                         },
                         "182": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 3
                         },
                         "183": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 4
                         },
                         "184": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 0
                         },
                         "185": {
                             "correct": 0,
-                            "wrong": 7
+                            "wrong": 8
                         },
                         "186": {
                             "correct": 1,
-                            "wrong": 1
+                            "wrong": 2
                         },
                         "187": {
                             "correct": 1,
-                            "wrong": 2
+                            "wrong": 3
                         },
                         "188": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 3
                         },
                         "189": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 5
                         },
                         "190": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 3
                         },
                         "191": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "192": {
                             "correct": 0,
-                            "wrong": 5
+                            "wrong": 6
                         },
                         "193": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 2
                         },
                         "194": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 7
                         },
                         "195": {
                             "correct": 1,
-                            "wrong": 4
+                            "wrong": 5
                         },
                         "196": {
                             "correct": 1,
-                            "wrong": 5
+                            "wrong": 6
                         },
                         "197": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 3
                         },
                         "198": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "199": {
                             "correct": 1,
-                            "wrong": 2
+                            "wrong": 3
                         },
                         "200": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "201": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "202": {
                             "correct": 1,
-                            "wrong": 5
+                            "wrong": 6
                         },
                         "203": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 0
                         },
                         "204": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 0
                         },
                         "205": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "206": {
                             "correct": 0,
-                            "wrong": 7
+                            "wrong": 8
                         },
                         "207": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "208": {
                             "correct": 1,
-                            "wrong": 4
+                            "wrong": 5
                         },
                         "209": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "210": {
-                            "correct": 3,
+                            "correct": 4,
                             "wrong": 0
                         },
                         "211": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "212": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 5
                         },
                         "213": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "214": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 4
                         },
                         "215": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "216": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "217": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "218": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 0
                         },
                         "219": {
                             "correct": 1,
-                            "wrong": 3
+                            "wrong": 4
                         },
                         "220": {
                             "correct": 0,
-                            "wrong": 4
+                            "wrong": 5
                         },
                         "221": {
                             "correct": 0,
-                            "wrong": 6
+                            "wrong": 7
                         },
                         "222": {
                             "correct": 4,
                             "wrong": 0
                         },
                         "223": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 0
                         },
                         "224": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 0
                         },
                         "225": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 4
                         },
                         "226": {
                             "correct": 1,
-                            "wrong": 4
+                            "wrong": 5
                         },
                         "227": {
                             "correct": 1,
-                            "wrong": 2
+                            "wrong": 3
                         },
                         "228": {
                             "correct": 1,
-                            "wrong": 2
+                            "wrong": 3
                         },
                         "229": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "230": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 4
                         },
                         "231": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 3
                         },
                         "232": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 6
                         },
                         "233": {
                             "correct": 1,
-                            "wrong": 6
+                            "wrong": 7
                         },
                         "234": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 4
                         },
                         "235": {
                             "correct": 1,
-                            "wrong": 2
+                            "wrong": 3
                         },
                         "236": {
                             "correct": 1,
-                            "wrong": 5
+                            "wrong": 6
                         },
                         "237": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 7
                         },
                         "238": {
-                            "correct": 0,
+                            "correct": 1,
                             "wrong": 8
                         },
                         "239": {
                             "correct": 1,
-                            "wrong": 5
+                            "wrong": 6
                         },
                         "240": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "241": {
                             "correct": 0,
-                            "wrong": 6
+                            "wrong": 7
                         },
                         "242": {
                             "correct": 1,
-                            "wrong": 1
+                            "wrong": 2
                         },
                         "243": {
                             "correct": 0,
-                            "wrong": 7
+                            "wrong": 8
                         },
                         "244": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 5
                         },
                         "245": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "246": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "247": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 5
                         },
                         "248": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 6
                         },
                         "249": {
                             "correct": 1,
-                            "wrong": 2
+                            "wrong": 3
                         },
                         "250": {
-                            "correct": 0,
+                            "correct": 1,
                             "wrong": 6
                         },
                         "251": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "252": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 0
                         },
                         "253": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 0
                         },
                         "254": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "255": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 1
                         },
                         "256": {
                             "correct": 0,
-                            "wrong": 6
+                            "wrong": 7
                         },
                         "257": {
                             "correct": 1,
-                            "wrong": 3
+                            "wrong": 4
                         },
                         "258": {
-                            "correct": 3,
+                            "correct": 4,
                             "wrong": 0
                         },
                         "259": {
                             "correct": 1,
-                            "wrong": 1
+                            "wrong": 2
                         },
                         "260": {
                             "correct": 1,
-                            "wrong": 4
+                            "wrong": 5
                         },
                         "261": {
                             "correct": 0,
-                            "wrong": 5
+                            "wrong": 6
                         },
                         "262": {
                             "correct": 0,
-                            "wrong": 6
+                            "wrong": 7
                         },
                         "263": {
                             "correct": 1,
-                            "wrong": 3
+                            "wrong": 4
                         },
                         "264": {
                             "correct": 1,
-                            "wrong": 3
+                            "wrong": 4
                         },
                         "265": {
                             "correct": 0,
-                            "wrong": 8
+                            "wrong": 9
                         },
                         "266": {
                             "correct": 0,
-                            "wrong": 6
+                            "wrong": 7
                         },
                         "267": {
                             "correct": 1,
-                            "wrong": 6
+                            "wrong": 7
                         },
                         "268": {
-                            "correct": 0,
+                            "correct": 1,
                             "wrong": 5
                         },
                         "269": {
                             "correct": 1,
-                            "wrong": 4
+                            "wrong": 5
                         },
                         "270": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 3
                         },
                         "271": {
-                            "correct": 2,
+                            "correct": 3,
                             "wrong": 1
                         },
                         "272": {
                             "correct": 1,
-                            "wrong": 1
+                            "wrong": 2
                         },
                         "273": {
                             "correct": 0,
-                            "wrong": 6
+                            "wrong": 7
                         },
                         "274": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "275": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "276": {
                             "correct": 0,
-                            "wrong": 7
+                            "wrong": 8
                         },
                         "277": {
                             "correct": 0,
-                            "wrong": 5
+                            "wrong": 6
                         },
                         "278": {
-                            "correct": 1,
+                            "correct": 2,
                             "wrong": 2
                         },
                         "279": {
                             "correct": 1,
-                            "wrong": 6
+                            "wrong": 7
+                        },
+                        "280": {
+                            "correct": 1,
+                            "wrong": 4
+                        }
+                    }
+                },
+                {
+                    "set_id": 2,
+                    "cards": {
+                        "1": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "2": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "3": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "4": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "5": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "6": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "7": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "8": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "9": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "10": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "11": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "12": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "13": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "14": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "15": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "16": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "17": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "18": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "19": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "20": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "21": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "22": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "23": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "24": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "25": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "26": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "27": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "28": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "29": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "30": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "31": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "32": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "33": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "34": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "35": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "36": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "37": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "38": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "39": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "40": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "41": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "42": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "43": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "44": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "45": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "46": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "47": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "48": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "49": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "50": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "51": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "52": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "53": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "54": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "55": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "56": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "57": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "58": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "59": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "60": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "61": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "62": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "63": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "64": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "65": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "66": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "67": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "68": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "69": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "70": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "71": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "72": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "73": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "74": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "75": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "76": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "77": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "78": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "79": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "80": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "81": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "82": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "83": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "84": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "85": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "86": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "87": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "88": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "89": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "90": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "91": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "92": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "93": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "94": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "95": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "96": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "97": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "98": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "99": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "100": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "101": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "102": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "103": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "104": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "105": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "106": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "107": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "108": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "109": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "110": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "111": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "112": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "113": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "114": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "115": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "116": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "117": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "118": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "119": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "120": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "121": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "122": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "123": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "124": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "125": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "126": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "127": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "128": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "129": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "130": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "131": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "132": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "133": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "134": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "135": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "136": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "137": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "138": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "139": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "140": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "141": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "142": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "143": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "144": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "145": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "146": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "147": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "148": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "149": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "150": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "151": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "152": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "153": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "154": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "155": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "156": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "157": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "158": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "159": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "160": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "161": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "162": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "163": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "164": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "165": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "166": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "167": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "168": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "169": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "170": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "171": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "172": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "173": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "174": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "175": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "176": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "177": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "178": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "179": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "180": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "181": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "182": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "183": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "184": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "185": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "186": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "187": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "188": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "189": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "190": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "191": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "192": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "193": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "194": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "195": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "196": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "197": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "198": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "199": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "200": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "201": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "202": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "203": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "204": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "205": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "206": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "207": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "208": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "209": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "210": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "211": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "212": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "213": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "214": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "215": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "216": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "217": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "218": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "219": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "220": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "221": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "222": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "223": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "224": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "225": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "226": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "227": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "228": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "229": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "230": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "231": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "232": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "233": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "234": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "235": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "236": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "237": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "238": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "239": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "240": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "241": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "242": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "243": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "244": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "245": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "246": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "247": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "248": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "249": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "250": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "251": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "252": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "253": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "254": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "255": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "256": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "257": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "258": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "259": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "260": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "261": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "262": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "263": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "264": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "265": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "266": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "267": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "268": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "269": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "270": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "271": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "272": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "273": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "274": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "275": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "276": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "277": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "278": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "279": {
+                            "correct": 0,
+                            "wrong": 1
                         },
                         "280": {
                             "correct": 0,
-                            "wrong": 4
+                            "wrong": 1
+                        },
+                        "281": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "282": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "283": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "284": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "285": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "286": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "287": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "288": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "289": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "290": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "291": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "292": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "293": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "294": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "295": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "296": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "297": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "298": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "299": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "300": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "301": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "302": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "303": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "304": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "305": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "306": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "307": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "308": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "309": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "310": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "311": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "312": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "313": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "314": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "315": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "316": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "317": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "318": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "319": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "320": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "321": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "322": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "323": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "324": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "325": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "326": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "327": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "328": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "329": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "330": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "331": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "332": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "333": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "334": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "335": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "336": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "337": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "338": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "339": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "340": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "341": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "342": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "343": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "344": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "345": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "346": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "347": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "348": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "349": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "350": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "351": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "352": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "353": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "354": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "355": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "356": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "357": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "358": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "359": {
+                            "correct": 0,
+                            "wrong": 1
+                        },
+                        "360": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "361": {
+                            "correct": 0,
+                            "wrong": 0
+                        },
+                        "362": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "363": {
+                            "correct": 1,
+                            "wrong": 0
+                        },
+                        "364": {
+                            "correct": 1,
+                            "wrong": 0
                         }
                     }
                 }
@@ -3109,6 +4572,2562 @@
             },
             "description": "Rodina",
             "name": "1. La familia",
+            "author_id": 1
+        },
+        {
+            "id": 2,
+            "cards": {
+                "1": {
+                    "id": 1,
+                    "question": "",
+                    "term": "la vivienda",
+                    "definition": "bydlen\u00ed \r",
+                    "images": []
+                },
+                "2": {
+                    "id": 2,
+                    "question": "",
+                    "term": "los tipos de casa",
+                    "definition": "typy dom\u016f\r",
+                    "images": []
+                },
+                "3": {
+                    "id": 3,
+                    "question": "",
+                    "term": "la casa familiar \/ el chal\u00e9",
+                    "definition": "rodinn\u00fd d\u016fm\r",
+                    "images": []
+                },
+                "4": {
+                    "id": 4,
+                    "question": "",
+                    "term": "la casa independiente",
+                    "definition": "samostatn\u00e9 bydlen\u00ed\r",
+                    "images": []
+                },
+                "5": {
+                    "id": 5,
+                    "question": "",
+                    "term": "la casa de alquiler \/ de apartamentos \/ de vecinos",
+                    "definition": "\u010din\u017eovn\u00ed d\u016fm\r",
+                    "images": []
+                },
+                "6": {
+                    "id": 6,
+                    "question": "",
+                    "term": "la casa de campo",
+                    "definition": "venkovsk\u00fd d\u016fm\r",
+                    "images": []
+                },
+                "7": {
+                    "id": 7,
+                    "question": "",
+                    "term": "la casa de recreo \/ de fin de semana \/ la segunda vivienda",
+                    "definition": "chata, chalupa, v\u00edkendov\u00e9 obydl\u00ed\r",
+                    "images": []
+                },
+                "8": {
+                    "id": 8,
+                    "question": "",
+                    "term": "la casa con jard\u00edn",
+                    "definition": "d\u016fm se zahradou\r",
+                    "images": []
+                },
+                "9": {
+                    "id": 9,
+                    "question": "",
+                    "term": "la casa adosada",
+                    "definition": "\u0159adov\u00fd d\u016fm, \u0159adovka\r",
+                    "images": []
+                },
+                "10": {
+                    "id": 10,
+                    "question": "",
+                    "term": "la finca r\u00fastica",
+                    "definition": "venkovsk\u00e1 usedlost\r",
+                    "images": []
+                },
+                "11": {
+                    "id": 11,
+                    "question": "",
+                    "term": "la caba\u00f1a",
+                    "definition": "chata, chalupa (d\u0159ev\u011bn\u00e1)\r",
+                    "images": []
+                },
+                "12": {
+                    "id": 12,
+                    "question": "",
+                    "term": "la hacienda",
+                    "definition": "statek, farma\r",
+                    "images": []
+                },
+                "13": {
+                    "id": 13,
+                    "question": "",
+                    "term": "el rascacielos",
+                    "definition": "mrakodrap\r",
+                    "images": []
+                },
+                "14": {
+                    "id": 14,
+                    "question": "",
+                    "term": "la barraca \/ el caser\u00f3n \/ la casucha",
+                    "definition": "bar\u00e1k, barabizna\r",
+                    "images": []
+                },
+                "15": {
+                    "id": 15,
+                    "question": "",
+                    "term": "la villa",
+                    "definition": "letn\u00ed s\u00eddlo, vila, rodinn\u00e9 rekrea\u010dn\u00ed s\u00eddlo\r",
+                    "images": []
+                },
+                "16": {
+                    "id": 16,
+                    "question": "",
+                    "term": "la residencia",
+                    "definition": "bydlen\u00ed, bydli\u0161t\u011b, pobyt\r",
+                    "images": []
+                },
+                "17": {
+                    "id": 17,
+                    "question": "",
+                    "term": "la casa escalonada \/ la casa de ladera",
+                    "definition": "v\u00fd\u0161kov\u011b odstup\u0148ovan\u00fd d\u016fm, d\u016fm v kopci\r",
+                    "images": []
+                },
+                "18": {
+                    "id": 18,
+                    "question": "",
+                    "term": "el monoblock \/ el bloque de pisos",
+                    "definition": "panel\u00e1k\r",
+                    "images": []
+                },
+                "19": {
+                    "id": 19,
+                    "question": "",
+                    "term": "el piso \/ el apartamento",
+                    "definition": "byt\r",
+                    "images": []
+                },
+                "20": {
+                    "id": 20,
+                    "question": "",
+                    "term": "el estudio",
+                    "definition": "garsonka\r",
+                    "images": []
+                },
+                "21": {
+                    "id": 21,
+                    "question": "",
+                    "term": "el ascensor \/ el elevador",
+                    "definition": "v\u00fdtah\r",
+                    "images": []
+                },
+                "22": {
+                    "id": 22,
+                    "question": "",
+                    "term": "bajar por (el) ascensor",
+                    "definition": "sjet v\u00fdtahem\r",
+                    "images": []
+                },
+                "23": {
+                    "id": 23,
+                    "question": "",
+                    "term": "subir por (el) ascensor",
+                    "definition": "vyjet v\u00fdtahem\r",
+                    "images": []
+                },
+                "24": {
+                    "id": 24,
+                    "question": "",
+                    "term": "montar en el ascensor",
+                    "definition": "nastoupit do v\u00fdtahu, jet v\u00fdtahem\r",
+                    "images": []
+                },
+                "25": {
+                    "id": 25,
+                    "question": "",
+                    "term": "subir al tercer piso",
+                    "definition": "vyjet \/ vystoupat do t\u0159et\u00edho patra\r",
+                    "images": []
+                },
+                "26": {
+                    "id": 26,
+                    "question": "",
+                    "term": "bajar a la planta baja",
+                    "definition": "sjet \/ sestoupit do p\u0159\u00edzem\u00ed\r",
+                    "images": []
+                },
+                "27": {
+                    "id": 27,
+                    "question": "",
+                    "term": "el portero",
+                    "definition": "domovn\u00edk\r",
+                    "images": []
+                },
+                "28": {
+                    "id": 28,
+                    "question": "",
+                    "term": "el portero autom\u00e1tico",
+                    "definition": "zvonky u vchodu do bytov\u00e9ho domu\r",
+                    "images": []
+                },
+                "29": {
+                    "id": 29,
+                    "question": "",
+                    "term": "las partes de la casa",
+                    "definition": "\u010d\u00e1sti domu\r",
+                    "images": []
+                },
+                "30": {
+                    "id": 30,
+                    "question": "",
+                    "term": "el s\u00f3tano",
+                    "definition": "sklep\r",
+                    "images": []
+                },
+                "31": {
+                    "id": 31,
+                    "question": "",
+                    "term": "la planta baja",
+                    "definition": "p\u0159\u00edzem\u00ed\r",
+                    "images": []
+                },
+                "32": {
+                    "id": 32,
+                    "question": "",
+                    "term": "el primer piso \u2014 el segundo piso",
+                    "definition": "prvn\u00ed patro \u2014 druh\u00e9 patro\r",
+                    "images": []
+                },
+                "33": {
+                    "id": 33,
+                    "question": "",
+                    "term": "el desv\u00e1n",
+                    "definition": "p\u016fda\r",
+                    "images": []
+                },
+                "34": {
+                    "id": 34,
+                    "question": "",
+                    "term": "la buhardilla \/ la mansarda \/ el sotabanco",
+                    "definition": "mansarda, podkrov\u00ed\r",
+                    "images": []
+                },
+                "35": {
+                    "id": 35,
+                    "question": "",
+                    "term": "la azotea",
+                    "definition": "terasa, rovn\u00e1 st\u0159echa domu\r",
+                    "images": []
+                },
+                "36": {
+                    "id": 36,
+                    "question": "",
+                    "term": "el tejado",
+                    "definition": "st\u0159echa\r",
+                    "images": []
+                },
+                "37": {
+                    "id": 37,
+                    "question": "",
+                    "term": "la chimenea",
+                    "definition": "kom\u00edn, krb\r",
+                    "images": []
+                },
+                "38": {
+                    "id": 38,
+                    "question": "",
+                    "term": "el canal\u00f3n",
+                    "definition": "okap\r",
+                    "images": []
+                },
+                "39": {
+                    "id": 39,
+                    "question": "",
+                    "term": "el pararrayos",
+                    "definition": "bleskosvod\r",
+                    "images": []
+                },
+                "40": {
+                    "id": 40,
+                    "question": "",
+                    "term": "la cornisa",
+                    "definition": "\u0159\u00edmsa\r",
+                    "images": []
+                },
+                "41": {
+                    "id": 41,
+                    "question": "",
+                    "term": "la escalera maestra \/ principal",
+                    "definition": "hlavn\u00ed schodi\u0161t\u011b\r",
+                    "images": []
+                },
+                "42": {
+                    "id": 42,
+                    "question": "",
+                    "term": "la escalera de incendios",
+                    "definition": "po\u017e\u00e1rn\u00ed schodi\u0161t\u011b\r",
+                    "images": []
+                },
+                "43": {
+                    "id": 43,
+                    "question": "",
+                    "term": "la escalera de emergencia",
+                    "definition": "nouzov\u00e9 schodi\u0161t\u011b\r",
+                    "images": []
+                },
+                "44": {
+                    "id": 44,
+                    "question": "",
+                    "term": "la escalera de caracol",
+                    "definition": "to\u010dit\u00e9 schodi\u0161t\u011b\r",
+                    "images": []
+                },
+                "45": {
+                    "id": 45,
+                    "question": "",
+                    "term": "bajar (por) la escalera",
+                    "definition": "sestoupit po schodech\r",
+                    "images": []
+                },
+                "46": {
+                    "id": 46,
+                    "question": "",
+                    "term": "subir (por) la escalera",
+                    "definition": "vyj\u00edt po schodech\r",
+                    "images": []
+                },
+                "47": {
+                    "id": 47,
+                    "question": "",
+                    "term": "el pelda\u00f1o",
+                    "definition": "schod\r",
+                    "images": []
+                },
+                "48": {
+                    "id": 48,
+                    "question": "",
+                    "term": "la barandilla",
+                    "definition": "z\u00e1bradl\u00ed\r",
+                    "images": []
+                },
+                "49": {
+                    "id": 49,
+                    "question": "",
+                    "term": "el descansillo de la escalera",
+                    "definition": "odpo\u010d\u00edvadlo na schodi\u0161ti (jako\u017ee mezpatro?)\r",
+                    "images": []
+                },
+                "50": {
+                    "id": 50,
+                    "question": "",
+                    "term": "limpiarse los zapatos en el felpudo",
+                    "definition": "o\u010distit si boty na roho\u017ece\r",
+                    "images": []
+                },
+                "51": {
+                    "id": 51,
+                    "question": "",
+                    "term": "la puerta",
+                    "definition": "dve\u0159e\r",
+                    "images": []
+                },
+                "52": {
+                    "id": 52,
+                    "question": "",
+                    "term": "el marco de la puerta",
+                    "definition": "r\u00e1m dve\u0159\u00ed, futro\r",
+                    "images": []
+                },
+                "53": {
+                    "id": 53,
+                    "question": "",
+                    "term": "la bisagra",
+                    "definition": "pant, z\u00e1v\u011bs\r",
+                    "images": []
+                },
+                "54": {
+                    "id": 54,
+                    "question": "",
+                    "term": "el umbral",
+                    "definition": "pr\u00e1h\r",
+                    "images": []
+                },
+                "55": {
+                    "id": 55,
+                    "question": "",
+                    "term": "la cerradura",
+                    "definition": "z\u00e1mek\r",
+                    "images": []
+                },
+                "56": {
+                    "id": 56,
+                    "question": "",
+                    "term": "la llave",
+                    "definition": "kl\u00ed\u010d\r",
+                    "images": []
+                },
+                "57": {
+                    "id": 57,
+                    "question": "",
+                    "term": "cerrar con llave",
+                    "definition": "zamknout\r",
+                    "images": []
+                },
+                "58": {
+                    "id": 58,
+                    "question": "",
+                    "term": "cerrar con dos vueltas de llave",
+                    "definition": "zamknout na dva z\u00e1pady\r",
+                    "images": []
+                },
+                "59": {
+                    "id": 59,
+                    "question": "",
+                    "term": "la puerta principal",
+                    "definition": "hlavn\u00ed vchod\r",
+                    "images": []
+                },
+                "60": {
+                    "id": 60,
+                    "question": "",
+                    "term": "la puerta de atr\u00e1s",
+                    "definition": "zadn\u00ed vchod\r",
+                    "images": []
+                },
+                "61": {
+                    "id": 61,
+                    "question": "",
+                    "term": "la puerta de la calle",
+                    "definition": "dve\u0159e domovn\u00ed, na ulici\r",
+                    "images": []
+                },
+                "62": {
+                    "id": 62,
+                    "question": "",
+                    "term": "la puerta de entrada al piso",
+                    "definition": "dve\u0159e vedouc\u00ed do bytu\r",
+                    "images": []
+                },
+                "63": {
+                    "id": 63,
+                    "question": "",
+                    "term": "la puerta que comunica con (u. c.)",
+                    "definition": "dv\u011b\u0159e spojovac\u00ed (s \u010d\u00edm)\r",
+                    "images": []
+                },
+                "64": {
+                    "id": 64,
+                    "question": "",
+                    "term": "la puerta corredera",
+                    "definition": "zasouvac\u00ed, posuvn\u00e9 dve\u0159e\r",
+                    "images": []
+                },
+                "65": {
+                    "id": 65,
+                    "question": "",
+                    "term": "la puerta de doble espesor",
+                    "definition": "dvojit\u00e9 dve\u0159e\r",
+                    "images": []
+                },
+                "66": {
+                    "id": 66,
+                    "question": "",
+                    "term": "la puerta de dos hojas",
+                    "definition": "dvouk\u0159\u00eddl\u00e9 dve\u0159e\r",
+                    "images": []
+                },
+                "67": {
+                    "id": 67,
+                    "question": "",
+                    "term": "la puerta da a la calle",
+                    "definition": "dve\u0159e vedou do ulice\r",
+                    "images": []
+                },
+                "68": {
+                    "id": 68,
+                    "question": "",
+                    "term": "llamar a la puerta \/ tocar a la puerta \/ tocar el timbre",
+                    "definition": "zazvonit u dve\u0159\u00ed\r",
+                    "images": []
+                },
+                "69": {
+                    "id": 69,
+                    "question": "",
+                    "term": "mirar por la mirilla",
+                    "definition": "pod\u00edvat se kuk\u00e1tkem\r",
+                    "images": []
+                },
+                "70": {
+                    "id": 70,
+                    "question": "",
+                    "term": "la ventana",
+                    "definition": "okno\r",
+                    "images": []
+                },
+                "71": {
+                    "id": 71,
+                    "question": "",
+                    "term": "el marco de la ventana",
+                    "definition": "okenn\u00ed r\u00e1m\r",
+                    "images": []
+                },
+                "72": {
+                    "id": 72,
+                    "question": "",
+                    "term": "la persiana",
+                    "definition": "\u017ealuzie\r",
+                    "images": []
+                },
+                "73": {
+                    "id": 73,
+                    "question": "",
+                    "term": "la contraventana",
+                    "definition": "okenice\r",
+                    "images": []
+                },
+                "74": {
+                    "id": 74,
+                    "question": "",
+                    "term": "la ventana de dos hojas \u2014 de una hoja",
+                    "definition": "okno se dv\u011bma k\u0159\u00eddly \u2014 s jedn\u00edm k\u0159\u00eddlem\r",
+                    "images": []
+                },
+                "75": {
+                    "id": 75,
+                    "question": "",
+                    "term": "la ventana doble \/ con vidrios dobles",
+                    "definition": "okno dvojit\u00e9\r",
+                    "images": []
+                },
+                "76": {
+                    "id": 76,
+                    "question": "",
+                    "term": "la ventana giratoria",
+                    "definition": "oto\u010dn\u00e9 okno\r",
+                    "images": []
+                },
+                "77": {
+                    "id": 77,
+                    "question": "",
+                    "term": "la ventana corrediza",
+                    "definition": "posuvn\u00e9, posouvac\u00ed okno\r",
+                    "images": []
+                },
+                "78": {
+                    "id": 78,
+                    "question": "",
+                    "term": "la ventana al jard\u00edn",
+                    "definition": "okno vedouc\u00ed do zahrady\r",
+                    "images": []
+                },
+                "79": {
+                    "id": 79,
+                    "question": "",
+                    "term": "la ventana da al jard\u00edn",
+                    "definition": "okno vede do zahrady\r",
+                    "images": []
+                },
+                "80": {
+                    "id": 80,
+                    "question": "",
+                    "term": "la fachada",
+                    "definition": "fas\u00e1da\r",
+                    "images": []
+                },
+                "81": {
+                    "id": 81,
+                    "question": "",
+                    "term": "el z\u00f3calo",
+                    "definition": "podezd\u00edvka, sokl\r",
+                    "images": []
+                },
+                "82": {
+                    "id": 82,
+                    "question": "",
+                    "term": "el garaje con cuarto de herramientas",
+                    "definition": "gar\u00e1\u017e s d\u00edlnou\r",
+                    "images": []
+                },
+                "83": {
+                    "id": 83,
+                    "question": "",
+                    "term": "el patio",
+                    "definition": "dv\u016fr, patio\r",
+                    "images": []
+                },
+                "84": {
+                    "id": 84,
+                    "question": "",
+                    "term": "la varanda \/ el mirador",
+                    "definition": "veranda, prosklen\u00e1 terasa\r",
+                    "images": []
+                },
+                "85": {
+                    "id": 85,
+                    "question": "",
+                    "term": "la terraza acristalada",
+                    "definition": "prosklen\u00e1 veranda\r",
+                    "images": []
+                },
+                "86": {
+                    "id": 86,
+                    "question": "",
+                    "term": "el jard\u00edn de invierno",
+                    "definition": "zimn\u00ed zahrada\r",
+                    "images": []
+                },
+                "87": {
+                    "id": 87,
+                    "question": "",
+                    "term": "en el jard\u00edn alrededor de la casa",
+                    "definition": "v zahrad\u011b kolem domu\r",
+                    "images": []
+                },
+                "88": {
+                    "id": 88,
+                    "question": "",
+                    "term": "el camino de losas",
+                    "definition": "dl\u00e1\u017ed\u011bn\u00fd chodn\u00edk\r",
+                    "images": []
+                },
+                "89": {
+                    "id": 89,
+                    "question": "",
+                    "term": "el c\u00e9sped",
+                    "definition": "tr\u00e1vn\u00edk\r",
+                    "images": []
+                },
+                "90": {
+                    "id": 90,
+                    "question": "",
+                    "term": "la tumbona \/ la reposera",
+                    "definition": "zahradn\u00ed leh\u00e1tko\r",
+                    "images": []
+                },
+                "91": {
+                    "id": 91,
+                    "question": "",
+                    "term": "la hamaca",
+                    "definition": "houpac\u00ed s\u00ed\u0165\r",
+                    "images": []
+                },
+                "92": {
+                    "id": 92,
+                    "question": "",
+                    "term": "la sombrilla (de jard\u00edn) \/ el parasol (de jard\u00edn)",
+                    "definition": "(zahradn\u00ed) slune\u010dn\u00edk\r",
+                    "images": []
+                },
+                "93": {
+                    "id": 93,
+                    "question": "",
+                    "term": "la piscina exterior",
+                    "definition": "baz\u00e9n venkovn\u00ed\r",
+                    "images": []
+                },
+                "94": {
+                    "id": 94,
+                    "question": "",
+                    "term": "la piscina cubierta",
+                    "definition": "kryt\u00fd, zast\u0159e\u0161en\u00fd baz\u00e9n\r",
+                    "images": []
+                },
+                "95": {
+                    "id": 95,
+                    "question": "",
+                    "term": "la piscina climatizada",
+                    "definition": "vyh\u0159\u00edvan\u00fd baz\u00e9n\r",
+                    "images": []
+                },
+                "96": {
+                    "id": 96,
+                    "question": "",
+                    "term": "la barbacoa \/ la parrilla",
+                    "definition": "gril\r",
+                    "images": []
+                },
+                "97": {
+                    "id": 97,
+                    "question": "",
+                    "term": "hacer barbacoa \u2014 hacer la carne a la parrilla",
+                    "definition": "grilovat \u2014 d\u011blat maso na grilu\r",
+                    "images": []
+                },
+                "98": {
+                    "id": 98,
+                    "question": "",
+                    "term": "el cercado vivo \/ verde",
+                    "definition": "plot \u017eiv\u00fd, zelen\u00fd\r",
+                    "images": []
+                },
+                "99": {
+                    "id": 99,
+                    "question": "",
+                    "term": "el cercado de palos",
+                    "definition": "ty\u010dkov\u00fd plot\r",
+                    "images": []
+                },
+                "100": {
+                    "id": 100,
+                    "question": "",
+                    "term": "el cercado de hormig\u00f3n premoldeado",
+                    "definition": "plot z betonov\u00fdch prefabrik\u00e1t\u016f\r",
+                    "images": []
+                },
+                "101": {
+                    "id": 101,
+                    "question": "",
+                    "term": "la ver",
+                    "definition": "plot z m\u0159\u00ed\u017e\u00ed\r",
+                    "images": []
+                },
+                "102": {
+                    "id": 102,
+                    "question": "",
+                    "term": "las partes del apartamento",
+                    "definition": "\u010d\u00e1sti bytu\r",
+                    "images": []
+                },
+                "103": {
+                    "id": 103,
+                    "question": "",
+                    "term": "el piso espacioso",
+                    "definition": "prostorn\u00fd byt\r",
+                    "images": []
+                },
+                "104": {
+                    "id": 104,
+                    "question": "",
+                    "term": "el piso arreglado \/ amueblado",
+                    "definition": "za\u0159\u00edzen\u00fd byt, s n\u00e1bytkem\r",
+                    "images": []
+                },
+                "105": {
+                    "id": 105,
+                    "question": "",
+                    "term": "el piso bien acomodado \/ c\u00f3modo",
+                    "definition": "pohodln\u011b za\u0159\u00edzen\u00fd, pohodln\u00fd byt\r",
+                    "images": []
+                },
+                "106": {
+                    "id": 106,
+                    "question": "",
+                    "term": "amueblar la casa",
+                    "definition": "za\u0159\u00eddit, vybavit byt\r",
+                    "images": []
+                },
+                "107": {
+                    "id": 107,
+                    "question": "",
+                    "term": "la calefacci\u00f3n central",
+                    "definition": "\u00fast\u0159edn\u00ed topen\u00ed\r",
+                    "images": []
+                },
+                "108": {
+                    "id": 108,
+                    "question": "",
+                    "term": "la calefacci\u00f3n de piso \/ de suelo",
+                    "definition": "podlahov\u00e9 topen\u00ed\r",
+                    "images": []
+                },
+                "109": {
+                    "id": 109,
+                    "question": "",
+                    "term": "la calefacci\u00f3n de gas",
+                    "definition": "plynov\u00e9 topen\u00ed\r",
+                    "images": []
+                },
+                "110": {
+                    "id": 110,
+                    "question": "",
+                    "term": "la calefacci\u00f3n el\u00e9ctrica",
+                    "definition": "elektrick\u00e9 topen\u00ed\r",
+                    "images": []
+                },
+                "111": {
+                    "id": 111,
+                    "question": "",
+                    "term": "la calefacci\u00f3n solar",
+                    "definition": "sol\u00e1rn\u00ed topen\u00ed\r",
+                    "images": []
+                },
+                "112": {
+                    "id": 112,
+                    "question": "",
+                    "term": "la calefacci\u00f3n por aire caliente",
+                    "definition": "topen\u00ed hork\u00fdm vzduchem\r",
+                    "images": []
+                },
+                "113": {
+                    "id": 113,
+                    "question": "",
+                    "term": "el suelo \/ el piso",
+                    "definition": "podlaha\r",
+                    "images": []
+                },
+                "114": {
+                    "id": 114,
+                    "question": "",
+                    "term": "la pared",
+                    "definition": "st\u011bna, ze\u010f\r",
+                    "images": []
+                },
+                "115": {
+                    "id": 115,
+                    "question": "",
+                    "term": "el muro",
+                    "definition": "ze\u010f domu, ze\u010f venkovn\u00ed\r",
+                    "images": []
+                },
+                "116": {
+                    "id": 116,
+                    "question": "",
+                    "term": "el techo",
+                    "definition": "strop\r",
+                    "images": []
+                },
+                "117": {
+                    "id": 117,
+                    "question": "",
+                    "term": "las paredes pintadas",
+                    "definition": "vymalovan\u00e9 zdi\r",
+                    "images": []
+                },
+                "118": {
+                    "id": 118,
+                    "question": "",
+                    "term": "las paredes empapeladas",
+                    "definition": "vytapetovan\u00e9 zdi\r",
+                    "images": []
+                },
+                "119": {
+                    "id": 119,
+                    "question": "",
+                    "term": "el cuarto \/ la habitaci\u00f3n",
+                    "definition": "m\u00edstnost, pokoj\r",
+                    "images": []
+                },
+                "120": {
+                    "id": 120,
+                    "question": "",
+                    "term": "el vest\u00edbulo \/ la entrada \/ el recibidor",
+                    "definition": "vstupn\u00ed hala, p\u0159eds\u00ed\u0148\r",
+                    "images": []
+                },
+                "121": {
+                    "id": 121,
+                    "question": "",
+                    "term": "el pasillo",
+                    "definition": "chodba\r",
+                    "images": []
+                },
+                "122": {
+                    "id": 122,
+                    "question": "",
+                    "term": "la despensa",
+                    "definition": "sp\u00ed\u017e\r",
+                    "images": []
+                },
+                "123": {
+                    "id": 123,
+                    "question": "",
+                    "term": "el comedor",
+                    "definition": "j\u00eddelna\r",
+                    "images": []
+                },
+                "124": {
+                    "id": 124,
+                    "question": "",
+                    "term": "la cocina comedor (pl. cocinas comedor) \/ la cocina abierta",
+                    "definition": "kuchy\u0148 s j\u00eddeln\u00edm koutem\r",
+                    "images": []
+                },
+                "125": {
+                    "id": 125,
+                    "question": "",
+                    "term": "el cuarto de estar \/ la sala de estar \/ el sal\u00f3n",
+                    "definition": "ob\u00fdvac\u00ed pokoj\r",
+                    "images": []
+                },
+                "126": {
+                    "id": 126,
+                    "question": "",
+                    "term": "el dormitorio",
+                    "definition": "lo\u017enice\r",
+                    "images": []
+                },
+                "127": {
+                    "id": 127,
+                    "question": "",
+                    "term": "el cuarto de ni\u00f1os",
+                    "definition": "d\u011btsk\u00fd pokoj\r",
+                    "images": []
+                },
+                "128": {
+                    "id": 128,
+                    "question": "",
+                    "term": "el cuarto de juegos",
+                    "definition": "m\u00edstnost ur\u010den\u00e1 ke hr\u00e1m\r",
+                    "images": []
+                },
+                "129": {
+                    "id": 129,
+                    "question": "",
+                    "term": "el cuarto de hu\u00e9spedes \/ para hu\u00e9spedes",
+                    "definition": "pokoj pro hosty\r",
+                    "images": []
+                },
+                "130": {
+                    "id": 130,
+                    "question": "",
+                    "term": "el cuarto de trabajo \/ el despacho",
+                    "definition": "dom\u00e1c\u00ed pracovna\r",
+                    "images": []
+                },
+                "131": {
+                    "id": 131,
+                    "question": "",
+                    "term": "el cuarto de estudio",
+                    "definition": "m\u00edstnost, kde se d\u011bti doma u\u010d\u00ed\r",
+                    "images": []
+                },
+                "132": {
+                    "id": 132,
+                    "question": "",
+                    "term": "la biblioteca",
+                    "definition": "knihovna (n\u00e1bytek i instituce)\r",
+                    "images": []
+                },
+                "133": {
+                    "id": 133,
+                    "question": "",
+                    "term": "el cuarto de ba\u00f1o \/ el ba\u00f1o",
+                    "definition": "koupelna (se z\u00e1chodem i bez n\u011bho)\r",
+                    "images": []
+                },
+                "134": {
+                    "id": 134,
+                    "question": "",
+                    "term": "el cuarto de aseo",
+                    "definition": "z\u00e1chod\r",
+                    "images": []
+                },
+                "135": {
+                    "id": 135,
+                    "question": "",
+                    "term": "el servicio",
+                    "definition": "z\u00e1chod (spi\u0161e ve\u0159ejn\u00fd)\r",
+                    "images": []
+                },
+                "136": {
+                    "id": 136,
+                    "question": "",
+                    "term": "el lavadero \/ la lavander\u00eda",
+                    "definition": "pr\u00e1delna\r",
+                    "images": []
+                },
+                "137": {
+                    "id": 137,
+                    "question": "",
+                    "term": "la antesala",
+                    "definition": "preds\u00ed\u0148\r",
+                    "images": []
+                },
+                "138": {
+                    "id": 138,
+                    "question": "",
+                    "term": "la entrada",
+                    "definition": "vchod\r",
+                    "images": []
+                },
+                "139": {
+                    "id": 139,
+                    "question": "",
+                    "term": "el felpudo",
+                    "definition": "roho\u017eka\r",
+                    "images": []
+                },
+                "140": {
+                    "id": 140,
+                    "question": "",
+                    "term": "el perchero",
+                    "definition": "v\u011b\u0161\u00e1k (stojanov\u00fd)\r",
+                    "images": []
+                },
+                "141": {
+                    "id": 141,
+                    "question": "",
+                    "term": "el colgador",
+                    "definition": "v\u011b\u0161\u00e1k (sada h\u00e1\u010dk\u016f)\r",
+                    "images": []
+                },
+                "142": {
+                    "id": 142,
+                    "question": "",
+                    "term": "la percha",
+                    "definition": "ram\u00ednko\r",
+                    "images": []
+                },
+                "143": {
+                    "id": 143,
+                    "question": "",
+                    "term": "colgar el abrigo en la percha",
+                    "definition": "pov\u011bsit kab\u00e1t na ram\u00ednko\r",
+                    "images": []
+                },
+                "144": {
+                    "id": 144,
+                    "question": "",
+                    "term": "colgar el abrigo al perchero",
+                    "definition": "pov\u011bsit kab\u00e1t na v\u011b\u0161\u00e1k\r",
+                    "images": []
+                },
+                "145": {
+                    "id": 145,
+                    "question": "",
+                    "term": "el calzador",
+                    "definition": "l\u017e\u00edce na obouv\u00e1n\u00ed\r",
+                    "images": []
+                },
+                "146": {
+                    "id": 146,
+                    "question": "",
+                    "term": "el espejo",
+                    "definition": "zrcadlo\r",
+                    "images": []
+                },
+                "147": {
+                    "id": 147,
+                    "question": "",
+                    "term": "el mueble zapatero",
+                    "definition": "botn\u00edk\r",
+                    "images": []
+                },
+                "148": {
+                    "id": 148,
+                    "question": "",
+                    "term": "la cocina",
+                    "definition": "kuchy\u0148\r",
+                    "images": []
+                },
+                "149": {
+                    "id": 149,
+                    "question": "",
+                    "term": "el armario (de pared)",
+                    "definition": "sk\u0159\u00ed\u0148ka (zav\u011b\u0161en\u00e1 na zdi)\r",
+                    "images": []
+                },
+                "150": {
+                    "id": 150,
+                    "question": "",
+                    "term": "el caj\u00f3n",
+                    "definition": "z\u00e1suvka, \u0161upl\u00edk\r",
+                    "images": []
+                },
+                "151": {
+                    "id": 151,
+                    "question": "",
+                    "term": "el fregadero (de dos pilas)",
+                    "definition": "d\u0159ez (dvojd\u0159ez)\r",
+                    "images": []
+                },
+                "152": {
+                    "id": 152,
+                    "question": "",
+                    "term": "el grifo",
+                    "definition": "vodovodn\u00ed kohoutek\r",
+                    "images": []
+                },
+                "153": {
+                    "id": 153,
+                    "question": "",
+                    "term": "el grifo de agua fr\u00eda",
+                    "definition": "kohoutek na studenou vodu\r",
+                    "images": []
+                },
+                "154": {
+                    "id": 154,
+                    "question": "",
+                    "term": "el grifo de agua caliente",
+                    "definition": "kohoutek na teplou vodu\r",
+                    "images": []
+                },
+                "155": {
+                    "id": 155,
+                    "question": "",
+                    "term": "la esponja",
+                    "definition": "houba\/houbi\u010dka (na n\u00e1dob\u00ed aj.)\r",
+                    "images": []
+                },
+                "156": {
+                    "id": 156,
+                    "question": "",
+                    "term": "el detergente",
+                    "definition": "sapon\u00e1t\r",
+                    "images": []
+                },
+                "157": {
+                    "id": 157,
+                    "question": "",
+                    "term": "el trapo (de la cocina)",
+                    "definition": "ut\u011brka\r",
+                    "images": []
+                },
+                "158": {
+                    "id": 158,
+                    "question": "",
+                    "term": "el escurrevajillas \/ el escurreplatos",
+                    "definition": "odkap\u00e1va\u010d na n\u00e1dob\u00ed\r",
+                    "images": []
+                },
+                "159": {
+                    "id": 159,
+                    "question": "",
+                    "term": "fregar los platos",
+                    "definition": "um\u00fdvat n\u00e1dob\u00ed\r",
+                    "images": []
+                },
+                "160": {
+                    "id": 160,
+                    "question": "",
+                    "term": "secar los platos",
+                    "definition": "ut\u00edrat n\u00e1dob\u00ed\r",
+                    "images": []
+                },
+                "161": {
+                    "id": 161,
+                    "question": "",
+                    "term": "el cubo de basura",
+                    "definition": "odpadkov\u00fd ko\u0161\r",
+                    "images": []
+                },
+                "162": {
+                    "id": 162,
+                    "question": "",
+                    "term": "tirar la basura",
+                    "definition": "vyn\u00e9st odpadky\r",
+                    "images": []
+                },
+                "163": {
+                    "id": 163,
+                    "question": "",
+                    "term": "tirar a la basura",
+                    "definition": "vyhodit do ko\u0161e, vyhodit do odpadk\u016f\r",
+                    "images": []
+                },
+                "164": {
+                    "id": 164,
+                    "question": "",
+                    "term": "el agarrador de cocina",
+                    "definition": "ch\u0148apka (\u010dtvercov\u00e1)\r",
+                    "images": []
+                },
+                "165": {
+                    "id": 165,
+                    "question": "",
+                    "term": "la manopla",
+                    "definition": "ch\u0148apka (rukavice)\r",
+                    "images": []
+                },
+                "166": {
+                    "id": 166,
+                    "question": "",
+                    "term": "el equipo de cocina",
+                    "definition": "vybaven\u00ed kuchyn\u011b\r",
+                    "images": []
+                },
+                "167": {
+                    "id": 167,
+                    "question": "",
+                    "term": "los electrodom\u00e9sticos",
+                    "definition": "elektrospot\u0159ebi\u010de\r",
+                    "images": []
+                },
+                "168": {
+                    "id": 168,
+                    "question": "",
+                    "term": "el enchufe",
+                    "definition": "z\u00e1suvka (elektrick\u00e1)\r",
+                    "images": []
+                },
+                "169": {
+                    "id": 169,
+                    "question": "",
+                    "term": "la cocina el\u00e9ctrica",
+                    "definition": "elektrick\u00fd spor\u00e1k\r",
+                    "images": []
+                },
+                "170": {
+                    "id": 170,
+                    "question": "",
+                    "term": "la cocina a gas",
+                    "definition": "plynov\u00fd spor\u00e1k\r",
+                    "images": []
+                },
+                "171": {
+                    "id": 171,
+                    "question": "",
+                    "term": "los hornillos",
+                    "definition": "ho\u0159\u00e1ky na plynov\u00e9m spor\u00e1ku\r",
+                    "images": []
+                },
+                "172": {
+                    "id": 172,
+                    "question": "",
+                    "term": "la placa (cer\u00e1mica)",
+                    "definition": "plot\u00fdnka (keramick\u00e1)\r",
+                    "images": []
+                },
+                "173": {
+                    "id": 173,
+                    "question": "",
+                    "term": "el horno",
+                    "definition": "trouba\r",
+                    "images": []
+                },
+                "174": {
+                    "id": 174,
+                    "question": "",
+                    "term": "el microondas",
+                    "definition": "mikrovlnn\u00e1 trouba\r",
+                    "images": []
+                },
+                "175": {
+                    "id": 175,
+                    "question": "",
+                    "term": "el hervidor el\u00e9ctrico",
+                    "definition": "elektrick\u00e1 varn\u00e1 konvice\r",
+                    "images": []
+                },
+                "176": {
+                    "id": 176,
+                    "question": "",
+                    "term": "el calentador (de agua)",
+                    "definition": "oh\u0159\u00edva\u010d (vody aj.)\r",
+                    "images": []
+                },
+                "177": {
+                    "id": 177,
+                    "question": "",
+                    "term": "el tostador",
+                    "definition": "toustova\u010d, topinkova\u010d\r",
+                    "images": []
+                },
+                "178": {
+                    "id": 178,
+                    "question": "",
+                    "term": "el frigor\u00edfico \/ la nevera \/ el refrigerador",
+                    "definition": "ledni\u010dka\r",
+                    "images": []
+                },
+                "179": {
+                    "id": 179,
+                    "question": "",
+                    "term": "el congelador",
+                    "definition": "mrazni\u010dka\r",
+                    "images": []
+                },
+                "180": {
+                    "id": 180,
+                    "question": "",
+                    "term": "el frigor\u00edfico combinado",
+                    "definition": "ledni\u010dka s mraz\u00e1kem\r",
+                    "images": []
+                },
+                "181": {
+                    "id": 181,
+                    "question": "",
+                    "term": "la batidora el\u00e9ctrica",
+                    "definition": "elektrick\u00fd mix\u00e9r, \u0161leha\u010d\r",
+                    "images": []
+                },
+                "182": {
+                    "id": 182,
+                    "question": "",
+                    "term": "la batidora manual",
+                    "definition": "ru\u010dn\u00ed mix\u00e9r, \u0161leha\u010d\r",
+                    "images": []
+                },
+                "183": {
+                    "id": 183,
+                    "question": "",
+                    "term": "el lavavajillas \/ el lavaplatos",
+                    "definition": "my\u010dka\r",
+                    "images": []
+                },
+                "184": {
+                    "id": 184,
+                    "question": "",
+                    "term": "el molinillo (el\u00e9ctrico) de caf\u00e9",
+                    "definition": "(elektrick\u00fd) ml\u00fdnek na k\u00e1vu\r",
+                    "images": []
+                },
+                "185": {
+                    "id": 185,
+                    "question": "",
+                    "term": "el robot de cocina",
+                    "definition": "kuchy\u0148sk\u00fd robot\r",
+                    "images": []
+                },
+                "186": {
+                    "id": 186,
+                    "question": "",
+                    "term": "la panificadora",
+                    "definition": "dom\u00e1c\u00ed pek\u00e1rna\r",
+                    "images": []
+                },
+                "187": {
+                    "id": 187,
+                    "question": "",
+                    "term": "la yogurtera",
+                    "definition": "jogurtova\u010d\r",
+                    "images": []
+                },
+                "188": {
+                    "id": 188,
+                    "question": "",
+                    "term": "los utensilios de cocina",
+                    "definition": "kuchy\u0148sk\u00e9 n\u00e1\u010din\u00ed\r",
+                    "images": []
+                },
+                "189": {
+                    "id": 189,
+                    "question": "",
+                    "term": "la m\u00e1quina de \/ para picar carne",
+                    "definition": "ml\u00fdnek na maso\r",
+                    "images": []
+                },
+                "190": {
+                    "id": 190,
+                    "question": "",
+                    "term": "el molinillo de pimienta",
+                    "definition": "ml\u00fdnek na pep\u0159\r",
+                    "images": []
+                },
+                "191": {
+                    "id": 191,
+                    "question": "",
+                    "term": "el cortahuevos",
+                    "definition": "kr\u00e1je\u010d na vejce\r",
+                    "images": []
+                },
+                "192": {
+                    "id": 192,
+                    "question": "",
+                    "term": "el rallador",
+                    "definition": "struhadlo\r",
+                    "images": []
+                },
+                "193": {
+                    "id": 193,
+                    "question": "",
+                    "term": "la tabla",
+                    "definition": "prk\u00fdnko\r",
+                    "images": []
+                },
+                "194": {
+                    "id": 194,
+                    "question": "",
+                    "term": "el rodillo",
+                    "definition": "v\u00e1le\u010dek na t\u011bsto\r",
+                    "images": []
+                },
+                "195": {
+                    "id": 195,
+                    "question": "",
+                    "term": "el mazo para carne",
+                    "definition": "pali\u010dka na maso\r",
+                    "images": []
+                },
+                "196": {
+                    "id": 196,
+                    "question": "",
+                    "term": "el cazo \/ el cuchar\u00f3n",
+                    "definition": "nab\u011bra\u010dka\r",
+                    "images": []
+                },
+                "197": {
+                    "id": 197,
+                    "question": "",
+                    "term": "la cuchara de madera",
+                    "definition": "va\u0159e\u010dka\r",
+                    "images": []
+                },
+                "198": {
+                    "id": 198,
+                    "question": "",
+                    "term": "el cuchillo",
+                    "definition": "n\u016f\u017e\r",
+                    "images": []
+                },
+                "199": {
+                    "id": 199,
+                    "question": "",
+                    "term": "el afilador de cuchillos",
+                    "definition": "brousek na no\u017ee\r",
+                    "images": []
+                },
+                "200": {
+                    "id": 200,
+                    "question": "",
+                    "term": "el juego de vajilla",
+                    "definition": "souprava n\u00e1dob\u00ed\r",
+                    "images": []
+                },
+                "201": {
+                    "id": 201,
+                    "question": "",
+                    "term": "la cacerola \/ la cazuela",
+                    "definition": "kastrol\r",
+                    "images": []
+                },
+                "202": {
+                    "id": 202,
+                    "question": "",
+                    "term": "la tapa \/ la tapadera",
+                    "definition": "poklice\r",
+                    "images": []
+                },
+                "203": {
+                    "id": 203,
+                    "question": "",
+                    "term": "la olla \/ la marmita",
+                    "definition": "hrnec, kotl\u00edk\r",
+                    "images": []
+                },
+                "204": {
+                    "id": 204,
+                    "question": "",
+                    "term": "la sart\u00e9n",
+                    "definition": "p\u00e1nev\r",
+                    "images": []
+                },
+                "205": {
+                    "id": 205,
+                    "question": "",
+                    "term": "el asa",
+                    "definition": "ucho (hrnce ap.)\r",
+                    "images": []
+                },
+                "206": {
+                    "id": 206,
+                    "question": "",
+                    "term": "el mango",
+                    "definition": "dr\u017eadlo (p\u00e1nve ap.)\r",
+                    "images": []
+                },
+                "207": {
+                    "id": 207,
+                    "question": "",
+                    "term": "el molde",
+                    "definition": "forma, pek\u00e1\u010dek, formi\u010dka na muffiny\r",
+                    "images": []
+                },
+                "208": {
+                    "id": 208,
+                    "question": "",
+                    "term": "el cortador de galletas",
+                    "definition": "vykrajov\u00e1tko na cukrov\u00ed \/ su\u0161enky\r",
+                    "images": []
+                },
+                "209": {
+                    "id": 209,
+                    "question": "",
+                    "term": "la bandeja de \/ para horno",
+                    "definition": "plech na pe\u010den\u00ed\r",
+                    "images": []
+                },
+                "210": {
+                    "id": 210,
+                    "question": "",
+                    "term": "la cafetera",
+                    "definition": "konvice na k\u00e1vu\r",
+                    "images": []
+                },
+                "211": {
+                    "id": 211,
+                    "question": "",
+                    "term": "la tetera",
+                    "definition": "konvice na \u010daj\r",
+                    "images": []
+                },
+                "212": {
+                    "id": 212,
+                    "question": "",
+                    "term": "el exprimidor el\u00e9ctrico",
+                    "definition": "elektrick\u00fd od\u0161\u0165av\u0148ova\u010d (citrus\u016f)\r",
+                    "images": []
+                },
+                "213": {
+                    "id": 213,
+                    "question": "",
+                    "term": "el exprimidor manual",
+                    "definition": "od\u0161\u0165av\u0148ova\u010d, lis (na citrusy)\r",
+                    "images": []
+                },
+                "214": {
+                    "id": 214,
+                    "question": "",
+                    "term": "el colador",
+                    "definition": "cedn\u00edk\r",
+                    "images": []
+                },
+                "215": {
+                    "id": 215,
+                    "question": "",
+                    "term": "el colador de infusiones",
+                    "definition": "s\u00edtko na \u010daj\r",
+                    "images": []
+                },
+                "216": {
+                    "id": 216,
+                    "question": "",
+                    "term": "el tamiz",
+                    "definition": "s\u00edtko na mouku ap.\r",
+                    "images": []
+                },
+                "217": {
+                    "id": 217,
+                    "question": "",
+                    "term": "el abrebotellas \u2014 el sacacorchos",
+                    "definition": "otv\u00edr\u00e1k na lahve \u2014 v\u00fdvrtka\r",
+                    "images": []
+                },
+                "218": {
+                    "id": 218,
+                    "question": "",
+                    "term": "el abrelatas",
+                    "definition": "otv\u00edr\u00e1k na konzervy\r",
+                    "images": []
+                },
+                "219": {
+                    "id": 219,
+                    "question": "",
+                    "term": "la bandeja de \/ para horno",
+                    "definition": "podnos\r",
+                    "images": []
+                },
+                "220": {
+                    "id": 220,
+                    "question": "",
+                    "term": "la jarra",
+                    "definition": "d\u017eb\u00e1n\r",
+                    "images": []
+                },
+                "221": {
+                    "id": 221,
+                    "question": "",
+                    "term": "el comedor",
+                    "definition": "j\u00eddelna\r",
+                    "images": []
+                },
+                "222": {
+                    "id": 222,
+                    "question": "",
+                    "term": "la mesa redonda",
+                    "definition": "kulat\u00fd st\u00fal (i p\u0159en.)\r",
+                    "images": []
+                },
+                "223": {
+                    "id": 223,
+                    "question": "",
+                    "term": "la mesa cuadrada",
+                    "definition": "\u010dtvercov\u00fd st\u016fl\r",
+                    "images": []
+                },
+                "224": {
+                    "id": 224,
+                    "question": "",
+                    "term": "la mesa rectangular",
+                    "definition": "obd\u00e9ln\u00edkov\u00fd st\u016fl\r",
+                    "images": []
+                },
+                "225": {
+                    "id": 225,
+                    "question": "",
+                    "term": "la mesa de comer",
+                    "definition": "j\u00eddeln\u00ed st\u016fl\r",
+                    "images": []
+                },
+                "226": {
+                    "id": 226,
+                    "question": "",
+                    "term": "la mesa extensible",
+                    "definition": "rozkl\u00e1dac\u00ed st\u016fl\r",
+                    "images": []
+                },
+                "227": {
+                    "id": 227,
+                    "question": "",
+                    "term": "hay seis sillas alrededor de la mesa",
+                    "definition": "kolem stolu je \u0161est \u017eidl\u00ed\r",
+                    "images": []
+                },
+                "228": {
+                    "id": 228,
+                    "question": "",
+                    "term": "la silla acolchada",
+                    "definition": "\u017eidle polstrovan\u00e1, \u010daloun\u011bn\u00e1\r",
+                    "images": []
+                },
+                "229": {
+                    "id": 229,
+                    "question": "",
+                    "term": "de madera",
+                    "definition": "d\u0159ev\u011bn\u00fd, ze d\u0159eva\r",
+                    "images": []
+                },
+                "230": {
+                    "id": 230,
+                    "question": "",
+                    "term": "de pl\u00e1stico",
+                    "definition": "plastov\u00fd, z plastu\r",
+                    "images": []
+                },
+                "231": {
+                    "id": 231,
+                    "question": "",
+                    "term": "de metal",
+                    "definition": "kovov\u00fd, z kovu\r",
+                    "images": []
+                },
+                "232": {
+                    "id": 232,
+                    "question": "",
+                    "term": "coj\u00edn para silla",
+                    "definition": "podsed\u00e1k na \u017eidli\r",
+                    "images": []
+                },
+                "233": {
+                    "id": 233,
+                    "question": "",
+                    "term": "sentarse a la mesa",
+                    "definition": "sednout si ke stolu\r",
+                    "images": []
+                },
+                "234": {
+                    "id": 234,
+                    "question": "",
+                    "term": "la sobremesa",
+                    "definition": "posezen\u00ed u stolu po j\u00eddle\r",
+                    "images": []
+                },
+                "235": {
+                    "id": 235,
+                    "question": "",
+                    "term": "el cuarto de estar",
+                    "definition": "ob\u00fdvac\u00ed pokoj\r",
+                    "images": []
+                },
+                "236": {
+                    "id": 236,
+                    "question": "",
+                    "term": "el sill\u00f3n",
+                    "definition": "k\u0159eslo\r",
+                    "images": []
+                },
+                "237": {
+                    "id": 237,
+                    "question": "",
+                    "term": "el sof\u00e1",
+                    "definition": "pohovka\r",
+                    "images": []
+                },
+                "238": {
+                    "id": 238,
+                    "question": "",
+                    "term": "estar sentado en el sill\u00f3n \u2014 en el sof\u00e1",
+                    "definition": "sed\u011bt v k\u0159esle \u2014 na pohovce\r",
+                    "images": []
+                },
+                "239": {
+                    "id": 239,
+                    "question": "",
+                    "term": "la mesa de caf\u00e9 \/ la mesa de sal\u00f3n",
+                    "definition": "konferen\u010dn\u00ed stolek\r",
+                    "images": []
+                },
+                "240": {
+                    "id": 240,
+                    "question": "",
+                    "term": "el armario combinado \/ la estanter\u00eda",
+                    "definition": "pokojov\u00e1 st\u011bna (ob\u00fdvac\u00ed st\u011bna)\r",
+                    "images": []
+                },
+                "241": {
+                    "id": 241,
+                    "question": "",
+                    "term": "la mesa jardinera",
+                    "definition": "kv\u011btinov\u00fd stolek\r",
+                    "images": []
+                },
+                "242": {
+                    "id": 242,
+                    "question": "",
+                    "term": "la maceta",
+                    "definition": "kv\u011btin\u00e1\u010d\r",
+                    "images": []
+                },
+                "243": {
+                    "id": 243,
+                    "question": "",
+                    "term": "la televisi\u00f3n \u2014 el televisor",
+                    "definition": "televize \u2014 televizor\r",
+                    "images": []
+                },
+                "244": {
+                    "id": 244,
+                    "question": "",
+                    "term": "el tocadiscos",
+                    "definition": "gramofon\r",
+                    "images": []
+                },
+                "245": {
+                    "id": 245,
+                    "question": "",
+                    "term": "el reproductor MP3 \u2014 de CD",
+                    "definition": ".mp3 p\u0159ehr\u00e1va\u010d \u2014 CD p\u0159ehr\u00e1va\u010d\r",
+                    "images": []
+                },
+                "246": {
+                    "id": 246,
+                    "question": "",
+                    "term": "la ara\u00f1a \/ la luz",
+                    "definition": "lustr\r",
+                    "images": []
+                },
+                "247": {
+                    "id": 247,
+                    "question": "",
+                    "term": "la l\u00e1mpara de mesa",
+                    "definition": "stoln\u00ed lampa\r",
+                    "images": []
+                },
+                "248": {
+                    "id": 248,
+                    "question": "",
+                    "term": "la l\u00e1mpara de pie",
+                    "definition": "stojac\u00ed lampa\r",
+                    "images": []
+                },
+                "249": {
+                    "id": 249,
+                    "question": "",
+                    "term": "el revestimiento de suelo",
+                    "definition": "podlahov\u00e1 krytina\r",
+                    "images": []
+                },
+                "250": {
+                    "id": 250,
+                    "question": "",
+                    "term": "la alfombra",
+                    "definition": "koberec kusov\u00fd\r",
+                    "images": []
+                },
+                "251": {
+                    "id": 251,
+                    "question": "",
+                    "term": "la moqueta",
+                    "definition": "koberec metr\u00e1\u017eov\u00fd\r",
+                    "images": []
+                },
+                "252": {
+                    "id": 252,
+                    "question": "",
+                    "term": "el suelo flotante \/ el piso flotante",
+                    "definition": "plovouc\u00ed podlaha\r",
+                    "images": []
+                },
+                "253": {
+                    "id": 253,
+                    "question": "",
+                    "term": "el lin\u00f3leo \/ el CPV",
+                    "definition": "linoleum\r",
+                    "images": []
+                },
+                "254": {
+                    "id": 254,
+                    "question": "",
+                    "term": "el pavimento vin\u00edlico marmoleum",
+                    "definition": "dla\u017edice z marmolea\r",
+                    "images": []
+                },
+                "255": {
+                    "id": 255,
+                    "question": "",
+                    "term": "el pavimento",
+                    "definition": "dla\u017eba\r",
+                    "images": []
+                },
+                "256": {
+                    "id": 256,
+                    "question": "",
+                    "term": "el objeto decorativo",
+                    "definition": "dekorativn\u00ed p\u0159edm\u011bt\r",
+                    "images": []
+                },
+                "257": {
+                    "id": 257,
+                    "question": "",
+                    "term": "colgar un cuadro en la pared",
+                    "definition": "pov\u011bsit obraz na ze\u010f\r",
+                    "images": []
+                },
+                "258": {
+                    "id": 258,
+                    "question": "",
+                    "term": "la cortina",
+                    "definition": "z\u00e1clona\r",
+                    "images": []
+                },
+                "259": {
+                    "id": 259,
+                    "question": "",
+                    "term": "el kit de barras para cortinas",
+                    "definition": "garn\u00fd\u017e (ty\u010d a \u00fachyt na z\u00e1v\u011bs)\r",
+                    "images": []
+                },
+                "260": {
+                    "id": 260,
+                    "question": "",
+                    "term": "el tel\u00f3n",
+                    "definition": "z\u00e1v\u011bs\r",
+                    "images": []
+                },
+                "261": {
+                    "id": 261,
+                    "question": "",
+                    "term": "el dormitorio",
+                    "definition": "lo\u017enice\r",
+                    "images": []
+                },
+                "262": {
+                    "id": 262,
+                    "question": "",
+                    "term": "la cama matrimonial",
+                    "definition": "man\u017eelsk\u00e1 postel\r",
+                    "images": []
+                },
+                "263": {
+                    "id": 263,
+                    "question": "",
+                    "term": "la cama cuna (pl. las camas cuna)",
+                    "definition": "d\u011btsk\u00e1 post\u00fdlka\r",
+                    "images": []
+                },
+                "264": {
+                    "id": 264,
+                    "question": "",
+                    "term": "la cama litera (pl. las camas litera)",
+                    "definition": "patrov\u00e1 postel, palanda\r",
+                    "images": []
+                },
+                "265": {
+                    "id": 265,
+                    "question": "",
+                    "term": "la cama nido",
+                    "definition": "rozkl\u00e1dac\u00ed dvojl\u016f\u017eko (jedna \u010d\u00e1st se zasouv\u00e1 pod druhou)\r",
+                    "images": []
+                },
+                "266": {
+                    "id": 266,
+                    "question": "",
+                    "term": "hacer la cama",
+                    "definition": "ustlat postel\r",
+                    "images": []
+                },
+                "267": {
+                    "id": 267,
+                    "question": "",
+                    "term": "deshacer la cama",
+                    "definition": "rozestlat postel\r",
+                    "images": []
+                },
+                "268": {
+                    "id": 268,
+                    "question": "",
+                    "term": "meterse en la cama \/ acostarse",
+                    "definition": "lehnout si, j\u00edt sp\u00e1t\r",
+                    "images": []
+                },
+                "269": {
+                    "id": 269,
+                    "question": "",
+                    "term": "guardar cama",
+                    "definition": "le\u017eet, z\u016fstat le\u017eet\r",
+                    "images": []
+                },
+                "270": {
+                    "id": 270,
+                    "question": "",
+                    "term": "levantarse de la cama",
+                    "definition": "vst\u00e1t z postele\r",
+                    "images": []
+                },
+                "271": {
+                    "id": 271,
+                    "question": "",
+                    "term": "el sof\u00e1 cama (pl. los sof\u00e1s cama)",
+                    "definition": "rozkl\u00e1dac\u00ed pohovka-postel\r",
+                    "images": []
+                },
+                "272": {
+                    "id": 272,
+                    "question": "",
+                    "term": "el colch\u00f3n",
+                    "definition": "matrace\r",
+                    "images": []
+                },
+                "273": {
+                    "id": 273,
+                    "question": "",
+                    "term": "la manta",
+                    "definition": "p\u0159ikr\u00fdvka, deka\r",
+                    "images": []
+                },
+                "274": {
+                    "id": 274,
+                    "question": "",
+                    "term": "la s\u00e1bana",
+                    "definition": "prost\u011bradlo\r",
+                    "images": []
+                },
+                "275": {
+                    "id": 275,
+                    "question": "",
+                    "term": "las s\u00e1banas",
+                    "definition": "lo\u017en\u00ed pr\u00e1dlo\r",
+                    "images": []
+                },
+                "276": {
+                    "id": 276,
+                    "question": "",
+                    "term": "se me han pegado las s\u00e1banas",
+                    "definition": "(hovor.) zaspal jsem\r",
+                    "images": []
+                },
+                "277": {
+                    "id": 277,
+                    "question": "",
+                    "term": "la s\u00e1bana de abajo",
+                    "definition": "spodn\u00ed prost\u011bradlo\r",
+                    "images": []
+                },
+                "278": {
+                    "id": 278,
+                    "question": "",
+                    "term": "la s\u00e1bana de arriba",
+                    "definition": "prost\u011bradlo svrchn\u00ed jako p\u0159ikr\u00fdvka\r",
+                    "images": []
+                },
+                "279": {
+                    "id": 279,
+                    "question": "",
+                    "term": "la funda",
+                    "definition": "povlak (na pol\u0161t\u00e1\u0159 apod.)\r",
+                    "images": []
+                },
+                "280": {
+                    "id": 280,
+                    "question": "",
+                    "term": "la almohada",
+                    "definition": "pol\u0161t\u00e1\u0159\r",
+                    "images": []
+                },
+                "281": {
+                    "id": 281,
+                    "question": "",
+                    "term": "la mesita de noche",
+                    "definition": "no\u010dn\u00ed stolek\r",
+                    "images": []
+                },
+                "282": {
+                    "id": 282,
+                    "question": "",
+                    "term": "el despertador",
+                    "definition": "bud\u00edk\r",
+                    "images": []
+                },
+                "283": {
+                    "id": 283,
+                    "question": "",
+                    "term": "el tocador",
+                    "definition": "toaletn\u00ed stolek\r",
+                    "images": []
+                },
+                "284": {
+                    "id": 284,
+                    "question": "",
+                    "term": "el taburete",
+                    "definition": "taburet\r",
+                    "images": []
+                },
+                "285": {
+                    "id": 285,
+                    "question": "",
+                    "term": "el armario",
+                    "definition": "sk\u0159\u00ed\u0148\r",
+                    "images": []
+                },
+                "286": {
+                    "id": 286,
+                    "question": "",
+                    "term": "el ropero",
+                    "definition": "\u0161atn\u00edk, sk\u0159\u00ed\u0148 na \u0161aty\r",
+                    "images": []
+                },
+                "287": {
+                    "id": 287,
+                    "question": "",
+                    "term": "la cajonera",
+                    "definition": "pr\u00e1deln\u00edk, komoda\r",
+                    "images": []
+                },
+                "288": {
+                    "id": 288,
+                    "question": "",
+                    "term": "el estudio \u2014 el despacho",
+                    "definition": "studovna \u2014 pracovna\r",
+                    "images": []
+                },
+                "289": {
+                    "id": 289,
+                    "question": "",
+                    "term": "el escritorio",
+                    "definition": "psac\u00ed st\u016fl\r",
+                    "images": []
+                },
+                "290": {
+                    "id": 290,
+                    "question": "",
+                    "term": "el armario lleno de libros",
+                    "definition": "sk\u0159\u00ed\u0148 pln\u00e1 knih\r",
+                    "images": []
+                },
+                "291": {
+                    "id": 291,
+                    "question": "",
+                    "term": "la estanter\u00eda",
+                    "definition": "police, policov\u00e1 sk\u0159\u00ed\u0148\r",
+                    "images": []
+                },
+                "292": {
+                    "id": 292,
+                    "question": "",
+                    "term": "la m\u00e1quina de escribir",
+                    "definition": "psac\u00ed stroj\r",
+                    "images": []
+                },
+                "293": {
+                    "id": 293,
+                    "question": "",
+                    "term": "el ordenador",
+                    "definition": "po\u010d\u00edta\u010d\r",
+                    "images": []
+                },
+                "294": {
+                    "id": 294,
+                    "question": "",
+                    "term": "la mesa de ordenador",
+                    "definition": "po\u010d\u00edta\u010dovy st\u016fl\r",
+                    "images": []
+                },
+                "295": {
+                    "id": 295,
+                    "question": "",
+                    "term": "los art\u00edculos de oficina",
+                    "definition": "kancel\u00e1\u0159sk\u00e9 pot\u0159eby\r",
+                    "images": []
+                },
+                "296": {
+                    "id": 296,
+                    "question": "",
+                    "term": "el cuarto de ba\u00f1o",
+                    "definition": "koupelna\r",
+                    "images": []
+                },
+                "297": {
+                    "id": 297,
+                    "question": "",
+                    "term": "el espejo",
+                    "definition": "zrcadlo\r",
+                    "images": []
+                },
+                "298": {
+                    "id": 298,
+                    "question": "",
+                    "term": "mirarse en el espejo \/ al espejo",
+                    "definition": "prohl\u00ed\u017eet se v zrcadle, d\u00edvat se do zrcadla\r",
+                    "images": []
+                },
+                "299": {
+                    "id": 299,
+                    "question": "",
+                    "term": "la repisa",
+                    "definition": "poli\u010dka (nap\u0159. u zrcadla)\r",
+                    "images": []
+                },
+                "300": {
+                    "id": 300,
+                    "question": "",
+                    "term": "la ba\u00f1era",
+                    "definition": "vana\r",
+                    "images": []
+                },
+                "301": {
+                    "id": 301,
+                    "question": "",
+                    "term": "la cortina de pl\u00e1stico",
+                    "definition": "z\u00e1v\u011bs kolem vany\r",
+                    "images": []
+                },
+                "302": {
+                    "id": 302,
+                    "question": "",
+                    "term": "la mampara",
+                    "definition": "z\u00e1st\u011bna\r",
+                    "images": []
+                },
+                "303": {
+                    "id": 303,
+                    "question": "",
+                    "term": "ba\u00f1arse \/ tomar un ba\u00f1o \/ darse un ba\u00f1o",
+                    "definition": "koupat se \/ d\u00e1t si koupel\r",
+                    "images": []
+                },
+                "304": {
+                    "id": 304,
+                    "question": "",
+                    "term": "la ducha",
+                    "definition": "sprcha\r",
+                    "images": []
+                },
+                "305": {
+                    "id": 305,
+                    "question": "",
+                    "term": "ducharse \/ tomar una ducha \/ darse una ducha",
+                    "definition": "sprchovat se \/ d\u00e1t si sprchu\r",
+                    "images": []
+                },
+                "306": {
+                    "id": 306,
+                    "question": "",
+                    "term": "la cabina de ducha",
+                    "definition": "sprchov\u00fd kout\r",
+                    "images": []
+                },
+                "307": {
+                    "id": 307,
+                    "question": "",
+                    "term": "el plato de ducha con mampara",
+                    "definition": "sprchov\u00e1 vani\u010dka se z\u00e1st\u011bnou\r",
+                    "images": []
+                },
+                "308": {
+                    "id": 308,
+                    "question": "",
+                    "term": "la toalla",
+                    "definition": "ru\u010dn\u00edk\r",
+                    "images": []
+                },
+                "309": {
+                    "id": 309,
+                    "question": "",
+                    "term": "el toallero",
+                    "definition": "dr\u017e\u00e1k na ru\u010dn\u00edky\r",
+                    "images": []
+                },
+                "310": {
+                    "id": 310,
+                    "question": "",
+                    "term": "el jab\u00f3n",
+                    "definition": "m\u00fddlo\r",
+                    "images": []
+                },
+                "311": {
+                    "id": 311,
+                    "question": "",
+                    "term": "el champ\u00fa",
+                    "definition": "\u0161ampon\r",
+                    "images": []
+                },
+                "312": {
+                    "id": 312,
+                    "question": "",
+                    "term": "la espuma de ba\u00f1o",
+                    "definition": "koupelov\u00e1 p\u011bna\r",
+                    "images": []
+                },
+                "313": {
+                    "id": 313,
+                    "question": "",
+                    "term": "lavarse los dientes",
+                    "definition": "\u010distit si zuby\r",
+                    "images": []
+                },
+                "314": {
+                    "id": 314,
+                    "question": "",
+                    "term": "la pasta dent\u00edfrica \/ la crema dent\u00edfrica \/ la pasta de dientes",
+                    "definition": "zubn\u00ed pasta\r",
+                    "images": []
+                },
+                "315": {
+                    "id": 315,
+                    "question": "",
+                    "term": "el cepillo de dientes",
+                    "definition": "kart\u00e1\u010dek na zuby\r",
+                    "images": []
+                },
+                "316": {
+                    "id": 316,
+                    "question": "",
+                    "term": "cepillar",
+                    "definition": "kart\u00e1\u010dovat\r",
+                    "images": []
+                },
+                "317": {
+                    "id": 317,
+                    "question": "",
+                    "term": "el cepillo para el pelo",
+                    "definition": "kart\u00e1\u010d na vlasy\r",
+                    "images": []
+                },
+                "318": {
+                    "id": 318,
+                    "question": "",
+                    "term": "peinarse con el peine",
+                    "definition": "\u010desat se h\u0159ebenem\r",
+                    "images": []
+                },
+                "319": {
+                    "id": 319,
+                    "question": "",
+                    "term": "afeitarse",
+                    "definition": "holit se\r",
+                    "images": []
+                },
+                "320": {
+                    "id": 320,
+                    "question": "",
+                    "term": "la brocha para afeitar",
+                    "definition": "\u0161t\u011btka na holen\u00ed\r",
+                    "images": []
+                },
+                "321": {
+                    "id": 321,
+                    "question": "",
+                    "term": "la maquinilla el\u00e9ctrica de afeitar",
+                    "definition": "elektrick\u00fd holic\u00ed strojek\r",
+                    "images": []
+                },
+                "322": {
+                    "id": 322,
+                    "question": "",
+                    "term": "lavarse",
+                    "definition": "um\u00fdvat se\r",
+                    "images": []
+                },
+                "323": {
+                    "id": 323,
+                    "question": "",
+                    "term": "lavarse la cara \u2014 las manos en el lavabo",
+                    "definition": "um\u00fdvat si obli\u010dej \u2014 ruce v um\u00fdvadle\r",
+                    "images": []
+                },
+                "324": {
+                    "id": 324,
+                    "question": "",
+                    "term": "la taza (de indoro)",
+                    "definition": "z\u00e1chodov\u00e1 m\u00edsa\r",
+                    "images": []
+                },
+                "325": {
+                    "id": 325,
+                    "question": "",
+                    "term": "el papel higi\u00e9nico",
+                    "definition": "toaletn\u00ed pap\u00edr\r",
+                    "images": []
+                },
+                "326": {
+                    "id": 326,
+                    "question": "",
+                    "term": "el secador de pelo",
+                    "definition": "f\u00e9n\r",
+                    "images": []
+                },
+                "327": {
+                    "id": 327,
+                    "question": "",
+                    "term": "el secatoallas",
+                    "definition": "koupelnov\u00fd \u017eeb\u0159\u00edk (radi\u00e1tor)\r",
+                    "images": []
+                },
+                "328": {
+                    "id": 328,
+                    "question": "",
+                    "term": "el lavadero",
+                    "definition": "pr\u00e1delna\r",
+                    "images": []
+                },
+                "329": {
+                    "id": 329,
+                    "question": "",
+                    "term": "la lavadora \/ el lavarropas",
+                    "definition": "pra\u010dka\r",
+                    "images": []
+                },
+                "330": {
+                    "id": 330,
+                    "question": "",
+                    "term": "la lavadora con secadora",
+                    "definition": "pra\u010dka se su\u0161i\u010dkou\r",
+                    "images": []
+                },
+                "331": {
+                    "id": 331,
+                    "question": "",
+                    "term": "la escurridora",
+                    "definition": "\u017ed\u00edma\u010dka\r",
+                    "images": []
+                },
+                "332": {
+                    "id": 332,
+                    "question": "",
+                    "term": "remojar la ropa",
+                    "definition": "nam\u00e1\u010det pr\u00e1dlo\r",
+                    "images": []
+                },
+                "333": {
+                    "id": 333,
+                    "question": "",
+                    "term": "prelavar manualmente la ropa",
+                    "definition": "p\u0159edeprat v ruce\r",
+                    "images": []
+                },
+                "334": {
+                    "id": 334,
+                    "question": "",
+                    "term": "enjabonar",
+                    "definition": "mydlit\r",
+                    "images": []
+                },
+                "335": {
+                    "id": 335,
+                    "question": "",
+                    "term": "lavar la ropa",
+                    "definition": "pr\u00e1t pr\u00e1dlo\r",
+                    "images": []
+                },
+                "336": {
+                    "id": 336,
+                    "question": "",
+                    "term": "enjuagar la ropa",
+                    "definition": "m\u00e1chat pr\u00e1dlo\r",
+                    "images": []
+                },
+                "337": {
+                    "id": 337,
+                    "question": "",
+                    "term": "el suavizante",
+                    "definition": "aviv\u00e1\u017e\r",
+                    "images": []
+                },
+                "338": {
+                    "id": 338,
+                    "question": "",
+                    "term": "retorcer \/ escurrir",
+                    "definition": "\u017ed\u00edmat\r",
+                    "images": []
+                },
+                "339": {
+                    "id": 339,
+                    "question": "",
+                    "term": "colgar \/ tender la ropa con pinzas",
+                    "definition": "v\u011b\u0161er pr\u00e1dlo pomoc\u00ed kol\u00ed\u010dk\u016f\r",
+                    "images": []
+                },
+                "340": {
+                    "id": 340,
+                    "question": "",
+                    "term": "los quehaceres dom\u00e9sticos",
+                    "definition": "dom\u00e1c\u00ed pr\u00e1ce\r",
+                    "images": []
+                },
+                "341": {
+                    "id": 341,
+                    "question": "",
+                    "term": "ayudar en la cocina",
+                    "definition": "pom\u00e1hat v kuchyni\r",
+                    "images": []
+                },
+                "342": {
+                    "id": 342,
+                    "question": "",
+                    "term": "cocinar \u2014 preparar la comida",
+                    "definition": "va\u0159it\u2014 p\u0159ipravovat jidlo\r",
+                    "images": []
+                },
+                "343": {
+                    "id": 343,
+                    "question": "",
+                    "term": "hacer la compra",
+                    "definition": "nakoupit\r",
+                    "images": []
+                },
+                "344": {
+                    "id": 344,
+                    "question": "",
+                    "term": "poner la lavadora",
+                    "definition": "pustit pra\u010dku\r",
+                    "images": []
+                },
+                "345": {
+                    "id": 345,
+                    "question": "",
+                    "term": "lavar la ropa",
+                    "definition": "pr\u00e1t pr\u00e1dlo\r",
+                    "images": []
+                },
+                "346": {
+                    "id": 346,
+                    "question": "",
+                    "term": "planchar la ropa",
+                    "definition": "\u017eehlit pr\u00e1dlo\r",
+                    "images": []
+                },
+                "347": {
+                    "id": 347,
+                    "question": "",
+                    "term": "la plancha",
+                    "definition": "\u017eehli\u010dka\r",
+                    "images": []
+                },
+                "348": {
+                    "id": 348,
+                    "question": "",
+                    "term": "la tabla de planchar \/ la mesa de planchar",
+                    "definition": "\u017eehlic\u00ed prkno\r",
+                    "images": []
+                },
+                "349": {
+                    "id": 349,
+                    "question": "",
+                    "term": "limpiar la casa",
+                    "definition": "ukl\u00edzet\r",
+                    "images": []
+                },
+                "350": {
+                    "id": 350,
+                    "question": "",
+                    "term": "hacer la limpieza semanal",
+                    "definition": "d\u011blat t\u00fddenn\u00ed \u00faklid\r",
+                    "images": []
+                },
+                "351": {
+                    "id": 351,
+                    "question": "",
+                    "term": "limpiar los cristales \/ limpiar las ventanas",
+                    "definition": "um\u00fdvat okna\r",
+                    "images": []
+                },
+                "352": {
+                    "id": 352,
+                    "question": "",
+                    "term": "colgar las cortinas",
+                    "definition": "v\u011b\u0161et z\u00e1clony\r",
+                    "images": []
+                },
+                "353": {
+                    "id": 353,
+                    "question": "",
+                    "term": "recoger la basura con escoba y recogedor",
+                    "definition": "zametat smet\u00ed smet\u00e1ckem a lopatkou\r",
+                    "images": []
+                },
+                "354": {
+                    "id": 354,
+                    "question": "",
+                    "term": "sacar la basura",
+                    "definition": "vyn\u00e9st smet\u00ed\r",
+                    "images": []
+                },
+                "355": {
+                    "id": 355,
+                    "question": "",
+                    "term": "barrer con una escoba",
+                    "definition": "zametat smet\u00e1kem\r",
+                    "images": []
+                },
+                "356": {
+                    "id": 356,
+                    "question": "",
+                    "term": "fregar el suelo \/ fregar el piso",
+                    "definition": "vyt\u00edrat podlahu, m\u00fdt podlahu\r",
+                    "images": []
+                },
+                "357": {
+                    "id": 357,
+                    "question": "",
+                    "term": "sacar brillo al mueble \/ abrillantar el mueble",
+                    "definition": "vyle\u0161tit n\u00e1bytek\r",
+                    "images": []
+                },
+                "358": {
+                    "id": 358,
+                    "question": "",
+                    "term": "quitar el polvo",
+                    "definition": "ut\u0159\u00edt prach\r",
+                    "images": []
+                },
+                "359": {
+                    "id": 359,
+                    "question": "",
+                    "term": "sacudir el trapo en el balc\u00f3n",
+                    "definition": "vyt\u0159epat hadr na balkon\u011b\r",
+                    "images": []
+                },
+                "360": {
+                    "id": 360,
+                    "question": "",
+                    "term": "pasar la aspiradora por la alfombra",
+                    "definition": "vys\u00e1t koberec\r",
+                    "images": []
+                },
+                "361": {
+                    "id": 361,
+                    "question": "",
+                    "term": "cortar el c\u00e9sped",
+                    "definition": "posekat tr\u00e1vn\u00edk\r",
+                    "images": []
+                },
+                "362": {
+                    "id": 362,
+                    "question": "",
+                    "term": "limpiar el ba\u00f1o",
+                    "definition": "um\u00fdt koupelnu\r",
+                    "images": []
+                },
+                "363": {
+                    "id": 363,
+                    "question": "",
+                    "term": "ordenar la habitaci\u00f3n",
+                    "definition": "uklidit si v pokoji, uspo\u0159\u00e1dat si v\u011bci v pokoji\r",
+                    "images": []
+                },
+                "364": {
+                    "id": 364,
+                    "question": "",
+                    "term": "limpiar lo que ve la suegra",
+                    "definition": "(hovor.) poklidit jen tak, aby se ne\u0159eklo",
+                    "images": []
+                }
+            },
+            "description": "Bydlen\u00ed",
+            "name": "2. La vivienda",
             "author_id": 1
         }
     ]
