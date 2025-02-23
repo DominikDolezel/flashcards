@@ -52,7 +52,7 @@ setcookie("correct", " ", time() + 86400 * 30, "/");
             if ((int) $c["correct"] == $maximum) {
                 setcookie(
                     "correct",
-                    $_COOKIE["correct"] . "," . $key,
+                    $_COOKIE["correct"] . ", " . $key,
                     time() + 86400 * 30,
                     "/"
                 );

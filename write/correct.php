@@ -64,7 +64,7 @@
 </head>
 <body onmouseover="this.onmouseover = null;responsiveVoice.speak('<?php echo $card[
     "term"
-]; ?>', 'Deutsch Male');">
+]; ?>', 'Spanish Female');">
 <div class="d-flex flex-row bd-highlight">
 <div class="d-flex flex-column p-3 bg-light" style="width: 15%;height:100vh;">
   <div class="d-flex align-items-center justify-content-between mb-3 mb-md-0 me-md-auto link-dark text-decoration-none">

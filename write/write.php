@@ -56,7 +56,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if (vyhodnot((string) $answer, $card["term"])) {
         setcookie(
             "correct",
-            $_COOKIE["correct"] . "," . (string) $card["id"],
+            $_COOKIE["correct"] . ", " . (string) $card["id"],
             time() + 86400 * 30,
             "/"
         ); // 86400 = 1 day
@@ -73,13 +73,13 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     } else {
         setcookie(
             "wrong",
-            $_COOKIE["wrong"] . "," . $card["id"],
+            $_COOKIE["wrong"] . ", " . $card["id"],
             time() + 86400 * 30,
             "/"
         ); // 86400 = 1 day
         setcookie(
             "focus_on",
-            $_COOKIE["focus_on"] . "," . $card["id"],
+            $_COOKIE["focus_on"] . ", " . $card["id"],
             time() + 86400 * 30,
             "/"
         );
